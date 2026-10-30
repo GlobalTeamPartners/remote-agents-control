@@ -39,11 +39,24 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-11",
+          "ts": "2026-10-30T16:29:46.945Z",
+          "login": "@globalplusteam",
+          "full_name": "@globalplusteam",
+          "issue_number": 11,
+          "project": "Фермы контента",
+          "kind": "agent_request",
+          "title": "TIM: Составь исполнительный план монетизации и первых шагов по проекту Фермы контента",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 1,
-      "last_saved_at": "2026-10-30T16:29:10.953Z"
+      "total_count": 2,
+      "last_saved_at": "2026-10-30T16:29:46.946Z"
     }
   },
-  "updated_at": "2026-10-30T16:29:10.953Z"
+  "updated_at": "2026-10-30T16:29:46.946Z"
 }
