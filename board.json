@@ -1,0 +1,3416 @@
+{
+  "version": 1,
+  "cards": {
+    "70": {
+      "id": 70,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtu.be/Hgd1rxrIYGM?is=9vpq9S1p-C8lo_3K learn what he says and let's make a special folder for you to learn from and continue work as Best One for me!",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://youtu.be/Hgd1rxrIYGM?is=9vpq9S1p-C8lo_3K"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #70»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "74": {
+      "id": 74,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtube.com/shorts/6EMZ5GWt0q0?is=W_F2LA0BsHkHfbj_ learn and dothe",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://youtube.com/shorts/6EMZ5GWt0q0?is=W_F2LA0BsHkHfbj_"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #74»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "84": {
+      "id": 84,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtube.com/shorts/hRdxDtdz6RA?is=GJ9t98y5nuWZTIx4 30 skills 4 you to install!",
+      "project": "antigravity",
+      "kind": "link",
+      "urls": [
+        "https://youtube.com/shorts/hRdxDtdz6RA?is=GJ9t98y5nuWZTIx4"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #84»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "102": {
+      "id": 102,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h изучи и примени инструменты и создай план для нас по этим действиям что выгодно для нас и что нам стоит делать",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #102»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "103": {
+      "id": 103,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy изучи детально о чём они говорят в этом видео и создай для нас пошаговый план действий что нам делать в первую очередь",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #103»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "123": {
+      "id": 123,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH what is he talking about learn and tell me how we make millions of dollars as soon as possible!",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH"
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "YouTube требует вход в Google; субтитры недоступны"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #123»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "47": {
+      "id": 47,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://www.instagram.com/p/DeJ53nTAJOd/?img_index=8&dlrf=MTNybjN6Z3F3aTk3ZA== изучи о чём этот репозиторий!",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://www.instagram.com/p/DeJ53nTAJOd/?img_index=8&dlrf=MTNybjN6Z3F3aTk3ZA=="
+      ],
+      "evidence": {
+        "level": "partial",
+        "reason": "прочитана подпись; содержимое слайдов недоступно"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Прислать скриншоты слайдов (текст в карусели — картинки). Подпись поста уже прочитана."
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "67": {
+      "id": 67,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://www.instagram.com/p/DdlzMA8iXG7/?psln=dXFjenR2enBlODU= learn and tell me what repos are they talking about? And how do we implement it to our favor!",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://www.instagram.com/p/DdlzMA8iXG7/?psln=dXFjenR2enBlODU="
+      ],
+      "evidence": {
+        "level": "partial",
+        "reason": "прочитана подпись; содержимое слайдов недоступно"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Прислать скриншоты слайдов (текст в карусели — картинки). Подпись поста уже прочитана."
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "71": {
+      "id": 71,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://www.instagram.com/p/DeBnQdxFCbE/?img_index=4&vrfl=MWszbXZpbG9lYzNwZg== now learn from this slides how do we generat unlimited content on my computer!",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://www.instagram.com/p/DeBnQdxFCbE/?img_index=4&vrfl=MWszbXZpbG9lYzNwZg=="
+      ],
+      "evidence": {
+        "level": "partial",
+        "reason": "прочитана подпись; содержимое слайдов недоступно"
+      },
+      "owner": "human",
+      "status": "not_studied",
+      "next": {
+        "who": "human",
+        "what": "Прислать скриншоты слайдов (текст в карусели — картинки). Подпись поста уже прочитана."
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "77": {
+      "id": 77,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "agent",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS|NT:YouTube|LO:Other-EU&utm_term=177325957810&utm_content=803158585661&ga",
+      "project": "Позновалка",
+      "kind": "link",
+      "urls": [
+        "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS|NT:YouTube|LO:Other-EU&utm_term=177325957810&utm_content=803158585661&gad_source=2&gad_campaignid=22770842092"
+      ],
+      "evidence": {
+        "level": "not_studied",
+        "reason": "timeout при загрузке страницы"
+      },
+      "owner": "agent",
+      "status": "not_studied",
+      "next": {
+        "who": "agent",
+        "what": "Повторить разбор: «🔁 Повторить разбор #77»"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "107": {
+      "id": 107,
+      "created": "2026-10-22 08:18:47",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:47",
+          "from": "gatekeeper",
+          "to": "analyst",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "@sysadminfuture — агент-дайджест группы раз в сутки",
+      "project": "Позновалка",
+      "kind": "task",
+      "urls": [],
+      "evidence": null,
+      "owner": "analyst",
+      "status": "in_progress",
+      "next": {
+        "who": "agent",
+        "what": "Собрать агента-дайджест: 5 пунктов «что важно» + ссылка на источник"
+      },
+      "updated": "2026-10-22 08:18:47"
+    },
+    "109": {
+      "id": 109,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "project_lead",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "Ghost Ghetto Child: переписать оффер по реальным постам (альбом 4 LIFE), свести условия оплаты (15%/30 000 ₽ vs разово/20%)",
+      "project": "Ghost Ghetto Child (Музыка)",
+      "kind": "task",
+      "urls": [],
+      "evidence": null,
+      "owner": "project_lead",
+      "status": "in_progress",
+      "next": {
+        "who": "agent",
+        "what": "Подготовить финальный текст оффера для отправки"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9001": {
+      "id": 9001,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "🔑 Сменить GitHub-токен (старый был в открытом виде в скриптах; теперь вынесен в .office_secrets.json, но его надо перевыпустить)",
+      "project": "Виртуальный Офис",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "GitHub → Settings → Developer settings → fine-grained token; записать в .office_secrets.json"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9002": {
+      "id": 9002,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "🤖 Создать бота в @BotFather для Mini App #1",
+      "project": "12 IT Продуктов (Короче Капитан)",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "30 секунд: /newbot, прислать токен"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9003": {
+      "id": 9003,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "✉️ Отправить 10 КП директорам (Урал)",
+      "project": "Дима Верхняя Синичиха Алапаевск",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "Отправить письма по готовым шаблонам и базе 62 предприятий"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9004": {
+      "id": 9004,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "💬 WhatsApp 5 контактам в Лас-Терренас",
+      "project": "Белый Доминикана",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "Отправить сообщения по готовому питчу"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9005": {
+      "id": 9005,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "💳 Ключи ЮKassa/Prodamus для трипваера 490 ₽",
+      "project": "Alberta",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "Передать API-ключи боту"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "9006": {
+      "id": 9006,
+      "created": "2026-10-22 08:18:48",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:18:48",
+          "from": "gatekeeper",
+          "to": "human",
+          "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        }
+      ],
+      "title": "🎬 Проверить Filmtools со смартфона (с Светланой)",
+      "project": "GlobalFilms (Filmtools)",
+      "kind": "action",
+      "urls": [],
+      "evidence": null,
+      "owner": "human",
+      "status": "blocked_human",
+      "next": {
+        "who": "human",
+        "what": "Открыть https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
+      },
+      "updated": "2026-10-22 08:18:48"
+    },
+    "128": {
+      "id": 128,
+      "created": "2026-10-22 08:20:07",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:20:07",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-22 08:21:09",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174909 ,что по этому пр",
+      "urls": [
+        "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174909"
+      ],
+      "project": "Traffic",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-22 08:21:09"
+    },
+    "127": {
+      "id": 127,
+      "created": "2026-10-22 08:21:27",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:21:27",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-22 08:21:27",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-22 08:21:31",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-22 08:21:59",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 6078
+      },
+      "title": "https://www.pirates-world.de/ study and learn how can we benefit from them!",
+      "urls": [
+        "https://www.pirates-world.de/"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-22 08:22:01",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_127_https___www_pirates_world_de.md",
+      "raw_file": "raw_127_20261022_082127_https___www_pirates_world_de.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #127 → …»"
+      }
+    },
+    "126": {
+      "id": 126,
+      "created": "2026-10-22 08:22:13",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:22:13",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-22 08:22:13",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-22 08:22:18",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-22 08:22:44",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: Личное — обучение и релокация (уверенность high)"
+        },
+        {
+          "t": "2026-10-22 08:22:44",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9169
+      },
+      "title": "https://www.hive.fi/?utm_source=google&utm_medium=cpc&utm_campaign=fall2026_pmax&utm_content=unframed&gad_source=2&gad_campaignid=24242821405 what's the benefits for me if I apply from Russia",
+      "urls": [
+        "https://www.hive.fi/?utm_source=google&utm_medium=cpc&utm_campaign=fall2026_pmax&utm_content=unframed&gad_source=2&gad_campaignid=24242821405"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-22 08:22:46",
+      "suggested_project": "Личное — обучение и релокация",
+      "route": {
+        "confidence": "high",
+        "alternatives": [
+          [
+            "Личное — обучение и релокация",
+            30
+          ]
+        ]
+      },
+      "pending_file": "Карточка_126_https___www_hive_fi__utm_sou.md",
+      "raw_file": "raw_126_20261022_082213_https___www_hive_fi__utm_sou.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #126 → Личное — обучение и релокация» или выбрать другой проект"
+      }
+    },
+    "125": {
+      "id": 125,
+      "created": "2026-10-22 08:22:58",
+      "handoffs": [
+        {
+          "t": "2026-10-22 08:22:58",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-22 08:24:06",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxconv_demandgen&utm_content=828009486204&cc_gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-Thm_Sy67dMRxYYWyTsJHLsKlr14PW6Os",
+      "urls": [
+        "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxconv_demandgen&utm_content=828009486204&cc_gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-Thm_Sy67dMRxYYWyTsJHLsKlr14PW6OsG6yhKWxHr7Zogi7rQ08BRoCVKUQAvD_BwE&gad_source=2&gad_campaignid=24187973224"
+      ],
+      "project": "Grok_xAI_Teammates",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-22 08:24:06"
+    },
+    "129": {
+      "id": 129,
+      "created": "2026-10-23 16:07:19",
+      "handoffs": [
+        {
+          "t": "2026-10-23 16:07:19",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 16:07:19",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-23 16:07:45",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: not_studied (источник не открылся: не удалось получить)"
+        },
+        {
+          "t": "2026-10-23 16:07:45",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "not_studied",
+        "reason": "источник не открылся: не удалось получить",
+        "chars": 162
+      },
+      "title": "https://lnkd.in/p/dTrMf8as learn and tell why is it good for me vladislavtundas LinkedIn",
+      "urls": [
+        "https://lnkd.in/p/dTrMf8as"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-23 16:08:15",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_129_https___lnkd_in_p_dTrMf8as_l.md",
+      "raw_file": "raw_129_20261023_160719_https___lnkd_in_p_dTrMf8as_l.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #129»"
+      }
+    },
+    "130": {
+      "id": 130,
+      "created": "2026-10-23 16:25:13",
+      "handoffs": [
+        {
+          "t": "2026-10-23 16:25:13",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 16:25:46",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:26:02",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:26:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:26:33",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:26:49",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:27:04",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:27:20",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:27:35",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:27:50",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:28:06",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:28:22",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:28:37",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:28:52",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:29:04",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:29:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:29:34",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:30:02",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:30:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:30:33",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:30:43",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:30:59",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:31:14",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:31:30",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:31:41",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:31:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:01",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:27",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:37",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:47",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:32:57",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:33:12",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:33:24",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:33:34",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:33:44",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:33:54",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:34:03",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:34:13",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:34:23",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:34:33",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:34:42",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:05",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:15",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:35",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:45",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:35:55",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:05",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:14",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:24",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:33",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:43",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:36:53",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:04",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:13",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:46",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:37:56",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:06",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:16",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:26",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:46",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:38:55",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:39:06",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:39:15",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:39:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:39:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:39:46",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:18",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:49",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:40:59",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:10",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:20",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:30",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:49",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:41:59",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:09",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:29",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:48",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:42:58",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:43:09",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:43:18",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:43:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:43:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:43:49",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:44:01",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:44:11",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:44:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:26:11",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "PLAN_ACTIONS: Подготовить все материалы для шага: 🧭 Pirates World (#127): Выбрать проект (Unity Inc или Traffic)",
+      "urls": [],
+      "project": "Traffic",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-23 18:26:11",
+      "next": {
+        "who": "agent",
+        "what": "Ошибка обработки: save_to_crm_knowledge_base() got an unexpected keyword argument 'compact'"
+      }
+    },
+    "131": {
+      "id": 131,
+      "created": "2026-10-23 16:44:32",
+      "handoffs": [
+        {
+          "t": "2026-10-23 16:44:32",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 16:44:42",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:44:56",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:45:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:45:54",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:23:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "PLAN_ACTIONS: Подготовить все материалы для шага: 🧭 Pirates World (#127): Выбрать проект (Unity Inc или Traffic)",
+      "urls": [],
+      "project": "Traffic",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-23 18:23:28",
+      "next": {
+        "who": "agent",
+        "what": "Ошибка обработки: save_to_crm_knowledge_base() got an unexpected keyword argument 'compact'"
+      }
+    },
+    "132": {
+      "id": 132,
+      "created": "2026-10-23 16:46:01",
+      "handoffs": [
+        {
+          "t": "2026-10-23 16:46:01",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 16:46:58",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:48:00",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:49:20",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:50:38",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:52:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:53:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:54:37",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:55:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:57:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:58:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:59:07",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 16:59:41",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:00:04",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:00:29",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:01:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:03:24",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:04:04",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:04:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:05:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:06:27",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:08:02",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:08:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:08:53",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:09:16",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:09:38",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:10:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:10:42",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:11:06",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:11:29",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:12:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:12:32",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:13:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:13:46",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:14:09",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:14:34",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:15:02",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:15:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:17:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:20:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:21:11",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:22:16",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:23:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:25:55",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:26:44",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:27:27",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:28:13",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:28:54",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:30:09",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:30:53",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:31:19",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:32:11",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:32:46",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:33:41",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:34:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:35:15",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:35:47",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:36:25",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:36:59",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:37:28",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:38:03",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:38:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:39:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:39:41",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:40:44",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:41:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:41:59",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:42:47",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:43:20",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:44:20",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:48:48",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:49:08",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:49:39",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:50:00",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:50:22",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:51:13",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:51:38",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:52:26",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:52:54",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:53:17",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:54:00",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:54:23",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 17:54:48",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:06:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:07:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:08:21",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:08:51",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:12:36",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:13:41",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "❌ Ошибка обработки"
+        },
+        {
+          "t": "2026-10-23 18:21:27",
+          "from": "gatekeeper",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать систему голосовых ИИ-агентов для продажи B2B клиентам",
+      "urls": [
+        "https://www.altahq.com/lp/ai-calling-agent"
+      ],
+      "project": "Unity Inc",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-23 18:21:27",
+      "next": {
+        "who": "agent",
+        "what": "Ошибка обработки: save_to_crm_knowledge_base() got an unexpected keyword argument 'compact'"
+      }
+    },
+    "134": {
+      "id": 134,
+      "created": "2026-10-23 19:05:51",
+      "handoffs": [
+        {
+          "t": "2026-10-23 19:05:51",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 19:07:15",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "REPORT: Полный отчёт по проектам",
+      "urls": [],
+      "project": "Traffic",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-23 19:07:15"
+    },
+    "133": {
+      "id": 133,
+      "created": "2026-10-23 19:08:42",
+      "handoffs": [
+        {
+          "t": "2026-10-23 19:08:42",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-23 19:09:53",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "[Ответ к #131] /ceo",
+      "urls": [],
+      "project": "Traffic",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-23 19:09:53"
+    },
+    "135": {
+      "id": 135,
+      "created": "2026-10-24 14:58:15",
+      "handoffs": [
+        {
+          "t": "2026-10-24 14:58:15",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-24 14:58:16",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-24 14:58:17",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-24 14:58:43",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: Unity Inc (уверенность medium)"
+        },
+        {
+          "t": "2026-10-24 14:58:43",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9048
+      },
+      "title": "https://aituber.app/ learn study and make the same app for me to sell!",
+      "urls": [
+        "https://aituber.app/"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-24 14:58:45",
+      "suggested_project": "Unity Inc",
+      "route": {
+        "confidence": "medium",
+        "alternatives": [
+          [
+            "Unity Inc",
+            10
+          ]
+        ]
+      },
+      "pending_file": "Карточка_135_https___aituber_app__learn_s.md",
+      "raw_file": "raw_135_20261024_145815_https___aituber_app__learn_s.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #135 → Unity Inc» или выбрать другой проект"
+      }
+    },
+    "136": {
+      "id": 136,
+      "created": "2026-10-24 15:03:16",
+      "handoffs": [
+        {
+          "t": "2026-10-24 15:03:16",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-24 15:03:16",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-24 15:03:33",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-24 15:03:33",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 298
+      },
+      "title": "https://youtube.com/shorts/mjFc8P5no8o?is=r2zw2yXqiOFp_rE- study and learn how we make money next week for sure I can invest my time to help you.",
+      "urls": [
+        "https://youtube.com/shorts/mjFc8P5no8o?is=r2zw2yXqiOFp_rE-"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-24 15:03:35",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_136_https___youtube_com_shorts_m.md",
+      "raw_file": "raw_136_20261024_150316_https___youtube_com_shorts_m.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #136»"
+      }
+    },
+    "140": {
+      "id": 140,
+      "created": "2026-10-25 08:34:42",
+      "handoffs": [
+        {
+          "t": "2026-10-25 08:34:42",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 08:34:42",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 08:34:46",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 08:35:11",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9218
+      },
+      "title": "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_content=ds01&gad_source=2&gad_campaignid=24347188520 изучи сай",
+      "urls": [
+        "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_content=ds01&gad_source=2&gad_campaignid=24347188520"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-25 08:35:13",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_140_https___univerus_ai_lp_dohod.md",
+      "raw_file": "raw_140_20261025_083442_https___univerus_ai_lp_dohod.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #140 → …»"
+      }
+    },
+    "139": {
+      "id": 139,
+      "created": "2026-10-25 08:35:28",
+      "handoffs": [
+        {
+          "t": "2026-10-25 08:35:28",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 08:35:28",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 08:35:45",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-25 08:35:45",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 346
+      },
+      "title": "https://youtube.com/shorts/ELsXhePjBxI?is=owO7SftLb1t-keGE graphics is the same as we use obsidian what's the difference?",
+      "urls": [
+        "https://youtube.com/shorts/ELsXhePjBxI?is=owO7SftLb1t-keGE"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-25 08:35:47",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_139_https___youtube_com_shorts_E.md",
+      "raw_file": "raw_139_20261025_083528_https___youtube_com_shorts_E.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #139»"
+      }
+    },
+    "138": {
+      "id": 138,
+      "created": "2026-10-25 08:35:58",
+      "handoffs": [
+        {
+          "t": "2026-10-25 08:35:58",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 08:35:58",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 08:36:07",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 08:36:19",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: Unity Inc (уверенность medium)"
+        },
+        {
+          "t": "2026-10-25 08:36:19",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 6768
+      },
+      "title": "https://info.fisherinvestments.com/en-ca/campaigns/dgri/1m?PC=FACCCAEA99&CC=0FKX&fbclid=IwdGRjcAVKEihleHRuA2FlbQEwAHBkb2YFYWRpZAAAL9DMy-hjc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeGIJ47jgk11JTWJ8KVTEJdE4bJ6",
+      "urls": [
+        "https://info.fisherinvestments.com/en-ca/campaigns/dgri/1m?PC=FACCCAEA99&CC=0FKX&fbclid=IwdGRjcAVKEihleHRuA2FlbQEwAHBkb2YFYWRpZAAAL9DMy-hjc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeGIJ47jgk11JTWJ8KVTEJdE4bJ6Q5iv4h6XzoYegBm5Y4OKUDr6GI594_DFQ_aem_mGFFchZi5vCAuSa6xLHRcQ&utm_medium=paid&utm_source=fb&utm_id=52573831505003&utm_content=52573831937403&utm_term=52573831509203&utm_campaign=52573831505003"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-25 08:36:21",
+      "suggested_project": "Unity Inc",
+      "route": {
+        "confidence": "medium",
+        "alternatives": [
+          [
+            "Unity Inc",
+            10
+          ]
+        ]
+      },
+      "pending_file": "Карточка_138_https___info_fisherinvestmen.md",
+      "raw_file": "raw_138_20261025_083558_https___info_fisherinvestmen.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #138 → Unity Inc» или выбрать другой проект"
+      }
+    },
+    "137": {
+      "id": 137,
+      "created": "2026-10-25 08:36:33",
+      "handoffs": [
+        {
+          "t": "2026-10-25 08:36:33",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 08:36:33",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 08:36:46",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-25 08:36:46",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 310
+      },
+      "title": "https://youtube.com/shorts/L_KAd2sl9RY?is=9tJYjcsCoAJ0HRKJ learn from every tool how can we use it for our needs.",
+      "urls": [
+        "https://youtube.com/shorts/L_KAd2sl9RY?is=9tJYjcsCoAJ0HRKJ"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-25 08:36:48",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_137_https___youtube_com_shorts_L.md",
+      "raw_file": "raw_137_20261025_083633_https___youtube_com_shorts_L.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #137»"
+      }
+    },
+    "141": {
+      "id": 141,
+      "created": "2026-10-25 15:55:06",
+      "handoffs": [
+        {
+          "t": "2026-10-25 15:55:06",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 15:55:06",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 15:55:07",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 15:55:34",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: AI Skills & Nobel Stabilization (уверенность medium)"
+        },
+        {
+          "t": "2026-10-25 15:55:34",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9309
+      },
+      "title": "https://pivexfunded.com/dynamic?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24389595055&utm_adgroupid=204103486929&utm_ad=828897820683&utm_type=demgen&utm_acc=3067916666&gad_source=2&gad",
+      "urls": [
+        "https://pivexfunded.com/dynamic?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24389595055&utm_adgroupid=204103486929&utm_ad=828897820683&utm_type=demgen&utm_acc=3067916666&gad_source=2&gad_campaignid=24389595055&pivex_attribution_id=160bdb76-9bc5-47bd-8a4e-92f9faff5f5b"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-25 15:55:37",
+      "suggested_project": "AI Skills & Nobel Stabilization",
+      "route": {
+        "confidence": "medium",
+        "alternatives": [
+          [
+            "AI Skills & Nobel Stabilization",
+            8
+          ]
+        ]
+      },
+      "pending_file": "Карточка_141_https___pivexfunded_com_dyna.md",
+      "raw_file": "raw_141_20261025_155506_https___pivexfunded_com_dyna.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #141 → AI Skills & Nobel Stabilization» или выбрать другой проект"
+      }
+    },
+    "142": {
+      "id": 142,
+      "created": "2026-10-25 16:55:32",
+      "handoffs": [
+        {
+          "t": "2026-10-25 16:55:32",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 16:56:21",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm",
+      "urls": [
+        "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662"
+      ],
+      "project": "Thought/Мысль",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-25 16:56:21"
+    },
+    "143": {
+      "id": 143,
+      "created": "2026-10-25 17:09:10",
+      "handoffs": [
+        {
+          "t": "2026-10-25 17:09:10",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 17:09:10",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 17:09:11",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 17:09:41",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9385
+      },
+      "title": "https://www.abacum.ai/?utm_feeditemid=&utm_device=m&utm_term=&utm_source=google&utm_medium=paid-search&utm_campaign=PPC+%7C+Search+%7C+Brand+%7C+All+Tiers&utm_id=23948512289&hsa_cam=23948512289&hsa_gr",
+      "urls": [
+        "https://www.abacum.ai/?utm_feeditemid=&utm_device=m&utm_term=&utm_source=google&utm_medium=paid-search&utm_campaign=PPC+%7C+Search+%7C+Brand+%7C+All+Tiers&utm_id=23948512289&hsa_cam=23948512289&hsa_grp=202721028652&hsa_mt=&hsa_src=ytis&hsa_ad=813145101976&hsa_acc=7387612031&hsa_net=adwords&hsa_kw=&hsa_tgt=&hsa_ver=3&gad_source=2&gad_campaignid=23948512289"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-25 17:09:43",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_143_https___www_abacum_ai__utm_f.md",
+      "raw_file": "raw_143_20261025_170910_https___www_abacum_ai__utm_f.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #143 → …»"
+      }
+    },
+    "144": {
+      "id": 144,
+      "created": "2026-10-25 17:14:35",
+      "handoffs": [
+        {
+          "t": "2026-10-25 17:14:35",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 17:14:35",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 17:14:36",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 17:15:04",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9210
+      },
+      "title": "https://onapsis.com/sap-cybersecurity/?utm_source=google&utm_medium=cpc&utm_campaign=Demand_Gen_Retargeting&utm_content=793174376294&utm_term=&gad_source=2&gad_campaignid=23468575625 what are they sel",
+      "urls": [
+        "https://onapsis.com/sap-cybersecurity/?utm_source=google&utm_medium=cpc&utm_campaign=Demand_Gen_Retargeting&utm_content=793174376294&utm_term=&gad_source=2&gad_campaignid=23468575625"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-25 17:15:07",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_144_https___onapsis_com_sap_cybe.md",
+      "raw_file": "raw_144_20261025_171435_https___onapsis_com_sap_cybe.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #144 → …»"
+      }
+    },
+    "145": {
+      "id": 145,
+      "created": "2026-10-25 18:27:08",
+      "handoffs": [
+        {
+          "t": "2026-10-25 18:27:08",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 18:27:13",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "CREATE_FOLDER: СтадиБук",
+      "urls": [],
+      "project": "СтадиБук",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-25 18:27:13"
+    },
+    "146": {
+      "id": 146,
+      "created": "2026-10-25 18:30:32",
+      "handoffs": [
+        {
+          "t": "2026-10-25 18:30:32",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-25 18:30:32",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-25 18:30:39",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-25 18:31:04",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 9087
+      },
+      "title": "https://delvi.tech/?gad_source=2&gad_campaignid=23878973489 изучи проект научись сделай такой проект прибыльным для меня!",
+      "urls": [
+        "https://delvi.tech/?gad_source=2&gad_campaignid=23878973489"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-25 18:31:06",
+      "suggested_project": "Белый Доминикана",
+      "route": {
+        "confidence": "low",
+        "alternatives": [
+          [
+            "Белый Доминикана",
+            6
+          ]
+        ]
+      },
+      "pending_file": "Карточка_146_https___delvi_tech__gad_sour.md",
+      "raw_file": "raw_146_20261025_183032_https___delvi_tech__gad_sour.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #146 → …»"
+      }
+    },
+    "149": {
+      "id": 149,
+      "created": "2026-10-26 11:08:41",
+      "handoffs": [
+        {
+          "t": "2026-10-26 11:08:41",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-26 11:08:41",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-26 11:09:13",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-26 11:09:13",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 343
+      },
+      "title": "https://youtube.com/shorts/n224C0yfK9c?is=b_G0-dBrGSTehbJz изучи что за замена гит которая называется сайте scion?",
+      "urls": [
+        "https://youtube.com/shorts/n224C0yfK9c?is=b_G0-dBrGSTehbJz"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-26 11:09:17",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_149_https___youtube_com_shorts_n.md",
+      "raw_file": "raw_149_20261026_110841_https___youtube_com_shorts_n.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #149»"
+      }
+    },
+    "148": {
+      "id": 148,
+      "created": "2026-10-26 11:09:48",
+      "handoffs": [
+        {
+          "t": "2026-10-26 11:09:48",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-26 11:09:48",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-26 11:10:12",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-26 11:10:12",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 343
+      },
+      "title": "https://youtube.com/shorts/n224C0yfK9c?is=b_G0-dBrGSTehbJz изучи что за замена гит которая называется сайте scion?",
+      "urls": [
+        "https://youtube.com/shorts/n224C0yfK9c?is=b_G0-dBrGSTehbJz"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-26 11:10:16",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_148_https___youtube_com_shorts_n.md",
+      "raw_file": "raw_148_20261026_110948_https___youtube_com_shorts_n.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #148»"
+      }
+    },
+    "147": {
+      "id": 147,
+      "created": "2026-10-26 11:10:48",
+      "handoffs": [
+        {
+          "t": "2026-10-26 11:10:48",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-26 11:10:48",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-26 11:10:54",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-26 11:11:17",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 2298
+      },
+      "title": "https://www.customaistore.com/launch?v=803&gc_id=24312469597&h_ad_id=826526575099&utm_source=YouTube&utm_medium=paid&utm_term=TM&utm_campaignid=24312469597&utm_adsetid=200338473563&utm_adid=8265265750",
+      "urls": [
+        "https://www.customaistore.com/launch?v=803&gc_id=24312469597&h_ad_id=826526575099&utm_source=YouTube&utm_medium=paid&utm_term=TM&utm_campaignid=24312469597&utm_adsetid=200338473563&utm_adid=826526575099&utm_placement=youtube.com&gad_source=2&gad_campaignid=24312469597"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-26 11:11:20",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_147_https___www_customaistore_co.md",
+      "raw_file": "raw_147_20261026_111048_https___www_customaistore_co.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #147 → …»"
+      }
+    },
+    "155": {
+      "id": 155,
+      "created": "2026-10-28 06:58:06",
+      "handoffs": [
+        {
+          "t": "2026-10-28 06:58:06",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 06:58:06",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 06:58:09",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-28 06:58:14",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: Grok_xAI_Teammates (уверенность medium)"
+        },
+        {
+          "t": "2026-10-28 06:58:14",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 812
+      },
+      "title": "https://www.instagram.com/p/DewzZZsiYfW/?img_index=4&xtok=MW5naXlpZ2Q3eDg2NA== learn and tell me whats they MVP for they project",
+      "urls": [
+        "https://www.instagram.com/p/DewzZZsiYfW/?img_index=4&xtok=MW5naXlpZ2Q3eDg2NA=="
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-28 06:58:18",
+      "suggested_project": "Grok_xAI_Teammates",
+      "route": {
+        "confidence": "medium",
+        "alternatives": [
+          [
+            "Grok_xAI_Teammates",
+            8
+          ]
+        ]
+      },
+      "pending_file": "Карточка_155_https___www_instagram_com_p.md",
+      "raw_file": "raw_155_20261028_065806_https___www_instagram_com_p.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #155 → Grok_xAI_Teammates» или выбрать другой проект"
+      }
+    },
+    "154": {
+      "id": 154,
+      "created": "2026-10-28 06:58:31",
+      "handoffs": [
+        {
+          "t": "2026-10-28 06:58:31",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 06:58:31",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 06:58:31",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-28 06:58:37",
+          "from": "router",
+          "to": "analyst",
+          "note": "Проект: Личное — обучение и релокация (уверенность medium)"
+        },
+        {
+          "t": "2026-10-28 06:58:37",
+          "from": "analyst",
+          "to": "human",
+          "note": "Предложение готово — ждёт утверждения"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 0
+      },
+      "title": "🌟 Скилл для ИИ соберёт ваше древо до седьмого колена  В сети появился скилл, который строит полное генеалогическое древо по тысячам источников с территории бывшего СССР: Россия, Украина, Беларусь, стр",
+      "urls": [],
+      "project": "Входящие_Офис",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "human",
+      "status": "awaiting_approval",
+      "updated": "2026-10-28 06:58:41",
+      "suggested_project": "Личное — обучение и релокация",
+      "route": {
+        "confidence": "medium",
+        "alternatives": [
+          [
+            "Личное — обучение и релокация",
+            14
+          ]
+        ]
+      },
+      "pending_file": "Карточка_154_Скилл_для_ИИ_собер_т_ваше.md",
+      "raw_file": "raw_154_20261028_065831_Скилл_для_ИИ_собер_т_ваше.md",
+      "next": {
+        "who": "human",
+        "what": "«✅ Утверждаю #154 → Личное — обучение и релокация» или выбрать другой проект"
+      }
+    },
+    "153": {
+      "id": 153,
+      "created": "2026-10-28 06:59:12",
+      "handoffs": [
+        {
+          "t": "2026-10-28 06:59:12",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 06:59:12",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 06:59:13",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: not_studied (источник не открылся: не удалось получить)"
+        },
+        {
+          "t": "2026-10-28 06:59:13",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "not_studied",
+        "reason": "источник не открылся: не удалось получить",
+        "chars": 170
+      },
+      "title": "https://www.instagram.com/intermiamibuzz пример бизнеса в автоматическом режиме",
+      "urls": [
+        "https://www.instagram.com/intermiamibuzz"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-28 06:59:16",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_153_https___www_instagram_com_in.md",
+      "raw_file": "raw_153_20261028_065912_https___www_instagram_com_in.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #153»"
+      }
+    },
+    "152": {
+      "id": 152,
+      "created": "2026-10-28 06:59:31",
+      "handoffs": [
+        {
+          "t": "2026-10-28 06:59:31",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 06:59:31",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 06:59:56",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: title_only (известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google))"
+        },
+        {
+          "t": "2026-10-28 06:59:56",
+          "from": "router",
+          "to": "human",
+          "note": "Источник недоступен — нужна помощь человека"
+        }
+      ],
+      "evidence": {
+        "level": "title_only",
+        "reason": "известны только название и автор видео; субтитры недоступны (YouTube требует вход в Google)",
+        "chars": 315
+      },
+      "title": "What is sharktank https://youtube.com/shorts/PFO3cJzIFfc?is=LxhnjobZoOElyVH2 What is he talking about?",
+      "urls": [
+        "https://youtube.com/shorts/PFO3cJzIFfc?is=LxhnjobZoOElyVH2"
+      ],
+      "project": "Входящие_Офис",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "human",
+      "status": "not_studied",
+      "updated": "2026-10-28 06:59:59",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_152_What_is_sharktank_https___yo.md",
+      "raw_file": "raw_152_20261028_065931_What_is_sharktank_https___yo.md",
+      "next": {
+        "who": "human",
+        "what": "Прислать текст/скриншоты или войти в аккаунт; затем «🔁 Повторить разбор #152»"
+      }
+    },
+    "151": {
+      "id": 151,
+      "created": "2026-10-28 07:00:13",
+      "handoffs": [
+        {
+          "t": "2026-10-28 07:00:13",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 07:00:13",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 07:00:14",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-28 07:00:38",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 0
+      },
+      "title": "⚡️ Сэм Альтман устроил ПОДГОН — OpenAI дропнула модель GPT-6.1 Terra.  Теперь втрое быстрее справляется с задачами на компе, умеет заполнять формы, монтировать и собирать 3D-модели по чертежам.  Terra",
+      "urls": [],
+      "project": "Входящие_Офис",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-28 07:00:44",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_151_Сэм_Альтман_устроил_ПОДГО.md",
+      "raw_file": "raw_151_20261028_070013_Сэм_Альтман_устроил_ПОДГО.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #151 → …»"
+      }
+    },
+    "150": {
+      "id": 150,
+      "created": "2026-10-28 07:00:57",
+      "handoffs": [
+        {
+          "t": "2026-10-28 07:00:57",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 07:00:57",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-28 07:00:58",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-28 07:01:20",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 0
+      },
+      "title": "Anthropic выпустила новый ГАЙД по ИИ-агентам — в этот раз рассказали про субагентов и сокращение затрат.  Особенно полезно тем, кто разрабатывает агентов на Claude Platform. В гайде поделились лучшими",
+      "urls": [],
+      "project": "Входящие_Офис",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-28 07:01:23",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_150_Anthropic_выпустила_новый_ГА.md",
+      "raw_file": "raw_150_20261028_070057_Anthropic_выпустила_новый_ГА.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #150 → …»"
+      }
+    },
+    "156": {
+      "id": 156,
+      "created": "2026-10-28 07:51:57",
+      "handoffs": [
+        {
+          "t": "2026-10-28 07:51:57",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-28 07:53:09",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "/strategy",
+      "urls": [],
+      "project": "Позновалка",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-28 07:53:09"
+    },
+    "157": {
+      "id": 157,
+      "created": "2026-10-29 08:07:14",
+      "handoffs": [
+        {
+          "t": "2026-10-29 08:07:14",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-29 08:07:14",
+          "from": "intake",
+          "to": "researcher",
+          "note": "Открываю источники и читаю текст"
+        },
+        {
+          "t": "2026-10-29 08:07:14",
+          "from": "researcher",
+          "to": "router",
+          "note": "Доказательства: studied"
+        },
+        {
+          "t": "2026-10-29 08:07:31",
+          "from": "router",
+          "to": "human",
+          "note": "Уверенность маршрутизации низкая — нужен выбор проекта"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": "",
+        "chars": 0
+      },
+      "title": "Hope anything app learn about it and let's make the same for us!!!!",
+      "urls": [],
+      "project": "Входящие_Офис",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "human",
+      "status": "need_project",
+      "updated": "2026-10-29 08:07:40",
+      "suggested_project": null,
+      "route": {
+        "confidence": "none",
+        "alternatives": []
+      },
+      "pending_file": "Карточка_157_Hope_anything_app_learn_abou.md",
+      "raw_file": "raw_157_20261029_080714_Hope_anything_app_learn_abou.md",
+      "next": {
+        "who": "human",
+        "what": "Выбрать проект кнопкой «✅ Утверждаю #157 → …»"
+      }
+    },
+    "158": {
+      "id": 158,
+      "created": "2026-10-29 18:53:06",
+      "handoffs": [
+        {
+          "t": "2026-10-29 18:53:06",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-29 18:53:31",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "TIM: Автономный E2E-тест v18: запусти связку Бесплатный AI-Магазин за 15 мин (#147) и TMA Vibe-конструктор (#157) с расчётом CPA и подписки",
+      "urls": [],
+      "project": "12 IT Продуктов (Короче Капитан)",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-29 18:53:31"
+    },
+    "159": {
+      "id": 159,
+      "created": "2026-10-29 20:11:53",
+      "handoffs": [
+        {
+          "t": "2026-10-29 20:11:53",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-29 20:12:19",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "📷 Изучить скриншот тарифа Mini App Pro и текст воронки",
+      "urls": [
+        "https://raw.githubusercontent.com/unityspirit/remote-agents-control/data/uploads/12_it_produktov/1793326294_1.jpg"
+      ],
+      "project": "12 IT Продуктов (Короче Капитан)",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-29 20:12:19",
+      "image_urls": [
+        "https://raw.githubusercontent.com/unityspirit/remote-agents-control/data/uploads/12_it_produktov/1793326294_1.jpg"
+      ],
+      "has_study_notes": true
+    },
+    "160": {
+      "id": 160,
+      "created": "2026-10-29 21:18:23",
+      "handoffs": [
+        {
+          "t": "2026-10-29 21:18:23",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-29 21:19:12",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "Отдельный сайт квеста «СЕКТА» в открытых источниках я не обнаружил. Сейчас проект представлен через [Instagram @quest_ptg](https://www.instagram.com/quest_ptg/), [Ta",
+      "urls": [
+        "https://www.instagram.com/quest_ptg/",
+        "https://taplink.cc/httpswww.instagram.comques",
+        "https://t.me/Secta_quest_bot"
+      ],
+      "project": "GlobalFilms (Filmtools)",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-29 21:19:12"
+    },
+    "161": {
+      "id": 161,
+      "created": "2026-10-29 23:37:19",
+      "handoffs": [
+        {
+          "t": "2026-10-29 23:37:19",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-29 23:37:28",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "AUTH_SYNC: Быстрая заявка REQ-607209 (@true1team / @true1team)",
+      "urls": [],
+      "project": "Входящие_Офис",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-29 23:37:28"
+    },
+    "162": {
+      "id": 162,
+      "created": "2026-10-30 00:04:45",
+      "handoffs": [
+        {
+          "t": "2026-10-30 00:04:45",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-10-30 00:09:20",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        }
+      ],
+      "evidence": null,
+      "title": "TIM: Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
+      "urls": [],
+      "project": "Дима Верхняя Синичиха Алапаевск",
+      "kind": "command",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-10-30 00:09:20"
+    }
+  }
+}
