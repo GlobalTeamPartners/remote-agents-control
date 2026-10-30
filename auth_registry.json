@@ -124,7 +124,7 @@
       "full_name": "@adevargos",
       "telegram": "@adevargos",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "89f1622270d7e2a58e006c98dfead64e",
       "pbkdf2_hash": "b983c9492f894aba5099b4fca65358fed4efb76e65747b908240239a2c2d75e2",
       "iterations": 120000,
@@ -136,7 +136,9 @@
       "assigned_projects": [],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-10-30T13:40:52.931Z"
+      "created_at": "2026-10-30T13:40:52.931Z",
+      "approved_at": "2026-10-30T17:46:11.183Z",
+      "owner_action_stamp": "own-1793382371183"
     },
     {
       "id": "REQ-388120",
