@@ -5,13 +5,23 @@
   "approver_telegram_url": "https://t.me/unityspiritpartners",
   "public_key_spki_b64": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx9NGO3o0wblsEueBza4vy5JlP7FyGHYCYu8MjJEEsmZCyHAg+0g8kY+7Xh2u9oBApksvaR19epwBOW9tKmTcj+sZ9/iDZFQETRyzF0dEOfwsmPLlnp6T9h+sCSpi77E1gksqrlkAQu2GrwsqRsUv4Oxz+0fowge00kxJ7QiJP/WfRswT2cprW5x9KD6bEeHdNB5BK6iH86kHlfqy+60iyOat9Ia8ExuJzAtnczwkIrJl13NPnsFf9Jkv0bkCj323T1ItbRjCr51WVYIK3fy1AjQ/87IBmEPwKPPpkIzMW+y5PBoIFJTeDSGcM36Bifp9UHAiQM/PQ/lOv5HasYO1jQIDAQAB",
   "family9": {
-    "configured": false,
+    "configured": true,
     "required_count": 9,
-    "salt_hex": "",
-    "vault_salt_hex": "",
+    "salt_hex": "6c47fac737dad0dde7175575e503436a",
+    "vault_salt_hex": "29d983ff820d241dee1b1a46c13cfcda",
     "name_iter": 100000,
     "vault_iter": 200000,
-    "name_hashes": []
+    "name_hashes": [
+      "1066e8424dee9eb6bce825a6e0271609551a19e67bd49d7179909a9a517a0d2a",
+      "14f8de9d792d5f2b6226964320ac760359820895543b3411e00cabbae9860dbd",
+      "19974a35a99e4ccbcf2cee0ed6851f2bfc2535cfc077a2035923971b6d9f63ae",
+      "273bf625db39e4195f036aceb48d42e5a14c35c0d9d5fa8134912b78f89880b1",
+      "86a7d7a268113bd5c43fcc89252323fcaf368fe3d21f135a344daff0ea00ebe5",
+      "88c5d53abb7e5a0068db9c94671fb7518d05d8150dda334890de45e11c2eb25c",
+      "9f0fb9916753da44022a1ee12c8c685a6675647a36ce171c90d7f1f9cf7b3ea8",
+      "d7b8cd251c3a092336b475b73f7b791a59b7ad79e44887640f68278bd4f600b6",
+      "e87b1bb6c0ab4a94ec9744a1288212d412289d20a9212e5bc229f62db9d605bd"
+    ]
   },
   "users": [
     {
