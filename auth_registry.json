@@ -93,7 +93,27 @@
       "gta_completed": false,
       "gta_archetype": "",
       "created_at": "2026-10-30T09:30:10.711Z"
+    },
+    {
+      "id": "REQ-652931",
+      "login": "@adevargos",
+      "full_name": "@adevargos",
+      "telegram": "@adevargos",
+      "role": "member",
+      "status": "pending",
+      "salt_hex": "89f1622270d7e2a58e006c98dfead64e",
+      "pbkdf2_hash": "b983c9492f894aba5099b4fca65358fed4efb76e65747b908240239a2c2d75e2",
+      "iterations": 120000,
+      "rsa_envelope": {
+        "ek": "iISN7bvRn6yE7DUA7XQChCIZKFX4dStuzuv4Mqj6hAPcALEn7b28NXvShlUgshh+/jYs+YgKwzF5/qr4JAqMNi2JhVYLtJMfhOboq5pXDCLjYTzQkk4r8R2MCYRVSFAdwUqE9wl6WdcuujyvzhATprJPGDNoleQYxF7TUMh4Nog8pl8wJtfGNkzsihj9VN6jL/Kfv5c1ZKTw4661bB6tlX+D3MXfyZ3Gojy/47G46WBWldyej0LEEfQKM7jsP1e+7k9qnIiCrGU4ba48ajMYzrq5J5tLucnbVpWVPhVmv7oafI/2F758P+IF4obA09LTqp5NgfxeGVCJPGqAysTgOg==",
+        "iv": "RcvvXre6LpJYy1P7",
+        "ct": "D+657No3ooHne+gf2wWajUcY02/wvbORgtCuBFXlkWy+y5SOMD0Bx3qMeaNkCKAicB+5h6Ly5bkOK3sMcJKOpniCSu7KPCbyqw8cTb/xlgz+S+Iae9BerjEqBL1xGmpS/StYN2y55pDJzKrIrvuwYlBnvxVeX5OCKfMyvwxpotccomEqLQa56NeySKbdLDeGCDqAetYxZg=="
+      },
+      "assigned_projects": [],
+      "gta_completed": false,
+      "gta_archetype": "",
+      "created_at": "2026-10-30T13:40:52.931Z"
     }
   ],
-  "updated_at": "2026-10-30T09:30:10.711Z"
+  "updated_at": "2026-10-30T13:40:52.931Z"
 }
