@@ -77,7 +77,28 @@
       ],
       "total_count": 1,
       "last_saved_at": "2026-10-30T17:03:21.678Z"
+    },
+    "unityspiritpartners": {
+      "login": "unityspiritpartners",
+      "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+      "items": [
+        {
+          "id": "iss-15",
+          "ts": "2026-10-30T19:24:33.145Z",
+          "login": "unityspiritpartners",
+          "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+          "issue_number": 15,
+          "project": "Unity Inc",
+          "kind": "agent_request",
+          "title": "TIM: Упакуй продающий 1-страничный оффер B2B AI-Аудита Unity Inc / Global Plus по модели JoinTECH и список первых 10 компаний для аутрича",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
+        }
+      ],
+      "total_count": 1,
+      "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-10-30T17:03:21.678Z"
+  "updated_at": "2026-10-30T19:24:33.145Z"
 }
