@@ -196,8 +196,8 @@
       "assigned_projects": [
         "*"
       ],
-      "gta_completed": false,
-      "gta_archetype": "",
+      "gta_completed": true,
+      "gta_archetype": "💼 Капо Крупных Сделок (B2B Deal Closer)",
       "created_at": "2026-10-30T16:23:02.737Z",
       "approved_at": "2026-10-30T16:25:53.973549Z",
       "owner_action_stamp": "tg-bot-btn-1793399153"
