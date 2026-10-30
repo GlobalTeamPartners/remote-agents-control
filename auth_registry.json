@@ -100,7 +100,7 @@
       "full_name": "Plus",
       "telegram": "@gmail",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "7874b29e4b5d092f73a0cf1d4cb4103b",
       "pbkdf2_hash": "b419899f54fd5cdadf261fd2e05690df0a390193a521a71d1d6756da93d11cac",
       "iterations": 120000,
@@ -109,10 +109,14 @@
         "iv": "APOYpwZwOhRMDJi2",
         "ct": "3QDOILGV6wmL/lfQL5bNIGEV/dGC/6W4A0f/mvJWKKtCE4nFYhI9xohsyPiUhKY0Jitf9nTre4hJd2rkCv1lYSMNEob8rLxycY9Jj0O3bTX+AN2hU60Gq8Vkcy3ed3V/0P+BQ09fSNiT16yQyQIxJTk2LPmYBoyFL1qfvphBazh1ITSxiCchOUII66au2zORq18QRHjKbbwo"
       },
-      "assigned_projects": [],
+      "assigned_projects": [
+        "*"
+      ],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-10-30T09:30:10.711Z"
+      "created_at": "2026-10-30T09:30:10.711Z",
+      "approved_at": "2026-10-30T16:25:45.214358Z",
+      "owner_action_stamp": "tg-bot-btn-1793399145"
     },
     {
       "id": "REQ-652931",
