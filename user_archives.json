@@ -22,7 +22,28 @@
       ],
       "total_count": 1,
       "last_saved_at": "2026-10-30T06:04:36.012Z"
+    },
+    "@globalplusteam": {
+      "login": "@globalplusteam",
+      "full_name": "@globalplusteam",
+      "items": [
+        {
+          "id": "iss-10",
+          "ts": "2026-10-30T16:29:10.953Z",
+          "login": "@globalplusteam",
+          "full_name": "@globalplusteam",
+          "issue_number": 10,
+          "project": "Фермы контента",
+          "kind": "agent_request",
+          "title": "RESEARCH_MORE: Фермы контента рынок конкуренты кейсы монетизации 2026",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
+        }
+      ],
+      "total_count": 1,
+      "last_saved_at": "2026-10-30T16:29:10.953Z"
     }
   },
-  "updated_at": "2026-10-30T06:09:20.808072+00:00"
+  "updated_at": "2026-10-30T16:29:10.953Z"
 }
