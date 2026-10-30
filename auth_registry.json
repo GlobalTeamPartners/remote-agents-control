@@ -170,7 +170,7 @@
       "full_name": "@codeplz",
       "telegram": "@codeplz",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "cea30c433c122bf49d1979b0953442e8",
       "pbkdf2_hash": "5baa3febbba00c43a4e9a82efa40fb8d925346826a1f7cd98a63ec6141b1df64",
       "iterations": 120000,
@@ -182,7 +182,9 @@
       "assigned_projects": [],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-10-30T16:00:15.916Z"
+      "created_at": "2026-10-30T16:00:15.916Z",
+      "approved_at": "2026-10-30T17:52:45.005Z",
+      "owner_action_stamp": "own-1793382765005"
     },
     {
       "id": "REQ-382737",
