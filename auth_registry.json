@@ -133,7 +133,27 @@
       "gta_completed": false,
       "gta_archetype": "",
       "created_at": "2026-10-30T13:53:08.120Z"
+    },
+    {
+      "id": "REQ-015916",
+      "login": "@codeplz",
+      "full_name": "@codeplz",
+      "telegram": "@codeplz",
+      "role": "member",
+      "status": "pending",
+      "salt_hex": "cea30c433c122bf49d1979b0953442e8",
+      "pbkdf2_hash": "5baa3febbba00c43a4e9a82efa40fb8d925346826a1f7cd98a63ec6141b1df64",
+      "iterations": 120000,
+      "rsa_envelope": {
+        "ek": "jAqXCvKCi9THr4Csif3AjKWJqqEasD6FV/Tyr7A5f4CbhUqBKw6dmgCNHlfW9EVQ+RKl1O3/fSPrFLK9hWMCt1Muwl9XNyCFUmcnj2lTGSaX4D3r6emjPg4NOFnMvsqFfk27qXMpjmRCR/bCn1yZ/I3txT2UZoDoEkc0fS62DfZHr0fR/jisMSPyKf5hSHtlmpNzob+K76P43eDJ8gokThj4teBlkb6k9nb9k2ITsjjy9rlUuY2FUaxp9Crux2t2WZJCaqa+Wvq5WVE80H8iVM8kft47bOvWWzvs/oUhjctThpCrWS24O9uo4q6Mijqoqixs7Hw9vjzbR33OrWbgBw==",
+        "iv": "LQ3m7o1Y2zLZUsVO",
+        "ct": "sSKM8bnpNDCUEqT+T5G0Fs2qZUFc34ZyY9zXRjrHJ+9F+RDrrDUGaqn6IW/OndFQjO7oj7efmwIH4qFHbvQsfJ9dcbQ1QUet3UNtds2FdrZ2yQtED7guy8VShzjybwS/uWG0RLVMd29psxvzQZZ7qRiFD6XX2Ybbrlj5jkfCQ4lradUUeuC95y8ukJ7I/DA="
+      },
+      "assigned_projects": [],
+      "gta_completed": false,
+      "gta_archetype": "",
+      "created_at": "2026-10-30T16:00:15.916Z"
     }
   ],
-  "updated_at": "2026-10-30T13:53:08.120Z"
+  "updated_at": "2026-10-30T16:00:15.916Z"
 }
