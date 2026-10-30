@@ -184,7 +184,7 @@
       "full_name": "@globalplusteam",
       "telegram": "@globalplusteam",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "b9b3edd29de01dfc9be8211e34a98aa2",
       "pbkdf2_hash": "d4b1c98a6e1e2e0fadcc3cb5dfa7b8ce57af50210768853804e05c80ec6709d2",
       "iterations": 120000,
@@ -193,10 +193,14 @@
         "iv": "lB28ZcSoUJmh/n15",
         "ct": "jPx0xYrKjOEGvK107LekOCErcYqFWMGY8Nxc4KFT66APc/uGsfSCvVMkqecDJT8HhTPortHeOQFMbjMovT5cvaVq9blp9X9/2ZX/96pxVaJ9YYSG1CKVnfcrMkxTZAGqQlNLLVy73gfeL6ETxgHx8PlhT5c+zaXB/xO/stJ9BFeRViFMr6Lq5JwAgKKQghF4iy7gROynIbsasQdxDOWIAnrRI0R3baNRJDHWbKyC6iA="
       },
-      "assigned_projects": [],
+      "assigned_projects": [
+        "*"
+      ],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-10-30T16:23:02.737Z"
+      "created_at": "2026-10-30T16:23:02.737Z",
+      "approved_at": "2026-10-30T16:25:53.973549Z",
+      "owner_action_stamp": "tg-bot-btn-1793399153"
     }
   ],
   "updated_at": "2026-10-30T16:23:02.737Z"
