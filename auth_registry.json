@@ -144,7 +144,7 @@
       "full_name": "Alberta",
       "telegram": "Alberta",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "39c52c202f54f69d30f93004170cffbe",
       "pbkdf2_hash": "9549458d0009ba5bbd21fda731547fa795c207ddb8b2029e968b31b60a40d814",
       "iterations": 120000,
@@ -153,10 +153,14 @@
         "iv": "+MgD951xs6yXcasS",
         "ct": "oL0Po7HRAkvzPC73gV/B4c6FYIsEJNp9PDRkVIZcUM/EGNr2KJn62mHt7dJ+WjlPmg2COvEpgmFhK5KbU/wWo9SCixDmuslF7F+uWnEFf7MsHW7syJ2wiaAZPDu40cDCZRIvkpqvR1PwaaCfmUJPFa7UIcdfwkqZNLqDXUpv/FTyXBOEKwSxT0XI5BNbflhOqR86BoMcia4C"
       },
-      "assigned_projects": [],
+      "assigned_projects": [
+        "*"
+      ],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-10-30T13:53:08.120Z"
+      "created_at": "2026-10-30T13:53:08.120Z",
+      "approved_at": "2026-10-30T16:56:06.667037Z",
+      "owner_action_stamp": "tg-bot-btn-1793400966"
     },
     {
       "id": "REQ-015916",
