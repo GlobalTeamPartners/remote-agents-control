@@ -76,10 +76,23 @@
             "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04&utm_id=24354174629&g_net=ytis&g_dev=m&gad_source=2&gad_campaignid=24354174629"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-20",
+          "ts": "2026-10-31T23:17:12.848Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 20,
+          "project": "Личный Офис: @true1team",
+          "kind": "agent_request",
+          "title": "TIM: Вайбкодер — предложи быстрый Micro-SaaS или Telegram-бот для Личный Офис: @true1team",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 5,
-      "last_saved_at": "2026-10-31T23:15:52.970Z"
+      "total_count": 6,
+      "last_saved_at": "2026-10-31T23:17:12.848Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -158,5 +171,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-10-31T23:15:52.970Z"
+  "updated_at": "2026-10-31T23:17:12.848Z"
 }
