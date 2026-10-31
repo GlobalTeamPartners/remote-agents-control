@@ -89,10 +89,23 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-23",
+          "ts": "2026-10-31T23:54:13.223Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 23,
+          "project": "12 IT Продуктов (Короче Капитан)",
+          "kind": "director_tim",
+          "title": "👑 Тиму: Тим, собери MVP связку из задач #147 и #157: воронка Бесплатный AI-Магазин / TMA за 15 минут с CPA-монетизацией и подпиской Pro",
+          "study_text": "Тим, собери MVP связку из задач #147 и #157: воронка Бесплатный AI-Магазин / TMA за 15 минут с CPA-монетизацией и подпиской Pro",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 6,
-      "last_saved_at": "2026-10-31T23:17:12.848Z"
+      "total_count": 7,
+      "last_saved_at": "2026-10-31T23:54:13.223Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -171,5 +184,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-10-31T23:17:12.848Z"
+  "updated_at": "2026-10-31T23:54:13.223Z"
 }
