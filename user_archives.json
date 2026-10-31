@@ -60,10 +60,26 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-19",
+          "ts": "2026-10-31T23:15:52.970Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 19,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
+          "study_text": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04&utm_id=24354174629&g_net=ytis&g_dev=m&gad_source=2&gad_campaignid=24354174629 изучить и повторить этот проект как сестему заработка!",
+          "urls": [
+            "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
+            "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04&utm_id=24354174629&g_net=ytis&g_dev=m&gad_source=2&gad_campaignid=24354174629"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 4,
-      "last_saved_at": "2026-10-31T23:13:31.833Z"
+      "total_count": 5,
+      "last_saved_at": "2026-10-31T23:15:52.970Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -142,5 +158,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-10-31T23:13:31.833Z"
+  "updated_at": "2026-10-31T23:15:52.970Z"
 }
