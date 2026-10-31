@@ -47,10 +47,23 @@
             "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04&utm_id=24354174629&g_net=ytis&g_dev=m&gad_source=2&gad_campaignid=24354174629"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-18",
+          "ts": "2026-10-31T23:13:31.832Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 18,
+          "project": "Дима Верхняя Синичиха Алапаевск",
+          "kind": "agent_request",
+          "title": "TIM: Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 3,
-      "last_saved_at": "2026-10-31T23:10:58.279Z"
+      "total_count": 4,
+      "last_saved_at": "2026-10-31T23:13:31.833Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -129,5 +142,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-10-31T23:10:58.279Z"
+  "updated_at": "2026-10-31T23:13:31.833Z"
 }
