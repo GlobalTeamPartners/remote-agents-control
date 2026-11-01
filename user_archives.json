@@ -115,10 +115,25 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-25",
+          "ts": "2026-11-01T01:07:56.523Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 25,
+          "project": "Белый Доминикана",
+          "kind": "director_tim",
+          "title": "👑 Тиму: https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region",
+          "study_text": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371 изучи как они работают для создания собственного такого сервиса как они работают и на какую прибыль они рассчитывают и какой MVP этого проекта",
+          "urls": [
+            "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 8,
-      "last_saved_at": "2026-11-01T01:01:08.447Z"
+      "total_count": 9,
+      "last_saved_at": "2026-11-01T01:07:56.523Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -197,5 +212,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-11-01T01:01:08.447Z"
+  "updated_at": "2026-11-01T01:07:56.523Z"
 }
