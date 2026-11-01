@@ -130,10 +130,25 @@
             "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-26",
+          "ts": "2026-11-01T01:21:50.583Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 26,
+          "project": "Входящие_Офис",
+          "kind": "director_tim",
+          "title": "👑 Тиму: https://www.altahq.com/lp/alta-brand-short?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905",
+          "study_text": "https://www.altahq.com/lp/alta-brand-short?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=200981457029&hsa_ad=828682649432&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905 изучи как это сделано в виде предоставления услуг",
+          "urls": [
+            "https://www.altahq.com/lp/alta-brand-short?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=200981457029&hsa_ad=828682649432&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 9,
-      "last_saved_at": "2026-11-01T01:07:56.523Z"
+      "total_count": 10,
+      "last_saved_at": "2026-11-01T01:21:50.583Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -212,5 +227,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-11-01T01:07:56.523Z"
+  "updated_at": "2026-11-01T01:21:50.584Z"
 }
