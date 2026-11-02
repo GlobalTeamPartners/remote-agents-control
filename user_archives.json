@@ -186,7 +186,7 @@
     },
     "aliashirani": {
       "login": "aliashirani",
-      "full_name": "Alberta",
+      "full_name": "Alberta Shirani",
       "items": [
         {
           "id": "iss-13",
@@ -200,10 +200,23 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-27",
+          "ts": "2026-11-02T12:16:55.308Z",
+          "login": "aliashirani",
+          "full_name": "Alberta Shirani",
+          "issue_number": 27,
+          "project": "Входящие_Офис",
+          "kind": "director_tim",
+          "title": "👑 Тиму: Создай клон синтекса. Где можно зайти и самому пользоваться всеми А| инструментами.",
+          "study_text": "Создай клон синтекса. Где можно зайти и самому пользоваться всеми А| инструментами.",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 1,
-      "last_saved_at": "2026-10-30T17:03:21.678Z"
+      "total_count": 2,
+      "last_saved_at": "2026-11-02T12:16:55.308Z"
     },
     "unityspiritpartners": {
       "login": "unityspiritpartners",
@@ -227,5 +240,5 @@
       "last_saved_at": "2026-10-30T19:24:33.145Z"
     }
   },
-  "updated_at": "2026-11-01T01:21:50.584Z"
+  "updated_at": "2026-11-02T12:16:55.308Z"
 }
