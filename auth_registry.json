@@ -278,10 +278,13 @@
         "ct": "sMK6OSAQ7GE9GKGu5LXhwDaYcxX3NOo06vlDBqDVvFmZDaAh9EEtvDnGAZQBptaZTOSRTBLBw7bTjC0Te0A/UZF4Kx3r8gYyvgTVgZ8y3u7+8rKLZoBMLYoNz+BSRPnW3JqXJEzrLd3Wyv9UVs/Tz5+8LJmpvH4DD1ru0/pWNj/IOPoaRrUCVuXYcLxjQSwXqmMQAnLHXw10BWxQ1xDga0M8t5qpMMVaJJZw"
       },
       "assigned_projects": [
-        "00_МОНИТОРИНГ_СОТРУДНИКОВ_И_ПРОЦЕССОВ"
+        "00_МОНИТОРИНГ_СОТРУДНИКОВ_И_ПРОЦЕССОВ",
+        "12 IT Продуктов (Короче Капитан)",
+        "Grok_xAI_Teammates",
+        "GlobalFilms (Filmtools)"
       ],
-      "gta_completed": false,
-      "gta_archetype": "",
+      "gta_completed": true,
+      "gta_archetype": "⚡ Техно-Консильери (Vibe-Coder & Micro-SaaS Boss)",
       "created_at": "2026-11-03T22:40:57.806Z",
       "approved_at": "2026-11-03T22:45:53.889Z",
       "owner_action_stamp": "proj-1793746076864"
