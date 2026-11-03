@@ -239,7 +239,27 @@
       "approved_at": "2026-10-30T16:56:08.577139Z",
       "owner_action_stamp": "tg-bot-btn-1793400968",
       "pending_reset": null
+    },
+    {
+      "id": "REQ-506276",
+      "login": "tanyaknyaz",
+      "full_name": "Tatianaknyazeva777",
+      "telegram": "Tatianaknyazeva777",
+      "role": "member",
+      "status": "pending",
+      "salt_hex": "4806a26ac0730d5eb50a25355a667f54",
+      "pbkdf2_hash": "c1e10b5f37913363e73ac753f60eee86daf21893d149bf02f51bc709101dfe3f",
+      "iterations": 120000,
+      "rsa_envelope": {
+        "ek": "Ck/9C4BIkhLL6XxAsT7N1BrUY2soi0S3y4Erl3n5AujA2Ukx4dWPKSQ0WGfcTlRQIddiqfJUOn0jQH7rMn4i9ypphlhAj3eCsF5RYv0i99oCKABur2ckU1FOdb3VSjaIIBp/aleRSznhECm1P+4WRIBeqJizPhFY1KG1MasBh5tHVmPe2DNe2hnlsuSWs8Jbv2NcwTQ9IiQQADLP6WGCVPteNmdofck3VryAUjLiTggHp5sl5fRM6U8zMPLHhgCXhzW1nh/Dgujm4o3ehre0gn3Mv21BbWDg4D6PnxKcAA5v3v+StlCg8Re03xGpsqpULpzexvDi5AmWOeKPUFNVFg==",
+        "iv": "2OLOA+3AO13aXH6G",
+        "ct": "9q9Z/nnqUKe9L5aP2sbxF8De2VFqVQFC1buae0iUBfFduVdYr/C4bGjex4lo8seopT0fdKvuVHHbsbx1oRGGrsAc8XgYP+F4H3ZwVLRth/Rwv9afvBGNv9K8Sn1c3GfXc+4SKtUMWfcoK7gWz/2H2RUskz9qQlzEBs9UDw/oT9hK9cvO9RndCyEv0VJskpt/xnY7u8Tg0t209wU/oUUHwAM="
+      },
+      "assigned_projects": [],
+      "gta_completed": false,
+      "gta_archetype": "",
+      "created_at": "2026-11-03T22:38:26.276Z"
     }
   ],
-  "updated_at": "2026-11-02T12:00:00.000000+00:00"
+  "updated_at": "2026-11-03T22:38:26.276Z"
 }
