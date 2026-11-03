@@ -259,7 +259,27 @@
       "gta_completed": false,
       "gta_archetype": "",
       "created_at": "2026-11-03T22:38:26.276Z"
+    },
+    {
+      "id": "REQ-657806",
+      "login": "tatianaknyazeva777",
+      "full_name": "@tatianaknyazeva777",
+      "telegram": "@tatianaknyazeva777",
+      "role": "member",
+      "status": "pending",
+      "salt_hex": "a559446386bc4941628994fef2026066",
+      "pbkdf2_hash": "5eea776cf30b3aeed416826166f497a7b1a93e6fb868496f6a487c746547e8bb",
+      "iterations": 120000,
+      "rsa_envelope": {
+        "ek": "FNG/r4bBZPvS1qQYKm/HnCACutxl7G3rAxwUIOj2zoknrF/opbx7Vctrz87bEVt0CE8BjPBffNb7zamUECReisLpOOSO3x7fUcc+bQGexaypktRpubwvFoP7E0eFlzqjEJHTpb8WkcuHmxd7m+sXbuLmqz0p5zJ7IKIu6KNb8ND5j/n4x0/dv2ze7HSRM/FMIH/J+7rjcT/YZArCKKhBHEt1zgNvLjWiGaTBsybphDUCuId5ynI2PLOaKKvUzoa82KMUv5PVhSlqEupv7jqxkye2YpsffYqdeiI+NxcLgPqVlkkru9zez2N15TdXIOatWWpiHs6jNlCdkAegTIWQ6g==",
+        "iv": "Ofg2OniuXPbfMXME",
+        "ct": "sMK6OSAQ7GE9GKGu5LXhwDaYcxX3NOo06vlDBqDVvFmZDaAh9EEtvDnGAZQBptaZTOSRTBLBw7bTjC0Te0A/UZF4Kx3r8gYyvgTVgZ8y3u7+8rKLZoBMLYoNz+BSRPnW3JqXJEzrLd3Wyv9UVs/Tz5+8LJmpvH4DD1ru0/pWNj/IOPoaRrUCVuXYcLxjQSwXqmMQAnLHXw10BWxQ1xDga0M8t5qpMMVaJJZw"
+      },
+      "assigned_projects": [],
+      "gta_completed": false,
+      "gta_archetype": "",
+      "created_at": "2026-11-03T22:40:57.806Z"
     }
   ],
-  "updated_at": "2026-11-03T22:38:26.276Z"
+  "updated_at": "2026-11-03T22:40:57.806Z"
 }
