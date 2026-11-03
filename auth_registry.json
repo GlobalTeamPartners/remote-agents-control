@@ -277,12 +277,14 @@
         "iv": "Ofg2OniuXPbfMXME",
         "ct": "sMK6OSAQ7GE9GKGu5LXhwDaYcxX3NOo06vlDBqDVvFmZDaAh9EEtvDnGAZQBptaZTOSRTBLBw7bTjC0Te0A/UZF4Kx3r8gYyvgTVgZ8y3u7+8rKLZoBMLYoNz+BSRPnW3JqXJEzrLd3Wyv9UVs/Tz5+8LJmpvH4DD1ru0/pWNj/IOPoaRrUCVuXYcLxjQSwXqmMQAnLHXw10BWxQ1xDga0M8t5qpMMVaJJZw"
       },
-      "assigned_projects": [],
+      "assigned_projects": [
+        "00_МОНИТОРИНГ_СОТРУДНИКОВ_И_ПРОЦЕССОВ"
+      ],
       "gta_completed": false,
       "gta_archetype": "",
       "created_at": "2026-11-03T22:40:57.806Z",
       "approved_at": "2026-11-03T22:45:53.889Z",
-      "owner_action_stamp": "own-1793745953889"
+      "owner_action_stamp": "proj-1793746076864"
     }
   ],
   "updated_at": "2026-11-03T22:40:57.806Z"
