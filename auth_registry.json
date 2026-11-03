@@ -246,7 +246,7 @@
       "full_name": "Tatianaknyazeva777",
       "telegram": "Tatianaknyazeva777",
       "role": "member",
-      "status": "pending",
+      "status": "approved",
       "salt_hex": "4806a26ac0730d5eb50a25355a667f54",
       "pbkdf2_hash": "c1e10b5f37913363e73ac753f60eee86daf21893d149bf02f51bc709101dfe3f",
       "iterations": 120000,
@@ -258,7 +258,9 @@
       "assigned_projects": [],
       "gta_completed": false,
       "gta_archetype": "",
-      "created_at": "2026-11-03T22:38:26.276Z"
+      "created_at": "2026-11-03T22:38:26.276Z",
+      "approved_at": "2026-11-03T22:44:24.715801+00:00",
+      "owner_action_stamp": "tg-bot-btn-1793745864"
     },
     {
       "id": "REQ-657806",
