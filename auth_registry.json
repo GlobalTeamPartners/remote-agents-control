@@ -1,6 +1,6 @@
 {
   "version": "25.5",
-  "updated_at": "2026-11-03T22:54:51.010505+00:00",
+  "updated_at": "2026-11-04T13:31:36.480022Z",
   "users": [
     {
       "id": "owner-vlaslav",
@@ -166,6 +166,22 @@
       "created_at": "2026-11-03T22:53:08.168244+00:00",
       "approved_at": "2026-11-03T22:53:08.168244+00:00",
       "approved_by": "@unityspiritpartners"
+    },
+    {
+      "id": "USR-YVYATKIN-01",
+      "login": "yvyatkin",
+      "full_name": "Юрий Вяткин",
+      "telegram": "@yvyatkin",
+      "telegram_id": "173185967",
+      "telegram_link": "https://t.me/yvyatkin",
+      "role": "admin",
+      "status": "approved",
+      "all_projects": true,
+      "assigned_projects": [
+        "*"
+      ],
+      "is_co_owner": true,
+      "approved_at": "2026-11-04T13:31:36.479368Z"
     }
   ]
 }
