@@ -226,10 +226,23 @@
           "study_text": "Покажи мне вариант нашего мини-продукта, который закрывает полностью главную боль моей аудитории, абсолютно без возражений.",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-33",
+          "ts": "2026-11-04T06:52:34.907Z",
+          "login": "aliashirani",
+          "full_name": "Alberta Shirani",
+          "issue_number": 33,
+          "project": "Личный Офис: @aliashirani",
+          "kind": "agent_request",
+          "title": "TIM: Изучи состояние папки «Личный Офис: @aliashirani», оцени быстрый путь к деньгам и сформируй план действий отделов",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 3,
-      "last_saved_at": "2026-11-02T12:19:56.557Z"
+      "total_count": 4,
+      "last_saved_at": "2026-11-04T06:52:34.907Z"
     },
     "unityspiritpartners": {
       "login": "unityspiritpartners",
@@ -266,5 +279,5 @@
       "last_saved_at": "2026-11-02T17:24:22.398Z"
     }
   },
-  "updated_at": "2026-11-02T17:24:22.398Z"
+  "updated_at": "2026-11-04T06:52:34.907Z"
 }
