@@ -252,10 +252,23 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-35",
+          "ts": "2026-11-04T06:53:01.279Z",
+          "login": "aliashirani",
+          "full_name": "Alberta Shirani",
+          "issue_number": 35,
+          "project": "Alberta",
+          "kind": "agent_request",
+          "title": "Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 5,
-      "last_saved_at": "2026-11-04T06:52:57.081Z"
+      "total_count": 6,
+      "last_saved_at": "2026-11-04T06:53:01.279Z"
     },
     "unityspiritpartners": {
       "login": "unityspiritpartners",
@@ -292,5 +305,5 @@
       "last_saved_at": "2026-11-02T17:24:22.398Z"
     }
   },
-  "updated_at": "2026-11-04T06:52:57.081Z"
+  "updated_at": "2026-11-04T06:53:01.279Z"
 }
