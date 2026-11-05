@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-02T17:24:13.588Z",
+  "updated_at": "2026-11-05T10:26:48.943Z",
   "version": "10.0",
   "knowledge_base": [
+    {
+      "id": "kb-1793874405678",
+      "issue": 38,
+      "saved_by_login": "unityspiritteam@gmail.com",
+      "saved_by_name": "Vlaslav (Owner — Unity Spirit Partners)",
+      "category": "Проект: Позновалка",
+      "title": "RESEARCH_MORE: personal knowledge management AI second brain monetization workflows",
+      "source_url": "",
+      "secondary_url": "",
+      "images": [],
+      "date": "05.11.2026",
+      "summary": "Сохранено в автономном облачном режиме (доступно 24/7 в Базе Знаний и папке проекта).",
+      "action_items": [
+        "Сохранено в облако GitHub CRM и папку Позновалка"
+      ]
+    },
     {
       "id": "kb-1793640251582",
       "issue": 29,
