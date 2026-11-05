@@ -316,7 +316,28 @@
       ],
       "total_count": 2,
       "last_saved_at": "2026-11-02T17:24:22.398Z"
+    },
+    "unityspiritteam@gmail.com": {
+      "login": "unityspiritteam@gmail.com",
+      "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+      "items": [
+        {
+          "id": "iss-38",
+          "ts": "2026-11-05T10:27:03.744Z",
+          "login": "unityspiritteam@gmail.com",
+          "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+          "issue_number": 38,
+          "project": "Позновалка",
+          "kind": "agent_request",
+          "title": "RESEARCH_MORE: personal knowledge management AI second brain monetization workflows",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
+        }
+      ],
+      "total_count": 1,
+      "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-04T06:53:18.327Z"
+  "updated_at": "2026-11-05T10:27:03.744Z"
 }
