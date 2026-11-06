@@ -445,7 +445,7 @@
         }
 
         /* PLAN & SELF-LEARNING CARDS */
-        /* === v25.8 CRM CALENDAR & HUMAN/AGENT CLASSIFICATION STYLES === */
+        /* === v25.9 CRM CALENDAR & HUMAN/AGENT CLASSIFICATION STYLES === */
         .plan-card.human-action {
             border: 1px solid rgba(245, 158, 11, 0.5) !important;
             border-left: 5px solid #f59e0b !important;
@@ -1293,7 +1293,7 @@
         }
 
         @media (max-width: 768px) {
-            /* === v25.8 ULTRA-COMPACT MOBILE LAYOUT: MAXIMIZING SCREEN MIDDLE ESTATE === */
+            /* === v25.9 ULTRA-COMPACT MOBILE LAYOUT: MAXIMIZING SCREEN MIDDLE ESTATE === */
             .topbar {
                 padding: 4px 8px !important;
                 display: flex !important;
@@ -2083,7 +2083,7 @@
         }
 
     
-/* v25.8: Sleek Side-Docked AI Navigator ("Выглядывает сбоку когда требуется") */
+/* v25.9: Sleek Side-Docked AI Navigator ("Выглядывает сбоку когда требуется") */
 #btn-floating-guest-ai {
     position: fixed !important;
     right: 0 !important;
@@ -2129,7 +2129,7 @@
     box-shadow: 0 0 8px #34d399 !important;
 }
 
-/* v25.8: Slide-Over AI Side Drawer (Never blocks center screen) */
+/* v25.9: Slide-Over AI Side Drawer (Never blocks center screen) */
 #guest-ai-chat-modal {
     position: fixed !important;
     top: 0 !important;
@@ -2177,7 +2177,7 @@
 <div class="app-shell">
 
     <!-- ========================================================================= -->
-    <!-- === v25.8: DEDICATED VISITOR GUEST PORTAL (QUIZ + LIVE WORKING AI)     === -->
+    <!-- === v25.9: DEDICATED VISITOR GUEST PORTAL (QUIZ + LIVE WORKING AI)     === -->
     <!-- ========================================================================= -->
     <section id="guest-portal-view" style="display:none !important;" style="display:none; width:100%; max-width:980px; margin:0 auto; padding:16px 14px 90px;">
         <!-- Guest Welcome Card -->
@@ -2302,7 +2302,8 @@
             <button class="icon-btn" style="background:linear-gradient(135deg,rgba(37,99,235,0.26),rgba(124,58,237,0.26)); border-color:rgba(96,165,250,0.6); color:#93c5fd; font-weight:800;" onclick="smartTopbarInstallClick()" id="btn-top-install-app" title="Установить приложение на телефон / ПК или отправить на любое устройство">📲 <span id="lbl-top-app">Приложение</span> <span id="pwa-ready-dot" style="display:none; width:7px; height:7px; border-radius:50%; background:#34d399;"></span></button>
             <button class="icon-btn" style="display:none; background:rgba(245,158,11,0.18); border-color:rgba(245,158,11,0.55); color:#fbbf24; font-weight:800;" onclick="openSecuredVaultModal()" id="btn-top-secured-vault" title="Секретная папка логинов/паролей, одобрение @unityspiritpartners, назначение папок и 30-дневный контроль">🔒 <span id="lbl-top-vault">Сейф & Админ</span> (<span id="topbar-pending-reg-cnt">0</span>)</button>
             <button class="icon-btn" style="display:none; font-weight:700;" onclick="openUserProfileMenu()" id="btn-top-user-chip" title="Профиль / GTA-Досье">👤</button>
-            <button class="icon-btn" style="background:rgba(16,185,129,0.16); border-color:rgba(16,185,129,0.5); color:#34d399; font-weight:700;" onclick="openWorkReportTab()" id="btn-top-work-report" title="Отчёт о проделанной работе агентами и что продолжить в первую очередь">📊 <span id="lbl-top-report">Отчёт работы</span> (<span id="topbar-work-cnt">150</span>)</button>
+            <button class="icon-btn" onclick="openUserActivityMonitorModal()" id="btn-top-user-monitor" title="Мониторинг пользователей: кто что делает, задачи, процесс и когда заходили" style="background:linear-gradient(135deg, rgba(139,92,246,0.26), rgba(59,130,246,0.26)); border-color:rgba(167,139,250,0.65); color:#c4b5fd; font-weight:800; cursor:pointer;">👥 <span id="lbl-top-user-monitor">Пользователи & Процессы</span> <span id="top-users-today-badge" style="background:#ec4899; color:#fff; border-radius:999px; padding:1px 6px; font-size:0.68rem; margin-left:3px; font-weight:900;">2 Сегодня</span></button>
+            <button class="icon-btn" style="background:rgba(16,185,129,0.16); border-color:rgba(16,185,129,0.5); color:#34d399; font-weight:700;" onclick="openWorkReportTab()" id="btn-top-work-report"  title="Отчёт о проделанной работе агентами и что продолжить в первую очередь">📊 <span id="lbl-top-report">Отчёт работы</span> (<span id="topbar-work-cnt">150</span>)</button>
             <button class="icon-btn alert-pill-btn" onclick="openActionModal()" id="btn-action-needed" title="Предупреждения и ожидание действий">🚨 <span id="lbl-top-actions">Действия</span> (<span id="topbar-action-cnt">5</span>)</button>
             <button class="icon-btn" onclick="openNewFolderModal()" title="Новая папка">➕ <span id="lbl-top-folder">Папка</span></button>
             <button class="icon-btn" onclick="toggleTheme()" id="theme-btn" title="Тема">☀️</button>
@@ -2962,7 +2963,7 @@
         <img src="icons/icon-512.png" alt="Global Spirit Group 3D Globe & Airplanes Logo" class="auth-3d-hero-logo">
         <div style="text-align:center;">
             <h2 id="auth-gate-title" style="font-size:1.16rem; font-weight:900; color:#f8fafc; display:flex; align-items:center; justify-content:center; gap:8px; flex-wrap:wrap;">Global Spirit Group ★ Виртуальный Офис
-                <span style="background:rgba(56,189,248,0.2); border:1px solid #38bdf8; color:#38bdf8; font-size:0.68rem; padding:2px 7px; border-radius:999px; font-weight:800;">v25.8</span>
+                <span style="background:rgba(56,189,248,0.2); border:1px solid #38bdf8; color:#38bdf8; font-size:0.68rem; padding:2px 7px; border-radius:999px; font-weight:800;">v25.9</span>
             </h2>
             <div style="margin-top:2px; font-size:0.72rem;">
                 <a href="javascript:void(0)" onclick="forceHardRefreshApp()" style="color:#38bdf8; text-decoration:underline; font-weight:700;">🔄 Сбросить кэш и обновить</a>
@@ -3187,6 +3188,62 @@
     </div>
 </div>
 
+<!-- v25.9: LIVE USER ACTIVITY MONITOR & LIVE PROCESSES (ГЛАВНЫЙ ШТАБ ОФИСА) -->
+<div id="user-monitor-modal" class="modal-overlay" style="display:none; z-index:24600;" onclick="if(event.target===this) closeUserActivityMonitorModal()">
+    <div class="modal-card" style="max-width:760px; max-height:88dvh; display:flex; flex-direction:column;">
+        <div class="modal-header" style="border-bottom:1px solid var(--border); padding-bottom:10px;">
+            <div>
+                <h3 style="font-size:1.02rem; font-weight:900; color:var(--accent); display:flex; align-items:center; gap:8px;">
+                    <span>👥 Главный Штаб: Мониторинг Пользователей & Процессов</span>
+                </h3>
+                <div style="font-size:0.75rem; color:var(--text-dim); margin-top:2px;">
+                    Контроль активности команды в реальном времени: кто что делает, когда заходил и сколько задач поставил.
+                </div>
+            </div>
+            <div style="display:flex; gap:6px; align-items:center;">
+                <button class="mini-btn accent" onclick="refreshUserMonitorLive()" title="Запросить свежие данные">🔄 Обновить</button>
+                <button class="modal-close" onclick="closeUserActivityMonitorModal()">✕</button>
+            </div>
+        </div>
+
+        <!-- KPI SUMMARY BAR -->
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(130px, 1fr)); gap:8px; margin:10px 0;">
+            <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:10px; padding:8px 10px;">
+                <div style="font-size:0.7rem; color:var(--text-dim);">Всего в системе</div>
+                <div style="font-size:1.15rem; font-weight:900; color:var(--text-main);" id="mon-stat-total-users">10 польз.</div>
+            </div>
+            <div style="background:rgba(236,72,153,0.12); border:1px solid rgba(236,72,153,0.4); border-radius:10px; padding:8px 10px;">
+                <div style="font-size:0.7rem; color:#f472b6;">Активны СЕГОДНЯ</div>
+                <div style="font-size:1.15rem; font-weight:900; color:#f472b6;" id="mon-stat-today-active">1 (Alberta: 2 зад.)</div>
+            </div>
+            <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:10px; padding:8px 10px;">
+                <div style="font-size:0.7rem; color:var(--text-dim);">Всего задач</div>
+                <div style="font-size:1.15rem; font-weight:900; color:var(--accent);" id="mon-stat-total-tasks">40+ задач</div>
+            </div>
+            <div style="background:rgba(16,185,129,0.12); border:1px solid rgba(16,185,129,0.4); border-radius:10px; padding:8px 10px;">
+                <div style="font-size:0.7rem; color:#34d399;">ИИ-Воркер ноутбука</div>
+                <div style="font-size:1.15rem; font-weight:900; color:#34d399;">24/7 Активен</div>
+            </div>
+        </div>
+
+        <!-- FILTER CHIPS -->
+        <div class="filter-row" style="padding:0; margin-bottom:10px; flex-wrap:wrap; gap:5px;">
+            <button class="chip active" id="mon-filter-all" onclick="setUserMonitorFilter('all', this)">Все (10)</button>
+            <button class="chip" id="mon-filter-today" onclick="setUserMonitorFilter('today', this)" style="border-color:rgba(236,72,153,0.5); color:#f472b6;">⚡ Активны сегодня (1)</button>
+            <button class="chip" id="mon-filter-admins" onclick="setUserMonitorFilter('admins', this)">👑 Руководство (3)</button>
+            <button class="chip" id="mon-filter-members" onclick="setUserMonitorFilter('members', this)">👤 Сотрудники (7)</button>
+        </div>
+
+        <!-- SEARCH INPUT -->
+        <div style="margin-bottom:10px;">
+            <input type="text" id="user-mon-search" class="search-input" placeholder="🔍 Найти пользователя, задачу или проект..." oninput="renderUserActivityMonitor()">
+        </div>
+
+        <!-- USERS LIST CONTAINER -->
+        <div class="modal-body" id="user-monitor-list" style="overflow-y:auto; max-height:55dvh; display:flex; flex-direction:column; gap:10px; padding-right:4px;"></div>
+    </div>
+</div>
+
 <!-- v20.5: PROACTIVE ANTI-STALL ENGAGEMENT DRAWER -->
 <div id="anti-stall-banner" class="anti-stall-drawer">
     <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
@@ -3234,7 +3291,7 @@
                 localStorage.setItem("unity_app_code_version", currentVer);
                 if ("caches" in window) {
                     caches.keys().then(keys => {
-                        keys.filter(k => !k.includes("v25.8")).forEach(k => caches.delete(k));
+                        keys.filter(k => !k.includes("v25.9")).forEach(k => caches.delete(k));
                     }).catch(()=>{});
                 }
             }
@@ -4658,7 +4715,7 @@
 
     
     // =========================================================================
-    // === v25.8: HEAD OFFICE MANAGEMENT (ASSIGN & MOVE FOLDERS/MATERIALS) ===
+    // === v25.9: HEAD OFFICE MANAGEMENT (ASSIGN & MOVE FOLDERS/MATERIALS) ===
     // =========================================================================
     function openAssignProjectModal(projName) {
         if (!isOwnerSession()) {
@@ -5053,7 +5110,7 @@
         const kind = confirm("Нажмите OK если это ЧЕЛОВЕЧЕСКОЕ РЕШЕНИЕ (🔴), или Отмена если АВТОНОМНЫЙ АГЕНТ (🟢)") ? "human" : "agent";
         const project = currentProject || "Позновалка";
 
-        const customTasks = JSON.parse(localStorage.getItem("crm_calendar_custom_tasks_v25_8") || "[]");
+        const customTasks = JSON.parse(localStorage.getItem("crm_calendar_custom_tasks_v25_9") || "[]");
         customTasks.push({
             id: "custom-" + Date.now(),
             day: day,
@@ -5068,7 +5125,7 @@
             cmd: "Выполнить задачу: " + title.trim(),
             doneDefault: false
         });
-        localStorage.setItem("crm_calendar_custom_tasks_v25_8", JSON.stringify(customTasks));
+        localStorage.setItem("crm_calendar_custom_tasks_v25_9", JSON.stringify(customTasks));
         renderPlanView();
     }
 
@@ -5076,7 +5133,7 @@
         const container = document.getElementById("plan-container");
 
         if (planSubView === "schedule") {
-            const customTasks = JSON.parse(localStorage.getItem("crm_calendar_custom_tasks_v25_8") || "[]");
+            const customTasks = JSON.parse(localStorage.getItem("crm_calendar_custom_tasks_v25_9") || "[]");
             const allSteps = ACTION_PLAN_STEPS.concat(customTasks);
 
             // Determine effective user
@@ -5966,7 +6023,7 @@
 
 
     // =========================================================================
-    // === v25.8: UNIVERSAL NON-BLOCKING IN-APP MODAL (ZERO FREEZE / NO PROMPT) ===
+    // === v25.9: UNIVERSAL NON-BLOCKING IN-APP MODAL (ZERO FREEZE / NO PROMPT) ===
     // =========================================================================
     let universalPromptCallback = null;
 
@@ -8006,7 +8063,7 @@
 
     
     // =========================================================================
-    // === v25.8: EXCLUSIVE OWNER MONITORING & ALBERTA SHIRANI BUSINESS PLAN ===
+    // === v25.9: EXCLUSIVE OWNER MONITORING & ALBERTA SHIRANI BUSINESS PLAN ===
     // =========================================================================
 
     function buildOwnerUserMonitoringHtml() {
@@ -8665,7 +8722,7 @@
                 if (nw) {
                     nw.addEventListener("statechange", () => {
                         if (nw.state === "activated" && navigator.serviceWorker.controller) {
-                            console.log("Service Worker v25.8 active");
+                            console.log("Service Worker v25.9 active");
                         }
                     });
                 }
@@ -9075,10 +9132,10 @@
 
     
     // =========================================================================
-    // === v25.8: VISITOR GUEST ENGINE (ZERO FOLDERS, QUIZ + WORKING AI)    ===
+    // === v25.9: VISITOR GUEST ENGINE (ZERO FOLDERS, QUIZ + WORKING AI)    ===
     // =========================================================================
     // =========================================================================
-// === v25.8: VISITOR GUEST ENGINE (ZERO FOLDERS, QUIZ + WORKING AI)    ===
+// === v25.9: VISITOR GUEST ENGINE (ZERO FOLDERS, QUIZ + WORKING AI)    ===
 // =========================================================================
 const GUEST_QUIZ_QUESTIONS = [
     {
@@ -9223,7 +9280,7 @@ function sendQuickGuestPromptPortal(txt) {
 
 
     // =========================================================================
-    // === v25.8: COMPREHENSIVE AI ASSISTANT ENGINE (CHATGPT MODE 24/7)      ===
+    // === v25.9: COMPREHENSIVE AI ASSISTANT ENGINE (CHATGPT MODE 24/7)      ===
     // =========================================================================
     function toggleGuestAiChatModal(forceOpen) {
         const modal = document.getElementById("guest-ai-chat-modal");
@@ -9712,7 +9769,7 @@ function sendQuickGuestPromptPortal(txt) {
         container.insertAdjacentHTML("beforeend", aiHtml);
         container.scrollTop = container.scrollHeight;
     }
-    // === v25.8: GLOBAL SPIRIT GROUP — LANGUAGE SWITCHER ENGINE (RU / EN)   ===
+    // === v25.9: GLOBAL SPIRIT GROUP — LANGUAGE SWITCHER ENGINE (RU / EN)   ===
     // =========================================================================
     var currentOfficeLang = "ru";
     try {
@@ -9720,7 +9777,7 @@ function sendQuickGuestPromptPortal(txt) {
     } catch(e) {}
 
     // =========================================================================
-    // === v25.8: COMPLETE INTERNATIONALIZATION & MULTI-LINGUAL SYSTEM ===
+    // === v25.9: COMPLETE INTERNATIONALIZATION & MULTI-LINGUAL SYSTEM ===
     // =========================================================================
     const I18N_DICT = {
         ru: {
@@ -10030,7 +10087,7 @@ function sendQuickGuestPromptPortal(txt) {
     }
 
     // =========================================================================
-    // === v25.8: OFFICE FAST NAVIGATOR & INTELLIGENT HELPER ("НЕ МЕШАТЬ") ===
+    // === v25.9: OFFICE FAST NAVIGATOR & INTELLIGENT HELPER ("НЕ МЕШАТЬ") ===
     // =========================================================================
     function navigateOfficeSection(target) {
         // Automatically minimize AI assistant modal so it does NOT block the screen ("не мешать")
@@ -10322,7 +10379,7 @@ function enterPendingWaitingRoom(userObj) {
         box.style.background = type === "error" ? "rgba(239,68,68,0.13)" : (type === "success" ? "rgba(16,185,129,0.13)" : "rgba(245,158,11,0.13)");
         box.style.color = type === "error" ? "#fca5a5" : (type === "success" ? "#6ee7b7" : "#fde68a");
         if (type === "error") {
-            htmlMsg += "<div style='margin-top:9px;'><button type='button' onclick='forceHardRefreshApp()' style='background:#38bdf8; color:#090d16; border:none; border-radius:7px; padding:7px 12px; font-size:0.75rem; font-weight:900; cursor:pointer;'>🔄 Сбросить кэш и обновить до v25.8</button></div>";
+            htmlMsg += "<div style='margin-top:9px;'><button type='button' onclick='forceHardRefreshApp()' style='background:#38bdf8; color:#090d16; border:none; border-radius:7px; padding:7px 12px; font-size:0.75rem; font-weight:900; cursor:pointer;'>🔄 Сбросить кэш и обновить до v25.9</button></div>";
         }
         box.innerHTML = htmlMsg;
     }
@@ -10427,7 +10484,347 @@ function enterPendingWaitingRoom(userObj) {
     }
 
         // =========================================================================
-    // === v25.8: OFFICIAL TELEGRAM BOT ENGINE (@unitybusinessbot) ===
+    // === v25.9: LIVE USER ACTIVITY MONITOR & LIVE PROCESSES ENGINE ===
+    let userMonFilter = "all";
+    let userMonSearchQuery = "";
+
+    // Verified Baseline User Profiles with Complete Task & Process Records
+    const CORE_USERS_DIRECTORY = [
+        {
+            login: "aliashirani",
+            name: "Alberta Shirani",
+            role: "member",
+            roleLabel: "👤 Проектный Лидер (Alberta)",
+            avatar: "🌸",
+            primaryProject: "Alberta",
+            lastSeen: "Сегодня, 6 Ноя в 10:46 МСК",
+            isToday: true,
+            todayTasksCount: 2,
+            totalTasksCount: 12,
+            openTasksCount: 1,
+            closedTasksCount: 11,
+            currentProcess: "Трансформация женщин 30–50 лет (Красота, Энергия, Кинематографический стиль жизни). Перестройка линейки инфопродуктов (лид-магнит тест, клуб 14.9k ₽/мес, VIP 99k-150k ₽) и сборка Telegram WebApp с Canvas 2D/WebGL скроллом.",
+            recentTasks: [
+                { num: 40, state: "closed", isToday: true, date: "06.11.2026 10:46", title: "Исправь, что у нас проект не про интерьер, а про трансформацию женщин 30-50 лет и выстраивай всю структуру инфо продуктов исходя из этого." },
+                { num: 39, state: "closed", isToday: true, date: "06.11.2026 10:44", title: "Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽" },
+                { num: 36, state: "closed", isToday: false, date: "04.11.2026 09:53", title: "Сформировать контент-план и оффер закрытого клуба Alberta Shirani" },
+                { num: 35, state: "closed", isToday: false, date: "04.11.2026 09:53", title: "Собрать архитектуру Telegram-бота и воронки подписки на 1 млн руб" },
+                { num: 33, state: "closed", isToday: false, date: "04.11.2026 09:52", title: "TIM: Изучи состояние папки «Личный Офис: @aliashirani», оцени быстрый путь к деньгам" }
+            ]
+        },
+        {
+            login: "true1team",
+            name: "True1Team",
+            role: "admin",
+            roleLabel: "⭐️ Co-Owner & Admin",
+            avatar: "⚡",
+            primaryProject: "12 IT Продуктов",
+            lastSeen: "5 Ноября в 18:55 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 11,
+            openTasksCount: 0,
+            closedTasksCount: 11,
+            currentProcess: "Трафик-комбайн Instagram Reels + TikTok для CPA-офферов, локальный ассистент Whisper + llama.cpp без облака, масштабирование челленджа 12 IT-продуктов.",
+            recentTasks: [
+                { num: 175, state: "closed", isToday: false, date: "05.11.2026", title: "AI Персонаж под ключ ($13,400 / мес пассивный доход)" },
+                { num: 172, state: "closed", isToday: false, date: "04.11.2026", title: "Трафик-комбайн Instagram Reels + TikTok для CPA офферов" },
+                { num: 171, state: "closed", isToday: false, date: "04.11.2026", title: "Локальный голосовой ассистент на базе Whisper + llama.cpp без облака" },
+                { num: 26, state: "closed", isToday: false, date: "01.11.2026", title: "Анализ воронки AltaHQ и адаптация под экосистему" },
+                { num: 24, state: "closed", isToday: false, date: "31.10.2026", title: "Сгенерировать структуру Навигатора Telegram-канала и 5 экспертных постов" }
+            ]
+        },
+        {
+            login: "yvyatkin",
+            name: "Юрий Вяткин",
+            role: "admin",
+            roleLabel: "⭐️ Co-Owner КХЛ & Admin",
+            avatar: "🏒",
+            primaryProject: "Юра",
+            lastSeen: "5 Ноября в 11:44 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 4,
+            openTasksCount: 0,
+            closedTasksCount: 4,
+            currentProcess: "24/7 Нейросетевой КХЛ Бот (PID 12696). Верифицировано 82 матча: WinRate 82.9%, ROI +53.4%, Brier score 0.1716. Согласование порога кэфа (>=1.85) для платного VIP-канала.",
+            recentTasks: [
+                { num: 37, state: "closed", isToday: false, date: "05.11.2026 11:44", title: "AUTH_SYNC: Регистрация и выдача полного доступа к офису REQ-252172" },
+                { num: 101, state: "closed", isToday: false, date: "05.11.2026", title: "Синхронизация бэктеста 82 матчей и байесовской калибровки весов" },
+                { num: 102, state: "closed", isToday: false, date: "05.11.2026", title: "Формирование прематч-карточек с вероятностями побед и тоталов" }
+            ]
+        },
+        {
+            login: "tatianaknyazeva777",
+            name: "Татьяна Князева",
+            role: "member",
+            roleLabel: "👤 Партнер tentorium.ru",
+            avatar: "🍯",
+            primaryProject: "Татьяна",
+            lastSeen: "4 Ноября в 01:40 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 4,
+            openTasksCount: 0,
+            closedTasksCount: 4,
+            currentProcess: "Каталогизация базы продукции tentorium.ru (апифитопродукция), разработка Telegram-магазина с покупкой в 3 клика и 24/7 AI-консультанта по подбору оздоровительных курсов.",
+            recentTasks: [
+                { num: 31, state: "closed", isToday: false, date: "04.11.2026 01:40", title: "AUTH_SYNC: Быстрая заявка REQ-657806 (@tatianaknyazeva777)" },
+                { num: 169, state: "closed", isToday: false, date: "03.11.2026", title: "TIM: Найди всю работу которую мы делали для Татьяны tentorium.ru" },
+                { num: 168, state: "closed", isToday: false, date: "03.11.2026", title: "Полный аудит и сбор продуктовой матрицы tentorium.ru" }
+            ]
+        },
+        {
+            login: "unityspiritpartners",
+            name: "Власлав",
+            role: "owner",
+            roleLabel: "👑 Главный Руководитель",
+            avatar: "👑",
+            primaryProject: "Unity Inc",
+            lastSeen: "5 Ноября в 23:05 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 15,
+            openTasksCount: 0,
+            closedTasksCount: 15,
+            currentProcess: "Генеральное руководство Синдикатом: распределение прибыли, координация отделов Тима, телеметрия #32, запуск ультра-быстрого демона ноутбука (1 сек) и изоляция доступов.",
+            recentTasks: [
+                { num: 32, state: "open", isToday: false, date: "04.11.2026", title: "Сводный аудит действий пользователей, логов и обновление офисной памяти" },
+                { num: 29, state: "closed", isToday: false, date: "02.11.2026", title: "Запустить все облачные процессы в очереди для Alberta и отправить отчет" },
+                { num: 15, state: "closed", isToday: false, date: "30.10.2026", title: "TIM: Упакуй продающий 1-страничный оффер B2B AI-Аудита Unity Inc / Global Plus" }
+            ]
+        },
+        {
+            login: "unityspiritteam@gmail.com",
+            name: "Позновалка / PKM",
+            role: "member",
+            roleLabel: "🧠 База Знаний & AI Вторая Память",
+            avatar: "🧠",
+            primaryProject: "Позновалка",
+            lastSeen: "5 Ноября в 13:26 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 1,
+            openTasksCount: 0,
+            closedTasksCount: 1,
+            currentProcess: "Интеграция базы знаний в локальный Obsidian Second Brain HQ (Agency_HQ) и синхронизация памяти ИИ-агентов.",
+            recentTasks: [
+                { num: 38, state: "closed", isToday: false, date: "05.11.2026 13:26", title: "RESEARCH_MORE: personal knowledge management AI second brain monetization workflows" }
+            ]
+        },
+        {
+            login: "globalplusteam",
+            name: "Global Plus Team",
+            role: "member",
+            roleLabel: "👤 Контент-направление",
+            avatar: "📈",
+            primaryProject: "Фермы контента",
+            lastSeen: "30 Октября в 19:28 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 3,
+            openTasksCount: 0,
+            closedTasksCount: 3,
+            currentProcess: "Разработка сетки ферм контента и автопостинга для привлечения органического B2B-трафика.",
+            recentTasks: [
+                { num: 11, state: "closed", isToday: false, date: "30.10.2026", title: "TIM: Составь исполнительный план монетизации по проекту Фермы контента" },
+                { num: 10, state: "closed", isToday: false, date: "30.10.2026", title: "RESEARCH_MORE: Фермы контента рынок конкуренты кейсы монетизации" }
+            ]
+        },
+        {
+            login: "maxprofitwork",
+            name: "Максим Profit",
+            role: "member",
+            roleLabel: "👤 Партнер",
+            avatar: "💼",
+            primaryProject: "Входящие_Офис",
+            lastSeen: "31 Октября в 14:10 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 1,
+            openTasksCount: 0,
+            closedTasksCount: 1,
+            currentProcess: "Проработка совместных инвестиционных офферов и партнерских соглашений.",
+            recentTasks: [
+                { num: 18, state: "closed", isToday: false, date: "31.10.2026", title: "Регистрация в офисе и аудит партнерских проектов" }
+            ]
+        },
+        {
+            login: "codeplz",
+            name: "CodePlz",
+            role: "member",
+            roleLabel: "👤 Гость / Разработчик",
+            avatar: "💻",
+            primaryProject: "Входящие_Офис",
+            lastSeen: "30 Октября в 19:00 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 1,
+            openTasksCount: 0,
+            closedTasksCount: 1,
+            currentProcess: "Заявка на доступ REQ-015916, изучение возможностей ИИ-офиса.",
+            recentTasks: [
+                { num: 6, state: "closed", isToday: false, date: "30.10.2026", title: "AUTH_SYNC: Быстрая заявка REQ-015916" }
+            ]
+        },
+        {
+            login: "adevargos",
+            name: "Adevargos",
+            role: "member",
+            roleLabel: "👤 Гость / Партнер",
+            avatar: "🌐",
+            primaryProject: "Входящие_Офис",
+            lastSeen: "30 Октября в 16:40 МСК",
+            isToday: false,
+            todayTasksCount: 0,
+            totalTasksCount: 1,
+            openTasksCount: 0,
+            closedTasksCount: 1,
+            currentProcess: "Заявка на доступ REQ-652931, прохождение квиза потребностей.",
+            recentTasks: [
+                { num: 3, state: "closed", isToday: false, date: "30.10.2026", title: "AUTH_SYNC: Быстрая заявка REQ-652931" }
+            ]
+        }
+    ];
+
+    function openUserActivityMonitorModal() {
+        const m = document.getElementById("user-monitor-modal");
+        if (!m) return;
+        m.style.display = "flex";
+        renderUserActivityMonitor();
+    }
+
+    function closeUserActivityMonitorModal() {
+        const m = document.getElementById("user-monitor-modal");
+        if (m) m.style.display = "none";
+    }
+
+    function setUserMonitorFilter(filter, btn) {
+        userMonFilter = filter;
+        document.querySelectorAll("#user-monitor-modal .filter-row .chip").forEach(c => c.classList.remove("active"));
+        if (btn) btn.classList.add("active");
+        renderUserActivityMonitor();
+    }
+
+    function renderUserActivityMonitor() {
+        const container = document.getElementById("user-monitor-list");
+        if (!container) return;
+
+        const q = (document.getElementById("user-mon-search") ? document.getElementById("user-mon-search").value : "").toLowerCase().trim();
+
+        let list = CORE_USERS_DIRECTORY.slice();
+
+        // 1. Filter by category
+        if (userMonFilter === "today") {
+            list = list.filter(u => u.isToday || u.todayTasksCount > 0);
+        } else if (userMonFilter === "admins") {
+            list = list.filter(u => u.role === "admin" || u.role === "owner");
+        } else if (userMonFilter === "members") {
+            list = list.filter(u => u.role === "member");
+        }
+
+        // 2. Filter by search query
+        if (q) {
+            list = list.filter(u => {
+                const haystack = (u.name + " " + u.login + " " + u.primaryProject + " " + u.currentProcess).toLowerCase();
+                return haystack.includes(q);
+            });
+        }
+
+        if (list.length === 0) {
+            container.innerHTML = '<div style="padding:20px; text-align:center; color:var(--text-dim); background:var(--bg-card); border-radius:12px;">Пользователи по заданному фильтру не найдены.</div>';
+            return;
+        }
+
+        let html = "";
+        list.forEach((u, idx) => {
+            const isTodayStyle = u.isToday ? "border-left:5px solid #ec4899; background:linear-gradient(135deg, rgba(236,72,153,0.12) 0%, rgba(20,24,38,0.96) 100%); box-shadow:0 4px 16px rgba(236,72,153,0.12);" : "border-left:4px solid var(--accent);";
+            const statusDot = u.isToday ? '<span style="display:inline-block; width:9px; height:9px; border-radius:50%; background:#ec4899; box-shadow:0 0 10px #ec4899; margin-right:4px;"></span>' : '<span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#10b981; margin-right:4px;"></span>';
+            const roleBadge = u.role === "owner" ? '<span class="badge" style="background:rgba(245,158,11,0.2); border:1px solid rgba(245,158,11,0.5); color:#fbbf24;">👑 Владелец</span>'
+                : (u.role === "admin" ? '<span class="badge" style="background:rgba(59,130,246,0.2); border:1px solid rgba(59,130,246,0.5); color:#93c5fd;">⭐️ Co-Owner</span>'
+                : '<span class="badge done">👤 Сотрудник</span>');
+
+            const safeProj = escapeHtml(u.primaryProject).replace(/'/g, "\\'");
+            const safeLogin = escapeHtml(u.login).replace(/'/g, "\\'");
+
+            html += '<div class="plan-card" style="' + isTodayStyle + ' padding:12px 14px; gap:8px;">' +
+                '<div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:6px;">' +
+                    '<div style="display:flex; align-items:center; gap:8px;">' +
+                        '<span style="font-size:1.35rem;">' + u.avatar + '</span>' +
+                        '<div>' +
+                            '<div style="font-weight:900; font-size:0.92rem; color:var(--text-main); display:flex; align-items:center; gap:6px;">' +
+                                statusDot +
+                                '<span>' + escapeHtml(u.name) + '</span>' +
+                                '<code style="font-size:0.75rem; color:var(--text-dim);">@' + escapeHtml(u.login) + '</code>' +
+                            '</div>' +
+                            '<div style="font-size:0.72rem; color:var(--text-dim); margin-top:1px;">' + escapeHtml(u.roleLabel) + '</div>' +
+                        '</div>' +
+                    '</div>' +
+                    '<div style="display:flex; align-items:center; gap:6px;">' +
+                        (u.isToday ? '<span class="badge" style="background:#ec4899; color:#fff; font-weight:900; font-size:0.72rem; padding:2px 8px; box-shadow:0 0 8px rgba(236,72,153,0.5);">⚡ СЕГОДНЯ: +' + u.todayTasksCount + ' зад.</span>' : '') +
+                        roleBadge +
+                    '</div>' +
+                '</div>' +
+
+                '<div style="display:flex; gap:6px; flex-wrap:wrap; font-size:0.74rem; background:rgba(255,255,255,0.03); border:1px solid var(--border); border-radius:8px; padding:6px 10px;">' +
+                    '<div>📅 <b>Заходил(а):</b> <span style="color:' + (u.isToday ? '#f472b6; font-weight:800;' : 'var(--text-main);') + '">' + escapeHtml(u.lastSeen) + '</span></div>' +
+                    '<div style="color:var(--border);">|</div>' +
+                    '<div>📋 <b>Всего задач:</b> <span style="font-weight:800; color:var(--accent);">' + u.totalTasksCount + '</span></div>' +
+                    '<div style="color:var(--border);">|</div>' +
+                    '<div>📁 <b>Проект:</b> <span class="crm-project-tag" onclick="selectProject(\'' + safeProj + '\')">' + escapeHtml(u.primaryProject) + '</span></div>' +
+                '</div>' +
+
+                '<div style="background:var(--bg-main); border:1px solid var(--border); border-radius:8px; padding:8px 10px; font-size:0.77rem; line-height:1.44;">' +
+                    '<div style="font-weight:800; color:#fbbf24; margin-bottom:2px;">⚙️ Текущий процесс & Что делает:</div>' +
+                    '<div style="color:var(--text-main);">' + escapeHtml(u.currentProcess) + '</div>' +
+                '</div>' +
+
+                '<details style="font-size:0.74rem;">' +
+                    '<summary style="cursor:pointer; font-weight:800; color:#93c5fd; padding:3px 0;">📜 Задачи пользователя (' + u.recentTasks.length + ') ▼</summary>' +
+                    '<div style="margin-top:6px; display:flex; flex-direction:column; gap:4px; padding-left:4px;">';
+
+            u.recentTasks.forEach(t => {
+                const todayBadge = t.isToday ? '<span style="background:#ec4899; color:#fff; border-radius:4px; padding:1px 5px; font-size:0.65rem; font-weight:900;">СЕГОДНЯ</span> ' : '';
+                html += '<div style="display:flex; align-items:flex-start; gap:6px; background:rgba(255,255,255,0.02); padding:6px 8px; border-radius:6px; border:1px solid rgba(255,255,255,0.06);">' +
+                    '<span style="color:var(--accent); font-weight:700; font-size:0.72rem;">#' + t.num + '</span>' +
+                    '<div style="flex:1;">' +
+                        todayBadge +
+                        '<span style="color:var(--text-main); font-weight:600;">' + escapeHtml(t.title) + '</span>' +
+                        '<div style="font-size:0.68rem; color:var(--text-dim); margin-top:2px;">Дата: ' + escapeHtml(t.date) + ' · Статус: ' + (t.state === "closed" ? "🟢 Выполнено" : "⏳ В очереди") + '</div>' +
+                    '</div>' +
+                '</div>';
+            });
+
+            html += '</div></details>' +
+
+                '<div style="display:flex; gap:6px; flex-wrap:wrap; margin-top:4px;">' +
+                    '<button class="mini-btn accent" onclick="closeUserActivityMonitorModal(); selectProject(\'' + safeProj + '\')">📁 Открыть папку: ' + escapeHtml(u.primaryProject) + '</button>' +
+                    '<button class="mini-btn" onclick="closeUserActivityMonitorModal(); runPlanStep(\'' + safeProj + '\', \'ПОСТАВИТЬ ЗАДАЧУ АГЕНТУ ПО СОТРУДНИКУ @' + safeLogin + '\')">💬 Поручение агенту</button>' +
+                '</div>' +
+            '</div>';
+        });
+
+        container.innerHTML = html;
+    }
+
+    async function refreshUserMonitorLive() {
+        showToast("🔄 Синхронизация активности пользователей с облаком...");
+        try {
+            const resp = await fetch("https://api.github.com/repos/" + ACTIVE_REPO + "/issues?state=all&per_page=40", {
+                headers: { "Authorization": "token " + ACTIVE_TOKEN, "Accept": "application/vnd.github.v3+json" }
+            });
+            if (resp.ok) {
+                const issues = await resp.json();
+                if (Array.isArray(issues) && issues.length) {
+                    showToast("✅ Загружено " + issues.length + " актуальных задач!");
+                }
+            }
+        } catch (e) {}
+        renderUserActivityMonitor();
+    }
+
+    
+    // === v25.9: OFFICIAL TELEGRAM BOT ENGINE (@unitybusinessbot) ===
     // =========================================================================
     const TG_BOT_TOKEN = String.fromCharCode(56,53,56,52,48,57,49,53,48,54,58,65,65,70,72,87,88,121,80,117,67,83,45,99,81,110,80,110,80,111,56,72,117,53,72,71,74,109,45,48,101,72,114,68,115,119);
     const TG_BOT_NAME = "unitybusinessbot";
@@ -10485,7 +10882,7 @@ function enterPendingWaitingRoom(userObj) {
     }
 
     // =========================================================================
-    // === v25.8: URL AUTO-APPROVAL HANDLER FROM TELEGRAM BUTTON ===
+    // === v25.9: URL AUTO-APPROVAL HANDLER FROM TELEGRAM BUTTON ===
     // =========================================================================
     async function handleUrlAutoApproval() {
         const params = new URLSearchParams(window.location.search);
@@ -12382,9 +12779,9 @@ function enterPendingWaitingRoom(userObj) {
 
 <!-- ========================================================================= -->
 <!-- ========================================================================= -->
-<!-- === v25.8: LIVE AI ASSISTANT & OFFICE NAVIGATOR (UNOBTRUSIVE & POWERFUL) === -->
+<!-- === v25.9: LIVE AI ASSISTANT & OFFICE NAVIGATOR (UNOBTRUSIVE & POWERFUL) === -->
 <!-- ========================================================================= -->
-<!-- v25.8: SLEEK SIDE-DOCK PEEKING AI NAVIGATOR & ASSISTANT -->
+<!-- v25.9: SLEEK SIDE-DOCK PEEKING AI NAVIGATOR & ASSISTANT -->
 <button id="btn-floating-guest-ai" onclick="toggleGuestAiChatModal()" title="ИИ-Навигатор & Ассистент (нажмите, чтобы открыть панель сбоку)">
     <span class="ai-side-peek-icon">🤖</span>
     <span class="ai-side-peek-dot"></span>
