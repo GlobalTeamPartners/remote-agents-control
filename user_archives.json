@@ -145,10 +145,25 @@
             "https://www.altahq.com/lp/alta-brand-short?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=200981457029&hsa_ad=828682649432&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-41",
+          "ts": "2026-11-06T21:52:18.212Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 41,
+          "project": "Входящие_Офис",
+          "kind": "director_tim",
+          "title": "👑 Тиму: https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa",
+          "study_text": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977 изучи и повтори всё из этого видео и подключи ноутбук ли и агентов сделай это быстро",
+          "urls": [
+            "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 10,
-      "last_saved_at": "2026-11-01T01:21:50.583Z"
+      "total_count": 11,
+      "last_saved_at": "2026-11-06T21:52:18.212Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -365,5 +380,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-06T07:46:16.186Z"
+  "updated_at": "2026-11-06T21:52:18.212Z"
 }
