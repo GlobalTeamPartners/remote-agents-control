@@ -3214,7 +3214,7 @@
             </div>
             <div style="background:rgba(236,72,153,0.12); border:1px solid rgba(236,72,153,0.4); border-radius:10px; padding:8px 10px;">
                 <div style="font-size:0.7rem; color:#f472b6;">Активны СЕГОДНЯ</div>
-                <div style="font-size:1.15rem; font-weight:900; color:#f472b6;" id="mon-stat-today-active">1 (Alberta: 2 зад.)</div>
+                <div style="font-size:1.15rem; font-weight:900; color:#f472b6;" id="mon-stat-today-active">2 (Alberta: 2, True1: 1)</div>
             </div>
             <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:10px; padding:8px 10px;">
                 <div style="font-size:0.7rem; color:var(--text-dim);">Всего задач</div>
@@ -3229,7 +3229,7 @@
         <!-- FILTER CHIPS -->
         <div class="filter-row" style="padding:0; margin-bottom:10px; flex-wrap:wrap; gap:5px;">
             <button class="chip active" id="mon-filter-all" onclick="setUserMonitorFilter('all', this)">Все (10)</button>
-            <button class="chip" id="mon-filter-today" onclick="setUserMonitorFilter('today', this)" style="border-color:rgba(236,72,153,0.5); color:#f472b6;">⚡ Активны сегодня (1)</button>
+            <button class="chip" id="mon-filter-today" onclick="setUserMonitorFilter('today', this)" style="border-color:rgba(236,72,153,0.5); color:#f472b6;">⚡ Активны сегодня (2)</button>
             <button class="chip" id="mon-filter-admins" onclick="setUserMonitorFilter('admins', this)">👑 Руководство (3)</button>
             <button class="chip" id="mon-filter-members" onclick="setUserMonitorFilter('members', this)">👤 Сотрудники (7)</button>
         </div>
@@ -10519,16 +10519,17 @@ function enterPendingWaitingRoom(userObj) {
             roleLabel: "⭐️ Co-Owner & Admin",
             avatar: "⚡",
             primaryProject: "12 IT Продуктов",
-            lastSeen: "5 Ноября в 18:55 МСК",
-            isToday: false,
-            todayTasksCount: 0,
-            totalTasksCount: 11,
+            lastSeen: "Сегодня, 6 Ноя в 14:55 МСК",
+            isToday: true,
+            todayTasksCount: 1,
+            totalTasksCount: 12,
             openTasksCount: 0,
-            closedTasksCount: 11,
-            currentProcess: "Трафик-комбайн Instagram Reels + TikTok для CPA-офферов, локальный ассистент Whisper + llama.cpp без облака, масштабирование челленджа 12 IT-продуктов.",
+            closedTasksCount: 12,
+            currentProcess: "Голосовой ИИ-Агент AltaHQ (Задача #41), Трафик-комбайн 50 Reels/сутки ($4.2k/день), AI-персонаж ($13.4k/мес), конвейер 12 IT-продуктов. Все системы запущены в работу для генерации денег.",
             recentTasks: [
+                { num: 41, state: "closed", isToday: true, date: "06.11.2026 14:55", title: "AltaHQ AI Calling Agent: Автономный голосовой робот бронирования для отелей и B2B ($1,000 + $300/мес)" },
                 { num: 175, state: "closed", isToday: false, date: "05.11.2026", title: "AI Персонаж под ключ ($13,400 / мес пассивный доход)" },
-                { num: 172, state: "closed", isToday: false, date: "04.11.2026", title: "Трафик-комбайн Instagram Reels + TikTok для CPA офферов" },
+                { num: 172, state: "closed", isToday: false, date: "04.11.2026", title: "Трафик-комбайн Instagram Reels + TikTok для CPA офферов (50 видео/сутки)" },
                 { num: 171, state: "closed", isToday: false, date: "04.11.2026", title: "Локальный голосовой ассистент на базе Whisper + llama.cpp без облака" },
                 { num: 26, state: "closed", isToday: false, date: "01.11.2026", title: "Анализ воронки AltaHQ и адаптация под экосистему" },
                 { num: 24, state: "closed", isToday: false, date: "31.10.2026", title: "Сгенерировать структуру Навигатора Telegram-канала и 5 экспертных постов" }
