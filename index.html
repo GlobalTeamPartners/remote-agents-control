@@ -2441,6 +2441,15 @@
                 <div class="search-bar">
                     <input type="text" class="search-input" id="crm-task-search" placeholder="🔍 Поиск по задачам, папкам и ссылкам..." oninput="renderCrmTasks()">
                 </div>
+                <!-- v26.2: STRICT USER TASK ISOLATION & ORDERED STUDY CHIPS -->
+                <div class="filter-row" id="crm-user-filters" style="overflow-x:auto; flex-wrap:nowrap; padding-bottom:6px; margin-bottom:4px; -webkit-overflow-scrolling:touch; gap:5px;">
+                    <button class="chip active" onclick="setCrmUserFilter('all', this)">👥 Все задачи (по порядку)</button>
+                    <button class="chip" onclick="setCrmUserFilter('true1team', this)" style="border-color:rgba(59,130,246,0.6); color:#93c5fd;">👑 Власлав (@true1team)</button>
+                    <button class="chip" onclick="setCrmUserFilter('aliashirani', this)" style="border-color:rgba(236,72,153,0.6); color:#f472b6;">🌸 Alberta (@aliashirani)</button>
+                    <button class="chip" onclick="setCrmUserFilter('tatianaknyazeva777', this)" style="border-color:rgba(245,158,11,0.6); color:#fbbf24;">🍯 Татьяна (tentorium.ru)</button>
+                    <button class="chip" onclick="setCrmUserFilter('yvyatkin', this)" style="border-color:rgba(16,185,129,0.6); color:#34d399;">🏒 Юрий (КХЛ)</button>
+                    <button class="chip" onclick="setCrmUserFilter('study_only', this)" style="border-color:#38bdf8; color:#38bdf8; font-weight:800;">📖 Изучение & Тим</button>
+                </div>
                 <div class="filter-row" id="crm-task-filters" style="overflow-x:auto; flex-wrap:nowrap; padding-bottom:6px;">
                     <button class="chip" data-flt="waiting_action" onclick="setCrmStatusFilter('waiting_action', this)" style="border-color:rgba(245,158,11,0.6); color:#fbbf24;">🚨 Ждёт меня (<span id="cnt-waiting-actions" class="tabular">0</span>)</button>
                     <button class="chip" data-flt="triage" onclick="setCrmStatusFilter('triage', this)" style="border-color:rgba(59,130,246,0.6); color:#93c5fd;">🧭 Триаж (<span id="cnt-triage" class="tabular">0</span>)</button>
@@ -5131,6 +5140,43 @@
         renderPlanView();
     }
 
+    
+    // =========================================================================
+    // === v26.2: STRICT USER TASK ISOLATION & ORDERING ENGINE ===
+    // =========================================================================
+    let crmUserFilter = "all";
+
+    function setCrmUserFilter(user, btn) {
+        crmUserFilter = user;
+        document.querySelectorAll("#crm-user-filters .chip").forEach(c => c.classList.remove("active"));
+        if (btn) btn.classList.add("active");
+        renderCrmTasks();
+    }
+
+    function getIssueActor(iss) {
+        const body = iss.body || "";
+        const title = iss.title || "";
+        const m = body.match(/<!-- ACTOR:\s*([^>|]+)/);
+        if (m) {
+            const raw = m[1].trim().toLowerCase();
+            if (raw.includes("aliashirani") || raw.includes("alberta")) return "aliashirani";
+            if (raw.includes("tatiana")) return "tatianaknyazeva777";
+            if (raw.includes("yvyatkin") || raw.includes("jv")) return "yvyatkin";
+            if (raw.includes("globalplus")) return "globalplusteam";
+            if (raw.includes("guest") || raw.includes("гость")) return "guests";
+            return "true1team";
+        }
+        const parsed = parseIssueProject(title);
+        const proj = canonicalProjectName(parsed.project).toLowerCase();
+        const tLower = title.toLowerCase();
+        if (proj.includes("alberta") || proj.includes("aliashirani")) return "aliashirani";
+        if (proj.includes("татьяна") || proj.includes("tentorium") || tLower.includes("князева")) return "tatianaknyazeva777";
+        if (proj.includes("юра") || proj.includes("yvyatkin") || tLower.includes("кхл")) return "yvyatkin";
+        if (proj.includes("фермы контента")) return "globalplusteam";
+        if (proj.includes("лиды_гости")) return "guests";
+        return "true1team";
+    }
+
     function setCrmStatusFilter(flt, btn) {
         crmStatusFilter = flt;
         document.querySelectorAll("#tab-tasks .chip").forEach(c => c.classList.remove("active"));
@@ -6063,13 +6109,26 @@
             });
         }
 
-        // Фильтрация и рендеринг только ДОСТУПНЫХ задач пользователя
+        // v26.2: СТРОГО ОТ ПОСЛЕДНИХ К ПЕРВЫМ (Reverse-Chronological)
+        accessibleIssues.sort((a, b) => (b.number || 0) - (a.number || 0));
+
+        // Фильтрация и рендеринг только ДОСТУПНЫХ задач пользователя (БЕЗ СМЕШИВАНИЯ!)
         accessibleIssues.forEach(iss => {
             const parsed = parseIssueProject(iss.title);
             const project = canonicalProjectName(parsed.project);
             const cmd = parsed.cmd;
             const resolved = resolveIssueContent(iss);
             const lastReply = resolved.replyText;
+
+            const actor = getIssueActor(iss);
+            const isTimStudy = Boolean(/TIM:|Тим|изуч|разбор|STUDY|RESEARCH|CMD:\s*https?:\/\//i.test(cmd + " " + iss.title + " " + lastReply));
+
+            // Фильтрация по пользователю (Не смешивать задачи разных пользователей!)
+            if (crmUserFilter === "true1team" && actor !== "true1team") return;
+            if (crmUserFilter === "aliashirani" && actor !== "aliashirani") return;
+            if (crmUserFilter === "tatianaknyazeva777" && actor !== "tatianaknyazeva777") return;
+            if (crmUserFilter === "yvyatkin" && actor !== "yvyatkin") return;
+            if (crmUserFilter === "study_only" && !isTimStudy) return;
 
             // Фильтры
             if (crmStatusFilter === "waiting_action" && iss.state !== "open" && !/PLAN_ACTIONS|Действие человека/i.test(cmd + " " + lastReply)) return;
@@ -6141,15 +6200,39 @@
             }
 
             // Карточка задачи
+            const actorBadge = actor === "true1team" 
+                ? '<span class="badge" style="background:rgba(59,130,246,0.15); border:1px solid #3b82f6; color:#93c5fd; font-size:0.68rem; padding:1px 5px; border-radius:4px; margin-left:4px;">👑 @true1team</span>'
+                : (actor === "aliashirani"
+                    ? '<span class="badge" style="background:rgba(236,72,153,0.15); border:1px solid #ec4899; color:#f472b6; font-size:0.68rem; padding:1px 5px; border-radius:4px; margin-left:4px;">🌸 @aliashirani</span>'
+                    : (actor === "tatianaknyazeva777"
+                        ? '<span class="badge" style="background:rgba(245,158,11,0.15); border:1px solid #f59e0b; color:#fbbf24; font-size:0.68rem; padding:1px 5px; border-radius:4px; margin-left:4px;">🍯 @tatiana</span>'
+                        : (actor === "yvyatkin"
+                            ? '<span class="badge" style="background:rgba(16,185,129,0.15); border:1px solid #10b981; color:#34d399; font-size:0.68rem; padding:1px 5px; border-radius:4px; margin-left:4px;">🏒 @yvyatkin</span>'
+                            : '<span class="badge" style="background:rgba(148,163,184,0.15); border:1px solid #94a3b8; color:#cbd5e1; font-size:0.68rem; padding:1px 5px; border-radius:4px; margin-left:4px;">👤 Офис</span>')));
+
+            const studyBadge = isTimStudy 
+                ? '<span class="badge" style="background:rgba(56,189,248,0.18); border:1px solid #38bdf8; color:#38bdf8; font-weight:800; font-size:0.68rem; padding:1px 6px; border-radius:4px; margin-left:4px;">📖 Изучение</span>' 
+                : '';
+
+            const mStudyLink = (cmd + " " + iss.title + " " + (iss.body || "")).match(/(https?:\/\/[^\s\)\"\'<>]+)/i);
+            const studyLinkHtml = mStudyLink 
+                ? '<div style="margin:4px 0;"><a href="' + mStudyLink[1] + '" target="_blank" onclick="event.stopPropagation()" class="mini-btn accent" style="text-decoration:none; display:inline-flex; align-items:center; gap:4px; font-size:0.72rem; padding:2px 7px;">🔗 Открыть материал (' + escapeHtml(mStudyLink[1].slice(0, 38)) + '...) ↗</a></div>' 
+                : '';
+
             html += '<div class="crm-task-card" onclick="selectProject(\'' + safeProj + '\')">' +
                 '<div class="crm-task-top tabular">' +
-                    '<span class="crm-project-tag">#' + iss.number + ' · 📁 ' + escapeHtml(project) + '</span>' +
+                    '<div style="display:flex; align-items:center; gap:4px; flex-wrap:wrap;">' +
+                        '<span class="crm-project-tag">#' + iss.number + ' · 📁 ' + escapeHtml(project) + '</span>' +
+                        actorBadge +
+                        studyBadge +
+                    '</div>' +
                     '<div style="display:flex; align-items:center; gap:6px;">' +
                         '<span>' + dateStr + ' ' + statusBadge + '</span>' +
                         '<button class="btn-action ghost owner-only-ctrl" style="padding:2px 7px; font-size:0.68rem;" onclick="event.stopPropagation(); toggleIssueState(' + iss.number + ', \'' + iss.state + '\')">' + (iss.state === "open" ? "Завершить ✓" : "Открыть ↺") + '</button>' +
                     '</div>' +
                 '</div>' +
                 '<div class="crm-task-title">' + linkifyText(cmd) + '</div>' +
+                studyLinkHtml +
                 (studiedSnippet ? '<div style="font-size:0.75rem; color:var(--text-main); background:rgba(139,92,246,0.08); border-left:3px solid #8b5cf6; padding:6px 9px; border-radius:6px; margin-top:2px;">🧠 <b>Изучено:</b> ' + escapeHtml(studiedSnippet) + '...</div>' : '') +
                 retryBannerHtml +
                 triageBarHtml +
