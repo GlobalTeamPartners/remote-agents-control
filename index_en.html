@@ -2382,6 +2382,7 @@
                     <input type="text" class="search-input" id="project-search" placeholder="🔍 Найти папку (12 IT Продуктов, Traffic, Alberta...)" oninput="renderProjects()">
                 </div>
                 <div class="filter-row" id="project-cat-filters" style="overflow-x:auto; flex-wrap:nowrap; padding-bottom:6px; -webkit-overflow-scrolling:touch;">
+                    <button class="chip" onclick="setProjectFilter('p1', this)" style="border-color:rgba(239,68,68,0.85); color:#f87171; font-weight:900; background:rgba(239,68,68,0.12);">🔥 В 1-ю очередь (P1)</button>
                     <button class="chip" onclick="setProjectFilter('inbox', this)" style="border-color:rgba(139,92,246,0.6); color:#c084fc;">📥 Входящие & Триаж</button>
                     <button class="chip active" onclick="setProjectFilter('worked', this)">⭐ Активные (<span id="cnt-worked" class="tabular">30</span>)</button>
                     <button class="chip" onclick="setProjectFilter('products', this)">🚀 Выручка & Трафик</button>
@@ -5274,6 +5275,9 @@
             const isClient = Boolean(meta.client);
 
             const cat = meta.category || (isClient ? "clients" : "products");
+            const P1_NAMES = ["AltaHQ_AI_Calling", "AltaHQ", "Юра", "Traffic", "Alberta", "Входящие_Офис", "Позновалка"];
+            const isP1Project = P1_NAMES.some(p => name.includes(p));
+            if (projectFilter === "p1" && !isP1Project) return;
             if (projectFilter === "worked" && !isWorked) return;
             if (projectFilter === "clients" && !isClient && cat !== "clients") return;
             if (projectFilter === "products" && cat !== "products") return;
