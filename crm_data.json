@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-06T07:46:13.709Z",
+  "updated_at": "2026-11-11T22:22:35.614Z",
   "version": "10.0",
   "knowledge_base": [
+    {
+      "id": "kb-1794435754038",
+      "issue": 44,
+      "saved_by_login": "true1team",
+      "saved_by_name": "@true1team",
+      "category": "Проект: True 1 Team",
+      "title": "TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_m",
+      "source_url": "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv",
+      "secondary_url": "",
+      "images": [],
+      "date": "12.11.2026",
+      "summary": "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982\n• Title: https://match.adsrvr.org/track/cmf/google\n• URL Source: https://www.optimizely.com/campaigns/who-is-mark-eting\n• Final URL: https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=ea100831-2fe3-4ac5-b124-2f147c0893f6&google_gid=CAESEItHKYAFF3KdiydoXyZFFJI&google_cver=1\n• A 1x1 image, likely be a tacker probe",
+      "action_items": [
+        "Сохранено в облако GitHub CRM и папку True 1 Team"
+      ]
+    },
     {
       "id": "kb-1793951172866",
       "issue": 40,
