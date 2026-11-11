@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-11-11T22:22:35.614Z",
+  "updated_at": "2026-11-11T22:23:22.637Z",
   "version": "10.0",
   "knowledge_base": [
+    {
+      "id": "kb-1794435801785",
+      "issue": 45,
+      "saved_by_login": "true1team",
+      "saved_by_name": "@true1team",
+      "category": "Проект: True 1 Team",
+      "title": "Изучить фото (3 шт.) для True 1 Team",
+      "source_url": "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
+      "secondary_url": "",
+      "images": [
+        "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
+        "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_2.jpg",
+        "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_3.jpg"
+      ],
+      "date": "12.11.2026",
+      "summary": "Сохранено в автономном облачном режиме (доступно 24/7 в Базе Знаний и папке проекта).",
+      "action_items": [
+        "Сохранено фото (3 шт.) + текст изучения в папку True 1 Team"
+      ]
+    },
     {
       "id": "kb-1794435754038",
       "issue": 44,
