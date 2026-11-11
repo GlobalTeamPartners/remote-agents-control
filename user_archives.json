@@ -160,10 +160,25 @@
             "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-43",
+          "ts": "2026-11-11T22:21:30.395Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 43,
+          "project": "Входящие_Офис",
+          "kind": "director_tim",
+          "title": "👑 Тиму: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go",
+          "study_text": "NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982 what this project makes money on what's it's MVP tell me and let's build a clone for us",
+          "urls": [
+            "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 11,
-      "last_saved_at": "2026-11-06T21:52:18.212Z"
+      "total_count": 12,
+      "last_saved_at": "2026-11-11T22:21:30.395Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -380,5 +395,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-06T21:52:18.212Z"
+  "updated_at": "2026-11-11T22:21:30.395Z"
 }
