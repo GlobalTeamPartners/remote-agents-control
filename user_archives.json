@@ -191,10 +191,27 @@
             "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-45",
+          "ts": "2026-11-11T22:23:26.032Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 45,
+          "project": "True 1 Team",
+          "kind": "saved_research",
+          "title": "Изучить фото (3 шт.) для True 1 Team",
+          "study_text": "",
+          "urls": [],
+          "image_urls": [
+            "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
+            "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_2.jpg",
+            "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_3.jpg"
+          ]
         }
       ],
-      "total_count": 13,
-      "last_saved_at": "2026-11-11T22:22:42.995Z"
+      "total_count": 14,
+      "last_saved_at": "2026-11-11T22:23:26.032Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -411,5 +428,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-11T22:22:42.995Z"
+  "updated_at": "2026-11-11T22:23:26.032Z"
 }
