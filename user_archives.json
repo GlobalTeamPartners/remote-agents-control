@@ -208,10 +208,25 @@
             "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_2.jpg",
             "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_3.jpg"
           ]
+        },
+        {
+          "id": "iss-46",
+          "ts": "2026-11-11T22:32:23.202Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 46,
+          "project": "Входящие_Офис",
+          "kind": "director_tim",
+          "title": "👑 Тиму: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.softswiss.com/ learn from this project how to make money",
+          "study_text": "NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.softswiss.com/ learn from this project how to make money now",
+          "urls": [
+            "https://www.softswiss.com/"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 14,
-      "last_saved_at": "2026-11-11T22:23:26.032Z"
+      "total_count": 15,
+      "last_saved_at": "2026-11-11T22:32:23.202Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -428,5 +443,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-11T22:23:26.032Z"
+  "updated_at": "2026-11-11T22:32:23.202Z"
 }
