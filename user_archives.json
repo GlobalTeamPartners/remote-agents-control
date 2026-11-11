@@ -175,10 +175,26 @@
             "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-44",
+          "ts": "2026-11-11T22:22:42.995Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 44,
+          "project": "True 1 Team",
+          "kind": "saved_research",
+          "title": "TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv",
+          "study_text": "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982",
+          "urls": [
+            "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv",
+            "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 12,
-      "last_saved_at": "2026-11-11T22:21:30.395Z"
+      "total_count": 13,
+      "last_saved_at": "2026-11-11T22:22:42.995Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -395,5 +411,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-11T22:21:30.395Z"
+  "updated_at": "2026-11-11T22:22:42.995Z"
 }
