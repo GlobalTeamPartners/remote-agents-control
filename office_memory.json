@@ -1,7 +1,7 @@
 {
   "version": "32.0",
-  "updated_at": "2026-11-12T20:02:18+00:00",
-  "cycle_count": 6,
+  "updated_at": "2026-11-12T22:33:45+00:00",
+  "cycle_count": 7,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -10,13 +10,16 @@
     "issue:50:auto:6823240175",
     "issue:49:auto:6823239374",
     "issue:53:comment:open",
-    "issue:54:comment:open"
+    "issue:54:comment:open",
+    "issue:46:auto:init",
+    "issue:45:auto:init"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
     "https://unityspirit.github.io/alberta-hub/",
     "https://unityspirit.github.io/alberta-hub/international/",
-    "https://www.reptbattero.com/"
+    "https://www.reptbattero.com/",
+    "https://www.softswiss.com/"
   ],
   "learned_facts": [
     {
@@ -66,6 +69,18 @@
       "topic": "Задача #54: CMD: https://www.reptbattero.com/ | PROJ: Входящие_Офис",
       "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: https://www.reptbattero.com/ | PROJ: Входящие_Офис\n\n**Изученные материалы:**\n- 🔗 **Lithium Battery Manufacturer for EV & ESS Solutions | REPT BATTERO** (`https://www.reptbattero.com/`): Lithium Battery Manufacturer for EV & ESS Solutions | REPT BATTERO Skip to content Home Solutions Products Projects R&D Industrial Chain About News Contact Energy St",
       "source": "issue #54"
+    },
+    {
+      "at": "2026-11-12T22:33:48+00:00",
+      "topic": "Задача #46: CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.softswiss.com/ learn from thi",
+      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.softswiss.com/ learn from this project how to make money | PROJ: Входящие_Офис\n\n**Изученные материалы:**\n- 🔗 **Online Casino Software – B2B iGaming Provider | SOFTSWISS** (`https://www.softswiss.com/`): Online Casino Software – B2B iGaming Provider | SOFTSW",
+      "source": "issue #46"
+    },
+    {
+      "at": "2026-11-12T22:33:49+00:00",
+      "topic": "Задача #45: CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team",
+      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение или команду (`/ceo`, `/strategy`, `/viral`, `/expert`) в ответ, и облачный агент продолжит автоматически даж",
+      "source": "issue #45"
     }
   ],
   "projects": {},
@@ -125,6 +140,20 @@
       "issue": 54,
       "url": null,
       "summary": "#54 (Облачный Совет Агентов 24/7): CMD: https://www.reptbattero.com/ | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-12T22:33:48+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 46,
+      "url": null,
+      "summary": "#46 (Облачный Совет Агентов 24/7): CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.softswiss.com/ learn from this project how to make money | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-12T22:33:49+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 45,
+      "url": null,
+      "summary": "#45 (Облачный Совет Агентов 24/7): CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team"
     }
   ]
 }
