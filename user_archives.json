@@ -236,10 +236,26 @@
           "study_text": "Profitroom.com study learn copy system and let's implement make money! And give feedback in the spikebot unityspiritpartners unity business bot report how we make money",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-54",
+          "ts": "2026-11-12T20:02:17.704Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 54,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://www.reptbattero.com/",
+          "study_text": "https://www.reptbattero.com/\nWhat's there goal how they make revenue?",
+          "urls": [
+            "https://www.reptbattero.com/",
+            "https://www.reptbattero.com/"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 16,
-      "last_saved_at": "2026-11-12T19:52:56.543Z"
+      "total_count": 17,
+      "last_saved_at": "2026-11-12T20:02:17.704Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -534,5 +550,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-12T19:52:56.543Z"
+  "updated_at": "2026-11-12T20:02:17.704Z"
 }
