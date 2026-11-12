@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-12T10:10:14.660Z",
+  "updated_at": "2026-11-12T19:52:53.964Z",
   "version": "10.0",
   "knowledge_base": [
+    {
+      "id": "kb-1794513172891",
+      "issue": 53,
+      "saved_by_login": "true1team",
+      "saved_by_name": "@true1team",
+      "category": "Проект: Белый Доминикана",
+      "title": "TIM: Profitroom.com study learn copy system and let's implement make money! And give feedback in the spikebot unityspiritpart",
+      "source_url": "",
+      "secondary_url": "",
+      "images": [],
+      "date": "12.11.2026",
+      "summary": "Profitroom.com study learn copy system and let's implement make money! And give feedback in the spikebot unityspiritpartners unity business bot report how we make money",
+      "action_items": [
+        "Сохранено в облако GitHub CRM и папку Белый Доминикана"
+      ]
+    },
     {
       "id": "kb-1794478213876",
       "issue": 50,
