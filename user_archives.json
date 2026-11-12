@@ -223,10 +223,23 @@
             "https://www.softswiss.com/"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-53",
+          "ts": "2026-11-12T19:52:56.543Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 53,
+          "project": "Белый Доминикана",
+          "kind": "saved_research",
+          "title": "TIM: Profitroom.com study learn copy system and let's implement make money! And give feedback in the spikebot unityspiritpartners unity business",
+          "study_text": "Profitroom.com study learn copy system and let's implement make money! And give feedback in the spikebot unityspiritpartners unity business bot report how we make money",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 15,
-      "last_saved_at": "2026-11-11T22:32:23.202Z"
+      "total_count": 16,
+      "last_saved_at": "2026-11-12T19:52:56.543Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -521,5 +534,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-12T17:07:18.478Z"
+  "updated_at": "2026-11-12T19:52:56.543Z"
 }
