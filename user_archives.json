@@ -382,10 +382,23 @@
           "study_text": "Исправь, что у нас проект не про интерьер, а про трансформацию женщин 30-50 лет и выстраивай всю структуру инфо продуктов исходя из этого.",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-47",
+          "ts": "2026-11-12T10:01:56.078Z",
+          "login": "aliashirani",
+          "full_name": "Alberta Shirani",
+          "issue_number": 47,
+          "project": "Alberta",
+          "kind": "agent_request",
+          "title": "RESEARCH_MORE: Быстрые клиенты и идеи монетизации для Alberta",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 9,
-      "last_saved_at": "2026-11-06T07:46:16.186Z"
+      "total_count": 10,
+      "last_saved_at": "2026-11-12T10:01:56.078Z"
     },
     "unityspiritpartners": {
       "login": "unityspiritpartners",
@@ -443,5 +456,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-11T22:32:23.202Z"
+  "updated_at": "2026-11-12T10:01:56.078Z"
 }
