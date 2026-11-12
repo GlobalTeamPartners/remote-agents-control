@@ -468,10 +468,23 @@
           "study_text": "запусти все облачные процессы в очереди для Alberta обработай и отправь ей отчет @aliashiran что  делаем  дальше направив ей напоминание что ей стоит зайти в офис и проверить свою стратагию",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-51",
+          "ts": "2026-11-12T17:05:00.963Z",
+          "login": "unityspiritpartners",
+          "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+          "issue_number": 51,
+          "project": "Alberta",
+          "kind": "agent_request",
+          "title": "/ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 2,
-      "last_saved_at": "2026-11-02T17:24:22.398Z"
+      "total_count": 3,
+      "last_saved_at": "2026-11-12T17:05:00.963Z"
     },
     "unityspiritteam@gmail.com": {
       "login": "unityspiritteam@gmail.com",
@@ -495,5 +508,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-12T10:10:17.226Z"
+  "updated_at": "2026-11-12T17:05:00.963Z"
 }
