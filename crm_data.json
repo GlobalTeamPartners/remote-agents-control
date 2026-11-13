@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-13T20:51:54.537Z",
+  "updated_at": "2026-11-13T20:52:58.772Z",
   "version": "10.0",
   "knowledge_base": [
+    {
+      "id": "kb-1794603176871",
+      "issue": 56,
+      "saved_by_login": "true1team",
+      "saved_by_name": "@true1team",
+      "category": "Проект: Входящие_Офис",
+      "title": "TIM: https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения",
+      "source_url": "https://www.comss.ru/page.php?id=22854",
+      "secondary_url": "",
+      "images": [],
+      "date": "13.11.2026",
+      "summary": "https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения\n• Title: Приложение COMSS AI 2.0 получило поддержку Google Antigravity\n• URL Source: https://www.comss.ru/page.php?id=22854\n• Published Time: 2026-11-12T23:02:00+03:00\n• 12 ноября вышла версия COMSS AI 2.0 для Windows. В ней появилась поддержка [Google Antigravity](https://www.comss.ru/page.php?id=22853) – платформы Google для разработки [программ](https://www.comss.ru/page.php?id=22854#) с помощью ИИ-агентов. Antigravity, как и остальные возможности приложения, доступен в бесплатном пробном периоде. Кроме того, оплаченную подписку теперь можно восстановить по номеру платежа, например после переустановки Windows.\n• ![Image 1: Окно COMSS AI 2.0.3: режим Comss AI включён, пункт «Comss.one DNS для программ без поддержки прокси» со списком ChatGPT, Codex, Antigravity, Cursor и Copilot](blob:http://localhost/4e9e1002e91ab485b8457f6f57173df7)_Google Antigravity и COMSS AI 2.0.3 с включённым режимом Comss AI на тестовом ПК. Изображение: Comss.ru_\n• ### Что изменилось во второй версии\n• антивирус Касперского\n• COMSS AI открывает доступ из России к ChatGPT, Claude, Gemini и другим ИИ-сервисам и инструментам разработки. Во второй версии приложение переписано на WinUI 3 (Windows App SDK) вместо Electron. .NET и Windows App SDK устанавливаются вместе с приложением. Версия ставится поверх 1.x с сохранением подписки и настроек, а дальше приложение обновляется автоматически.",
+      "action_items": [
+        "Сохранено в облако GitHub CRM и папку Входящие_Офис"
+      ]
+    },
     {
       "id": "kb-1794603113202",
       "issue": 55,
