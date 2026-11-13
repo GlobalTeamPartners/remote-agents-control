@@ -1,17 +1,16 @@
 {
   "version": "32.0",
   "status": "online_24_7",
-  "last_cycle_iso": "2026-11-13T10:28:38+00:00",
-  "cycle_count": 9,
+  "last_cycle_iso": "2026-11-13T17:58:46+00:00",
+  "cycle_count": 10,
   "event": "schedule",
-  "tasks_executed_this_cycle": 1,
+  "tasks_executed_this_cycle": 0,
   "studied_this_cycle": false,
   "memory_facts_count": 13,
   "studied_urls_count": 8,
   "bot_gate_mode": "request_only_by_@unityspiritpartners",
   "tg_offline_fallback": {
-    "polled": true,
-    "updates": 0,
-    "handled": 0
+    "polled": false,
+    "reason": "local_daemon_online"
   }
 }
