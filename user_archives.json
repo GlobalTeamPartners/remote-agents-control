@@ -555,10 +555,26 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-57",
+          "ts": "2026-11-13T21:23:07.589Z",
+          "login": "unityspiritpartners",
+          "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+          "issue_number": 57,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0 learn from this post and tell me what you learned and continue",
+          "study_text": "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0 learn from this post and tell me what you learned and continue",
+          "urls": [
+            "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0",
+            "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 4,
-      "last_saved_at": "2026-11-12T17:07:18.478Z"
+      "total_count": 5,
+      "last_saved_at": "2026-11-13T21:23:07.589Z"
     },
     "unityspiritteam@gmail.com": {
       "login": "unityspiritteam@gmail.com",
@@ -582,5 +598,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-13T20:53:01.427Z"
+  "updated_at": "2026-11-13T21:23:07.589Z"
 }
