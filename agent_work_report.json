@@ -124,5 +124,27 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-13T02:55:00+00:00",
+    "source": "github_actions_cloud_24_7",
+    "cycle": 8,
+    "tasks": [
+      {
+        "issue": 44,
+        "title": "CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv | PROJ: True 1 Team",
+        "persona": "Облачный Совет Агентов 24/7",
+        "model": "deterministic-fallback",
+        "preview": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv | PROJ: True 1 Team\n\n**Изученные материалы:**\n- 🔗 **Mar"
+      },
+      {
+        "issue": 43,
+        "title": "CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go | PROJ: Входящие_Офис",
+        "persona": "Облачный Совет Агентов 24/7",
+        "model": "deterministic-fallback",
+        "preview": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go | PROJ: Входящие_Офис\n\n**Изученные материалы:**\n- "
+      }
+    ],
+    "study": null
   }
 ]
