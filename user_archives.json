@@ -252,10 +252,26 @@
             "https://www.reptbattero.com/"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-55",
+          "ts": "2026-11-13T20:51:56.872Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 55,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "TIM: https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm",
+          "study_text": "https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm_type=demgen&utm_acc=3067916666&gad_source=2&gad_campaignid=24417053234&pivex_attribution_id=617592ba-d561-4eca-801e-483d299214de&pageindex=landing изучи как они рекламируют 50 долларов привратить в 25000 доларов",
+          "urls": [
+            "https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm",
+            "https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm_type=demgen&utm_acc=3067916666&gad_source=2&gad_campaignid=24417053234&pivex_attribution_id=617592ba-d561-4eca-801e-483d299214de&pageindex=landing"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 17,
-      "last_saved_at": "2026-11-12T20:02:17.704Z"
+      "total_count": 18,
+      "last_saved_at": "2026-11-13T20:51:56.872Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -550,5 +566,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-12T20:02:17.704Z"
+  "updated_at": "2026-11-13T20:51:56.872Z"
 }
