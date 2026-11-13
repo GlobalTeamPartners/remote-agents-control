@@ -571,10 +571,25 @@
             "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-58",
+          "ts": "2026-11-13T21:23:34.423Z",
+          "login": "unityspiritpartners",
+          "full_name": "Vlaslav (Owner — Unity Spirit Partners)",
+          "issue_number": 58,
+          "project": "Traffic",
+          "kind": "director_tim",
+          "title": "👑 Тиму: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0",
+          "study_text": "NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0",
+          "urls": [
+            "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 5,
-      "last_saved_at": "2026-11-13T21:23:07.589Z"
+      "total_count": 6,
+      "last_saved_at": "2026-11-13T21:23:34.423Z"
     },
     "unityspiritteam@gmail.com": {
       "login": "unityspiritteam@gmail.com",
@@ -598,5 +613,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-13T21:23:07.589Z"
+  "updated_at": "2026-11-13T21:23:34.423Z"
 }
