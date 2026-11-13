@@ -260,5 +260,19 @@
       "model": "structured-cloud-analyzer",
       "summary": "Изучено (Проект: True 1 Team): «Изучить фото (3 шт.) для True 1 Team». Ключевое: ����\u0000\u0010JFIF\u0000\u0001\u0001\u0000\u0000\u0001\u0000\u0001\u0000\u0000��\u0001�ICC_PROFILE\u0000\u0001\u0001\u0000\u0000\u0001�\u0000\u0000\u0000\u0000\u00040\u0000\u0000mntrRGB XYZ \u0007�\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000acsp\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000��\u0000\u0001\u0000\u0000\u0000\u0000�-\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 desc\u0000\u0000\u0000�\u0000\u0000\u0000$rXYZ\u0000\u0000\u0001\u0014\u0000\u0000\u0000\u0014gXYZ\u0000\u0000\u0001(\u0000\u0000\u0000\u0014bXYZ\u0000\u0000\u0001 �HI �#g��O��N���\u0007���Q8\u0004\u001bT"
     }
+  },
+  {
+    "at": "2026-11-13T22:46:14+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "33.0",
+    "model_engine": "structured-cloud-analyzer (awaiting GEMINI_API_KEY)",
+    "cycle": 17,
+    "tasks": [],
+    "study": {
+      "title": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR",
+      "url": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
+      "model": "structured-cloud-analyzer",
+      "summary": "Изучено (Проект: Входящие_Офис): «SCW26 - YOUTUBE - GNSS ACADEMY». Ключевое: SCW26 - YOUTUBE - GNSS ACADEMY FREE · LIVE ONLINE · NOV 9 · 2 WEEKS · 8 PM (PARIS TIME) SPACE CAREER WEEK 2026 Discover where your engineering background fits in Space, and leave with your roadmap to get there Free certified training with Edua"
+    }
   }
 ]
