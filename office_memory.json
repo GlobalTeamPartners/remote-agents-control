@@ -1,7 +1,7 @@
 {
   "version": "32.0",
-  "updated_at": "2026-11-13T22:44:03+00:00",
-  "cycle_count": 16,
+  "updated_at": "2026-11-13T22:46:09+00:00",
+  "cycle_count": 17,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -37,7 +37,8 @@
     "https://www.comss.ru/page.php?id=22854",
     "https://www.comss.ru/page.php?id=22853",
     "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0",
-    "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg"
+    "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
+    "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04"
   ],
   "learned_facts": [
     {
@@ -153,6 +154,12 @@
       "topic": "Задача #56: CMD: TIM: https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения | PROJ: Входящи",
       "insight": "⚛️ **Antigravity 2.0 Cloud (CEO Стратег) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Приложение COMSS AI 2.0 получило поддержку Google Antigravity** (`https://www.comss.ru/page.php?id=22854`)\n  > В COMSS AI 2.0 для Windows появилась поддержка Google Antigravit",
       "source": "issue #56"
+    },
+    {
+      "at": "2026-11-13T22:46:12+00:00",
+      "topic": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR",
+      "insight": "Изучено (Проект: Входящие_Офис): «SCW26 - YOUTUBE - GNSS ACADEMY». Ключевое: SCW26 - YOUTUBE - GNSS ACADEMY FREE · LIVE ONLINE · NOV 9 · 2 WEEKS · 8 PM (PARIS TIME) SPACE CAREER WEEK 2026 Discover where your engineering background fits in Space, and leave with your roadmap to get there Free certified training with Eduardo Tapias, ESA trainer with 25+ years in the European space industry. Learn ",
+      "source": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04"
     }
   ],
   "projects": {},
@@ -296,6 +303,13 @@
       "issue": null,
       "url": "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
       "summary": "Изучен материал (structured-cloud-analyzer): Изучить фото (3 шт.) для True 1 Team"
+    },
+    {
+      "at": "2026-11-13T22:46:12+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR"
     }
   ]
 }
