@@ -268,10 +268,26 @@
             "https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm_type=demgen&utm_acc=3067916666&gad_source=2&gad_campaignid=24417053234&pivex_attribution_id=617592ba-d561-4eca-801e-483d299214de&pageindex=landing"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-56",
+          "ts": "2026-11-13T20:53:01.427Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 56,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "TIM: https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения",
+          "study_text": "https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения",
+          "urls": [
+            "https://www.comss.ru/page.php?id=22854",
+            "https://www.comss.ru/page.php?id=22854"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 18,
-      "last_saved_at": "2026-11-13T20:51:56.872Z"
+      "total_count": 19,
+      "last_saved_at": "2026-11-13T20:53:01.427Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -566,5 +582,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-13T20:51:56.872Z"
+  "updated_at": "2026-11-13T20:53:01.427Z"
 }
