@@ -1,7 +1,7 @@
 {
   "version": "32.0",
-  "updated_at": "2026-11-13T22:46:09+00:00",
-  "cycle_count": 17,
+  "updated_at": "2026-11-13T23:26:46+00:00",
+  "cycle_count": 18,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -38,7 +38,10 @@
     "https://www.comss.ru/page.php?id=22853",
     "https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0",
     "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
-    "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04"
+    "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
+    "https://www.instagram.com/quest_ptg/",
+    "https://www.instagram.com/quest_ptg/",
+    "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662"
   ],
   "learned_facts": [
     {
@@ -160,6 +163,12 @@
       "topic": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR",
       "insight": "Изучено (Проект: Входящие_Офис): «SCW26 - YOUTUBE - GNSS ACADEMY». Ключевое: SCW26 - YOUTUBE - GNSS ACADEMY FREE · LIVE ONLINE · NOV 9 · 2 WEEKS · 8 PM (PARIS TIME) SPACE CAREER WEEK 2026 Discover where your engineering background fits in Space, and leave with your roadmap to get there Free certified training with Eduardo Tapias, ESA trainer with 25+ years in the European space industry. Learn ",
       "source": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04"
+    },
+    {
+      "at": "2026-11-13T23:26:52+00:00",
+      "topic": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_so",
+      "insight": "Изучено (Проект: Thought/Мысль): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you",
+      "source": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retarget"
     }
   ],
   "projects": {},
@@ -310,6 +319,27 @@
       "issue": null,
       "url": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
       "summary": "Изучен материал (structured-cloud-analyzer): https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR"
+    },
+    {
+      "at": "2026-11-13T23:26:51+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://www.instagram.com/quest_ptg/",
+      "summary": "URL недоступен: https://www.instagram.com/quest_ptg/ (HTTP Error 429: Too Many Requests)"
+    },
+    {
+      "at": "2026-11-13T23:26:52+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://www.instagram.com/quest_ptg/",
+      "summary": "URL недоступен: https://www.instagram.com/quest_ptg/ (HTTP Error 429: Too Many Requests)"
+    },
+    {
+      "at": "2026-11-13T23:26:52+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_so"
     }
   ]
 }
