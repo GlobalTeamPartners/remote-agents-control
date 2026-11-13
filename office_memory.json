@@ -1,7 +1,7 @@
 {
   "version": "32.0",
-  "updated_at": "2026-11-12T22:33:45+00:00",
-  "cycle_count": 7,
+  "updated_at": "2026-11-13T02:54:50+00:00",
+  "cycle_count": 8,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -12,14 +12,19 @@
     "issue:53:comment:open",
     "issue:54:comment:open",
     "issue:46:auto:init",
-    "issue:45:auto:init"
+    "issue:45:auto:init",
+    "issue:44:auto:6808488696",
+    "issue:43:auto:init"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
     "https://unityspirit.github.io/alberta-hub/",
     "https://unityspirit.github.io/alberta-hub/international/",
     "https://www.reptbattero.com/",
-    "https://www.softswiss.com/"
+    "https://www.softswiss.com/",
+    "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv",
+    "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv&utm_content=mark-eting&utm_term=&gad_source=2&gad_campaignid=23951194982",
+    "https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go"
   ],
   "learned_facts": [
     {
@@ -81,6 +86,18 @@
       "topic": "Задача #45: CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team",
       "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение или команду (`/ceo`, `/strategy`, `/viral`, `/expert`) в ответ, и облачный агент продолжит автоматически даж",
       "source": "issue #45"
+    },
+    {
+      "at": "2026-11-13T02:54:55+00:00",
+      "topic": "Задача #44: CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen",
+      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv | PROJ: True 1 Team\n\n**Изученные материалы:**\n- 🔗 **Mark Eting** (`https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_co",
+      "source": "issue #44"
+    },
+    {
+      "at": "2026-11-13T02:54:56+00:00",
+      "topic": "Задача #43: CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-",
+      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go | PROJ: Входящие_Офис\n\n**Изученные материалы:**\n- 🔗 **Mark Eting** (`https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go`): Mark Eting Mark Eting's favorite AI platform. Meet Mark. He",
+      "source": "issue #43"
     }
   ],
   "projects": {},
@@ -154,6 +171,20 @@
       "issue": 45,
       "url": null,
       "summary": "#45 (Облачный Совет Агентов 24/7): CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team"
+    },
+    {
+      "at": "2026-11-13T02:54:55+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 44,
+      "url": null,
+      "summary": "#44 (Облачный Совет Агентов 24/7): CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen_mark-eting_na_na_conv | PROJ: True 1 Team"
+    },
+    {
+      "at": "2026-11-13T02:54:56+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 43,
+      "url": null,
+      "summary": "#43 (Облачный Совет Агентов 24/7): CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=go | PROJ: Входящие_Офис"
     }
   ]
 }
