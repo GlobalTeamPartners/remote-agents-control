@@ -274,5 +274,19 @@
       "model": "structured-cloud-analyzer",
       "summary": "Изучено (Проект: Входящие_Офис): «SCW26 - YOUTUBE - GNSS ACADEMY». Ключевое: SCW26 - YOUTUBE - GNSS ACADEMY FREE · LIVE ONLINE · NOV 9 · 2 WEEKS · 8 PM (PARIS TIME) SPACE CAREER WEEK 2026 Discover where your engineering background fits in Space, and leave with your roadmap to get there Free certified training with Edua"
     }
+  },
+  {
+    "at": "2026-11-13T23:26:53+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "33.0",
+    "model_engine": "structured-cloud-analyzer (awaiting GEMINI_API_KEY)",
+    "cycle": 18,
+    "tasks": [],
+    "study": {
+      "title": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_so",
+      "url": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662",
+      "model": "structured-cloud-analyzer",
+      "summary": "Изучено (Проект: Thought/Мысль): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you"
+    }
   }
 ]
