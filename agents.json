@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:28:56+00:00",
+  "updated": "2026-11-14T10:50:25+00:00",
   "system_agents": {
     "tim": {
       "name": "Директор Тим",
@@ -235,14 +235,14 @@
       "emoji": "☁️",
       "project": "Global Spirit Group",
       "status": "online",
-      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #23"
+      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #24"
     },
     "tg_bot_poller": {
       "name": "Telegram HQ Poller v34.1 (@unitybusinessbot)",
       "emoji": "🤖",
       "project": "Главный Штаб",
-      "status": "offline_local",
-      "detail": "Офлайн — перехвачен облачным fallback 24/7"
+      "status": "online",
+      "detail": "Онлайн на ПК"
     }
   },
   "model_router": {
