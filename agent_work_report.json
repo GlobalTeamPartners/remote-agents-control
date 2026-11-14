@@ -359,5 +359,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «Greece Golden Visa 2026: €250K–€800K Thresholds, Costs & Requirements | Astons». Ключевое: Greece Golden Visa 2026 from €250,000 — Greek residency by investment. Schengen travel, family permits, high-yield properties, verified projects & full-cycle support from Astons’ experts."
     }
+  },
+  {
+    "at": "2026-11-14T03:28:59+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 23,
+    "tasks": [],
+    "study": {
+      "title": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586",
+      "url": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586». Ключевое: AI-агенты: новый рабочий инструмент для бизнеса — бесплатный вебинар Б Богатушин сегодня · 19:00 GMT+3 · онлайн Бесплатный онлайн-вебинар · сегодня · 19:00 GMT+3 AI-агенты: новый ра"
+    }
   }
 ]
