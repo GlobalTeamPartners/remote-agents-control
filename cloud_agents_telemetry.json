@@ -7,14 +7,14 @@
   "active_tier": "hydrogen",
   "transport": "fallback",
   "llm_ready": false,
-  "local_daemon_online": false,
-  "last_cycle_iso": "2026-11-14T03:28:55+00:00",
-  "cycle_count": 23,
+  "local_daemon_online": true,
+  "last_cycle_iso": "2026-11-14T10:50:24+00:00",
+  "cycle_count": 24,
   "event": "schedule",
   "tasks_executed_this_cycle": 0,
   "studied_this_cycle": true,
-  "memory_facts_count": 30,
-  "studied_urls_count": 24,
+  "memory_facts_count": 31,
+  "studied_urls_count": 25,
   "failed_urls_count": 1,
   "projects_synced_count": 25,
   "eval_stats": {
@@ -28,8 +28,7 @@
   },
   "bot_gate_mode": "request_only_by_@unityspiritpartners",
   "tg_offline_fallback": {
-    "polled": true,
-    "updates": 0,
-    "handled": 0
+    "polled": false,
+    "reason": "local_daemon_online"
   }
 }
