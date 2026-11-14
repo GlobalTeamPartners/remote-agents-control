@@ -342,5 +342,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: соеденения): «AI teammates that finish the work | Grok Bot». Ключевое: Grok Bot is your team of always-on AI teammates. They have their own computer, use it like you do, and never log off."
     }
+  },
+  {
+    "at": "2026-11-14T03:17:03+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 22,
+    "tasks": [],
+    "study": {
+      "title": "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_cam",
+      "url": "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_campaign=rez_greece_dgen_eu_en_24092026&utm_content=dgen_greece_en&utm_term=24284806448|825849871804||2246&gad_source=2&gad_campaignid=24284806448",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «Greece Golden Visa 2026: €250K–€800K Thresholds, Costs & Requirements | Astons». Ключевое: Greece Golden Visa 2026 from €250,000 — Greek residency by investment. Schengen travel, family permits, high-yield properties, verified projects & full-cycle support from Astons’ experts."
+    }
   }
 ]
