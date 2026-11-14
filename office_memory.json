@@ -1,7 +1,7 @@
 {
   "version": "34.1",
-  "updated_at": "2026-11-14T13:49:35+00:00",
-  "cycle_count": 25,
+  "updated_at": "2026-11-14T14:44:51+00:00",
+  "cycle_count": 26,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -23,7 +23,8 @@
     "issue:51:comment:6866762952",
     "issue:56:comment:manual",
     "issue:59:comment:open",
-    "issue:60:comment:open"
+    "issue:60:comment:open",
+    "issue:61:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -52,7 +53,10 @@
     "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691",
     "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
     "https://plan.muscle-booster.io/",
-    "https://plan.muscle-booster.io/onboarding"
+    "https://plan.muscle-booster.io/onboarding",
+    "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
+    "https://go.shadowpages.io/thealexanderlari-booking",
+    "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11"
   ],
   "learned_facts": [
     {
@@ -243,6 +247,12 @@
       "topic": "Задача #60: CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **MuscleBooster** (`https://plan.muscle-booster.io/`)\n  > Personalized Workout Plan – Looking for how to lose weight fast or gain muscles? Transform your body with personalized workout pla",
       "source": "issue #60"
+    },
+    {
+      "at": "2026-11-14T14:44:54+00:00",
+      "topic": "Задача #61: CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Book your call...** (`https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527`)\n  > Book your call... Redirecting to Book your call... …\n- 🔗 **Book your call...** (`http",
+      "source": "issue #61"
     }
   ],
   "projects": {
@@ -635,6 +645,13 @@
       "issue": 60,
       "url": null,
       "summary": "#60 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-14T14:44:54+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 61,
+      "url": null,
+      "summary": "#61 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
