@@ -13,11 +13,11 @@
     "carbon_model": "openai/gpt-4o",
     "hydrogen_model": "openai/gpt-4o-mini"
   },
-  "updated_at": "2026-11-14T03:17:01+00:00",
+  "updated_at": "2026-11-14T03:28:56+00:00",
   "cloud_status": "online_24_7",
-  "cloud_last_cycle": "2026-11-14T03:17:01+00:00",
+  "cloud_last_cycle": "2026-11-14T03:28:56+00:00",
   "llm_ready": false,
-  "local_daemon_online": true,
-  "cycle_count": 22,
-  "memory_facts_count": 29
+  "local_daemon_online": false,
+  "cycle_count": 23,
+  "memory_facts_count": 30
 }
