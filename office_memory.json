@@ -1,7 +1,7 @@
 {
   "version": "34.1",
-  "updated_at": "2026-11-14T10:50:14+00:00",
-  "cycle_count": 24,
+  "updated_at": "2026-11-14T13:49:35+00:00",
+  "cycle_count": 25,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -22,7 +22,8 @@
     "issue:58:comment:open",
     "issue:51:comment:6866762952",
     "issue:56:comment:manual",
-    "issue:59:comment:open"
+    "issue:59:comment:open",
+    "issue:60:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -49,7 +50,9 @@
     "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxconv_demandgen&utm_content=828009486204&cc_gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-Thm_Sy67dMRxYYWyTsJHLsKlr14PW6OsG6yhKWxHr7Zogi7rQ08BRoCVKUQAvD_BwE&gad_source=2&gad_campaignid=24187973224",
     "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_campaign=rez_greece_dgen_eu_en_24092026&utm_content=dgen_greece_en&utm_term=24284806448|825849871804||2246&gad_source=2&gad_campaignid=24284806448",
     "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691",
-    "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581"
+    "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
+    "https://plan.muscle-booster.io/",
+    "https://plan.muscle-booster.io/onboarding"
   ],
   "learned_facts": [
     {
@@ -234,6 +237,12 @@
       "topic": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut",
       "insight": "Изучено (Проект: Позновалка): «Reddit Ads». Ключевое: Start advertising on Reddit today! Reach 250 million users and connect with passionate communities sharing stories and engaging conversations.",
       "source": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473"
+    },
+    {
+      "at": "2026-11-14T13:49:38+00:00",
+      "topic": "Задача #60: CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **MuscleBooster** (`https://plan.muscle-booster.io/`)\n  > Personalized Workout Plan – Looking for how to lose weight fast or gain muscles? Transform your body with personalized workout pla",
+      "source": "issue #60"
     }
   ],
   "projects": {
@@ -619,6 +628,13 @@
       "issue": null,
       "url": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
       "summary": "Изучен материал (structured-cloud-analyzer): https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut"
+    },
+    {
+      "at": "2026-11-14T13:49:38+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 60,
+      "url": null,
+      "summary": "#60 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
@@ -626,6 +642,11 @@
       "retries": 3,
       "last_error": "HTTP Error 403: Forbidden",
       "last_try": "2026-11-14T10:50:22+00:00"
+    },
+    "http://localhost/f3e74a31d71b3a89006046e178b2bd17": {
+      "retries": 1,
+      "last_error": "blocked_non_public_host",
+      "last_try": "2026-11-14T13:49:37+00:00"
     }
   }
 }
