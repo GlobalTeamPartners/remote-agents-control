@@ -288,5 +288,22 @@
       "model": "structured-cloud-analyzer",
       "summary": "Изучено (Проект: Thought/Мысль): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you"
     }
+  },
+  {
+    "at": "2026-11-14T00:12:24+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.0",
+    "model_engine": "structured-cloud-analyzer (awaiting GEMINI_API_KEY)",
+    "active_tier": "none",
+    "cycle": 19,
+    "tasks": [],
+    "study": {
+      "title": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис",
+      "url": "https://www.altahq.com/lp/ai-calling-agent",
+      "model": "structured-cloud-analyzer",
+      "tier": "none",
+      "transport": "none",
+      "summary": "Изучено (Проект: Unity Inc): «AI Sales Calling Agent | Alex by Alta». Ключевое: Meet Alex, Alta’s AI Sales Agent. Automate calls, book meetings, and engage prospects with precision using advanced AI tools. Try Alex today."
+    }
   }
 ]
