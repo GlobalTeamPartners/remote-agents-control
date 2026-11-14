@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-14T15:37:47+00:00",
-  "cycle_count": 27,
+  "updated_at": "2026-11-14T16:49:58+00:00",
+  "cycle_count": 28,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -57,7 +57,8 @@
     "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
     "https://go.shadowpages.io/thealexanderlari-booking",
     "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11",
-    "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977"
+    "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
+    "https://t.me/ghostghettochild"
   ],
   "learned_facts": [
     {
@@ -272,6 +273,12 @@
       "topic": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source",
       "insight": "Изучено (Проект: Позновалка): «Meet Katie - Your New AI SDR Agent». Ключевое: Introducing Katie: Your AI SDR Agent that never sleeps, always follows up, and uses data to find best prospects & personalize every interaction.",
       "source": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&h"
+    },
+    {
+      "at": "2026-11-14T16:50:04+00:00",
+      "topic": "https://t.me/ghostghettochild изучи эту группу и придумай для него предложение он хочет размест",
+      "insight": "Изучено (Проект: Позновалка): «Telegram: View @ghostghettochild». Ключевое: Telegram: View @ghostghettochild Download Р. П. ГОСТ / La Dagon Sector Inc.🎤🎛🔊 196 subscribers Музыка от Р.П. ГОСТ, Страйк, La Dagon Sector Inc., LoveMan & The Band и приближенных... View in Telegram Preview channel If you have Telegram , you can view and join Р. П. ГОСТ / La Dagon Sector Inc.🎤🎛🔊 right away.",
+      "source": "https://t.me/ghostghettochild"
     }
   ],
   "projects": {
@@ -678,6 +685,13 @@
       "issue": null,
       "url": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source"
+    },
+    {
+      "at": "2026-11-14T16:50:04+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://t.me/ghostghettochild",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://t.me/ghostghettochild изучи эту группу и придумай для него предложение он хочет размест"
     }
   ],
   "failed_urls": {
