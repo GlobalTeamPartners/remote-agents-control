@@ -316,10 +316,26 @@
             "https://plan.muscle-booster.io/"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-61",
+          "ts": "2026-11-14T14:44:47.662Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 61,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
+          "study_text": "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
+          "urls": [
+            "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
+            "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 21,
-      "last_saved_at": "2026-11-14T13:49:30.134Z"
+      "total_count": 22,
+      "last_saved_at": "2026-11-14T14:44:47.662Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -645,5 +661,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-14T13:49:30.134Z"
+  "updated_at": "2026-11-14T14:44:47.662Z"
 }
