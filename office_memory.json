@@ -1,6 +1,6 @@
 {
-  "version": "34.0",
-  "updated_at": "2026-11-14T02:10:42+00:00",
+  "version": "34.1",
+  "updated_at": "2026-11-14T03:07:53+00:00",
   "cycle_count": 20,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -194,9 +194,166 @@
       "topic": "Задача #59: CMD: https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service | PR",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Свой ИИ для компании: 8 слоёв внутри - YouTube** (`https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7`)\n  > Как сделать свой ИИ ",
       "source": "issue #59"
+    },
+    {
+      "at": "2026-11-14T03:07:53+00:00",
+      "topic": "v34.1 #59: Свой ИИ для компании (8 слоёв) — внедрено в ядро Офиса",
+      "insight": "Реализованы все 8 слоёв архитектуры из #59: Gemini4/GitHubModels роутер, дедуплицированная RAG-память (177->63), YouTube oEmbed, RBAC + Bot Gate, <untrusted_web_data> фильтр инъекций и редактирование секретов, scoping concurrency в cloud_agents_24_7.yml против отмены очередей, анти-дрейф фильтр промо-ссылок и единичный lock tg_bot_poller.py.",
+      "source": "issue #59 + v34.1 audit"
+    },
+    {
+      "at": "2026-11-14T03:07:53+00:00",
+      "topic": "Аудит Авто- и Транспортных перспектив (Detailing, VT VIP, Егор Трансфер, Пора за Руль)",
+      "insight": "1) elite-detailing-en (896 кадров WebP): нужно заменить заглушки YOUR COMPANY/YOUR PHONE и связать с AltaHQ Voice Booking ($1,200). 2) Визуализированый Транспорт (VT VIP импорт до 2л/200лс): в index.html стоит заглушка +7 495 000 00 00. 3) Егор Трансфер (1,133 файла, RU/EN/AR): готов к приёму TG-лидов, 0 выполненных задач. 4) Автошкола Пора за Руль: 2 видео 16:9/9:16 + КП .docx готовы к запуску TG/Reels воронки.",
+      "source": "workspace surface & automotive audit 2026-11-13"
     }
   ],
-  "projects": {},
+  "projects": {
+    "KHL Sports Quant Predictor": {
+      "folder": "Юра",
+      "priority": "P1",
+      "status": "paused_offline_local",
+      "owner": "Юрий Вяткин / @yvyatkin"
+    },
+    "AI Crypto Trading Bot (Freqtrade)": {
+      "folder": "Юра",
+      "priority": "P1",
+      "status": "paused_offline_local",
+      "owner": "Юрий Вяткин / @yvyatkin"
+    },
+    "8 Diverse Cinematic Demo Websites": {
+      "folder": "Development",
+      "priority": "P2",
+      "status": "ready_for_sale",
+      "owner": "Власлав / @unityspiritpartners"
+    },
+    "Unity Spirit 3D Website & Pyatigorsk Demos": {
+      "folder": "delaem%20prezervativ 2",
+      "priority": "P2",
+      "status": "developed",
+      "owner": "Власлав / @unityspiritpartners"
+    },
+    "Alberta Shirani Luxury Website": {
+      "folder": "Saitodel",
+      "priority": "P1",
+      "status": "in_progress",
+      "owner": "Власлав / @unityspiritpartners"
+    },
+    "Portfolio Website Expansion Strategy": {
+      "folder": "Websites",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Власлав / @unityspiritpartners"
+    },
+    "Unity Platform & Casting Assistant Bot": {
+      "folder": "Development",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Власлав / @unityspiritpartners"
+    },
+    "Businesses Without Websites Scraper": {
+      "folder": "Global Web Market",
+      "priority": "P1",
+      "status": "active",
+      "owner": "Генеральный Директор Тим & @true1team"
+    },
+    "Auto Detailing B2B Leadgen": {
+      "folder": "Detailing",
+      "priority": "P1",
+      "status": "active",
+      "owner": "Генеральный Директор Тим & @true1team"
+    },
+    "Comparee.ai & LinkedIn Lead Scraping": {
+      "folder": "delaem%20prezervativ 2",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Генеральный Директор Тим & @true1team"
+    },
+    "Stealth Lead Tracking & Email Sequences": {
+      "folder": "Global + Orders",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Генеральный Директор Тим & @true1team"
+    },
+    "Upwork Session Cookies Outreach": {
+      "folder": "Upwork",
+      "priority": "P2",
+      "status": "ready",
+      "owner": "Генеральный Директор Тим & @true1team"
+    },
+    "15 Industry Prompts Mega-Pack": {
+      "folder": "PromptMaster",
+      "priority": "P2",
+      "status": "completed",
+      "owner": "PromptMaster"
+    },
+    "Veo Video Commercial Pipelines": {
+      "folder": "PromptMaster",
+      "priority": "P1",
+      "status": "active",
+      "owner": "PromptMaster"
+    },
+    "Elite Auto Salon & Luxury Prompts": {
+      "folder": "PromptMaster",
+      "priority": "P2",
+      "status": "active",
+      "owner": "PromptMaster"
+    },
+    "Контент-Ферма 50 Видео/День (shag-video.ru)": {
+      "folder": "Study",
+      "priority": "P1",
+      "status": "in_implementation",
+      "owner": "Traffic Team & Alberta"
+    },
+    "Feminamind Tripwire Funnels ($7–$27)": {
+      "folder": "delaem%20prezervativ 2",
+      "priority": "P2",
+      "status": "ready_to_launch",
+      "owner": "Traffic Team & Alberta"
+    },
+    "Instagram Monetization Funnel (Alberta)": {
+      "folder": "Alberta",
+      "priority": "P1",
+      "status": "active",
+      "owner": "Traffic Team & Alberta"
+    },
+    "YouTube Creator & Visual Remake 111": {
+      "folder": "Vlaslove",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Traffic Team & Alberta"
+    },
+    "Virtual Office v34.0 (Antigravity 2.31 Remote Control)": {
+      "folder": "System 1",
+      "priority": "P1",
+      "status": "live_v34",
+      "owner": "Власлав & Генеральный Директор Тим"
+    },
+    "SoloMan Autonomous CRM": {
+      "folder": "SoloMan",
+      "priority": "P2",
+      "status": "completed",
+      "owner": "Власлав & Генеральный Директор Тим"
+    },
+    "Globalmarket Autonomous Hub (Abacus.AI Model)": {
+      "folder": "Vlaslove",
+      "priority": "P2",
+      "status": "architected",
+      "owner": "Власлав & Генеральный Директор Тим"
+    },
+    "Scam Check & Anti-Phishing Sentinel": {
+      "folder": "delaem%20prezervativ 2",
+      "priority": "P2",
+      "status": "active",
+      "owner": "Власлав & Генеральный Директор Тим"
+    },
+    "Belarus Regional Telegram Services": {
+      "folder": "Белорусь",
+      "priority": "P3",
+      "status": "active",
+      "owner": "Власлав & Генеральный Директор Тим"
+    }
+  },
   "recent_events": [
     {
       "at": "2026-11-12T16:52:37+00:00",
