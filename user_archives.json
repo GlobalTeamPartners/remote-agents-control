@@ -348,10 +348,23 @@
             "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-63",
+          "ts": "2026-11-14T23:27:38.478Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 63,
+          "project": "True 1 Team",
+          "kind": "agent_request",
+          "title": "/expert Глубокий экспертный разбор: 📷 Изучить фото (3 шт.) для True 1 Team",
+          "study_text": "",
+          "urls": [],
+          "image_urls": []
         }
       ],
-      "total_count": 23,
-      "last_saved_at": "2026-11-14T19:55:59.726Z"
+      "total_count": 24,
+      "last_saved_at": "2026-11-14T23:27:38.478Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -677,5 +690,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-14T19:55:59.726Z"
+  "updated_at": "2026-11-14T23:27:38.478Z"
 }
