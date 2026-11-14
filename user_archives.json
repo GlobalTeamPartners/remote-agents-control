@@ -284,10 +284,26 @@
             "https://www.comss.ru/page.php?id=22854"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-59",
+          "ts": "2026-11-14T02:10:39.638Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 59,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service",
+          "study_text": "https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service",
+          "urls": [
+            "https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7",
+            "https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 19,
-      "last_saved_at": "2026-11-13T20:53:01.427Z"
+      "total_count": 20,
+      "last_saved_at": "2026-11-14T02:10:39.638Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -613,5 +629,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-13T21:23:34.423Z"
+  "updated_at": "2026-11-14T02:10:39.638Z"
 }
