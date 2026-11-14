@@ -1,6 +1,6 @@
 {
   "version": "20.5",
-  "updated_at": "2026-11-14T15:36:46.784869Z",
+  "updated_at": "2026-11-14T19:55:39.024Z",
   "members": {
     "unityspiritteam@gmail.com": {
       "audit_30d": {
@@ -33,7 +33,7 @@
       "audit_30d": {
         "days_active": 16,
         "days_to_30d_review": 14,
-        "active_minutes": 15.0,
+        "active_minutes": 15,
         "active_hours": 0.25,
         "total_requests": 22,
         "today_requests": 3,
