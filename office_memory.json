@@ -1,7 +1,7 @@
 {
-  "version": "34.1",
-  "updated_at": "2026-11-14T14:44:51+00:00",
-  "cycle_count": 26,
+  "version": "34.2",
+  "updated_at": "2026-11-14T15:37:47+00:00",
+  "cycle_count": 27,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -56,7 +56,8 @@
     "https://plan.muscle-booster.io/onboarding",
     "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
     "https://go.shadowpages.io/thealexanderlari-booking",
-    "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11"
+    "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11",
+    "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977"
   ],
   "learned_facts": [
     {
@@ -265,6 +266,12 @@
       "title": "Задача #61: Shadow Pages (Alexander Lari) модель и воронка",
       "summary": "Faceless theme pages на ИИ (реклама, affiliate, перелив в воронки, продажа страниц); ссылка go.shadowpages.io -> Calendly квалификация на high-ticket сопровождение.",
       "source": "issue #61 (true1team)"
+    },
+    {
+      "at": "2026-11-14T15:37:50+00:00",
+      "topic": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source",
+      "insight": "Изучено (Проект: Позновалка): «Meet Katie - Your New AI SDR Agent». Ключевое: Introducing Katie: Your AI SDR Agent that never sleeps, always follows up, and uses data to find best prospects & personalize every interaction.",
+      "source": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&h"
     }
   ],
   "projects": {
@@ -664,6 +671,13 @@
       "issue": 61,
       "url": null,
       "summary": "#61 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-14T15:37:50+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source"
     }
   ],
   "failed_urls": {
