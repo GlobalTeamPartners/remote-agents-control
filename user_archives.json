@@ -332,10 +332,26 @@
             "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-62",
+          "ts": "2026-11-14T19:55:59.726Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 62,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы раннее создавали",
+          "study_text": "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы раннее создавали!",
+          "urls": [
+            "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527",
+            "https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 22,
-      "last_saved_at": "2026-11-14T14:44:47.662Z"
+      "total_count": 23,
+      "last_saved_at": "2026-11-14T19:55:59.726Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -661,5 +677,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-14T14:44:47.662Z"
+  "updated_at": "2026-11-14T19:55:59.726Z"
 }
