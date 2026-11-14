@@ -376,5 +376,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586». Ключевое: AI-агенты: новый рабочий инструмент для бизнеса — бесплатный вебинар Б Богатушин сегодня · 19:00 GMT+3 · онлайн Бесплатный онлайн-вебинар · сегодня · 19:00 GMT+3 AI-агенты: новый ра"
     }
+  },
+  {
+    "at": "2026-11-14T10:50:29+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 24,
+    "tasks": [],
+    "study": {
+      "title": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut",
+      "url": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «Reddit Ads». Ключевое: Start advertising on Reddit today! Reach 250 million users and connect with passionate communities sharing stories and engaging conversations."
+    }
   }
 ]
