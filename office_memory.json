@@ -1,7 +1,7 @@
 {
   "version": "34.1",
-  "updated_at": "2026-11-14T03:28:42+00:00",
-  "cycle_count": 23,
+  "updated_at": "2026-11-14T10:50:14+00:00",
+  "cycle_count": 24,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -48,7 +48,8 @@
     "https://t.me/nazare_info_bot?start=l_nenoiai",
     "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxconv_demandgen&utm_content=828009486204&cc_gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-Thm_Sy67dMRxYYWyTsJHLsKlr14PW6OsG6yhKWxHr7Zogi7rQ08BRoCVKUQAvD_BwE&gad_source=2&gad_campaignid=24187973224",
     "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_campaign=rez_greece_dgen_eu_en_24092026&utm_content=dgen_greece_en&utm_term=24284806448|825849871804||2246&gad_source=2&gad_campaignid=24284806448",
-    "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691"
+    "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691",
+    "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581"
   ],
   "learned_facts": [
     {
@@ -227,6 +228,12 @@
       "topic": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586",
       "insight": "Изучено (Проект: Позновалка): «https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586». Ключевое: AI-агенты: новый рабочий инструмент для бизнеса — бесплатный вебинар Б Богатушин сегодня · 19:00 GMT+3 · онлайн Бесплатный онлайн-вебинар · сегодня · 19:00 GMT+3 AI-агенты: новый рабочий инструмент для бизнеса Простым языком разберём, какие AI-агенты уже нужны маркетингу и бизнесу, какие задачи им можно передать и как ",
       "source": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=243582586"
+    },
+    {
+      "at": "2026-11-14T10:50:23+00:00",
+      "topic": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut",
+      "insight": "Изучено (Проект: Позновалка): «Reddit Ads». Ключевое: Start advertising on Reddit today! Reach 250 million users and connect with passionate communities sharing stories and engaging conversations.",
+      "source": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473"
     }
   ],
   "projects": {
@@ -598,13 +605,27 @@
       "issue": null,
       "url": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=24358258691",
       "summary": "Изучен материал (structured-cloud-analyzer): https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586"
+    },
+    {
+      "at": "2026-11-14T10:50:22+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713",
+      "summary": "URL недоступен: https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713"
+    },
+    {
+      "at": "2026-11-14T10:50:23+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut"
     }
   ],
   "failed_urls": {
     "https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713": {
-      "retries": 2,
+      "retries": 3,
       "last_error": "HTTP Error 403: Forbidden",
-      "last_try": "2026-11-14T03:28:51+00:00"
+      "last_try": "2026-11-14T10:50:22+00:00"
     }
   }
 }
