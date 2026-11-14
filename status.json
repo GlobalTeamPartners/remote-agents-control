@@ -1,7 +1,7 @@
 {
-  "last_seen": "2026-11-14T14:44:56+00:00",
+  "last_seen": "2026-11-14T15:37:52+00:00",
   "waiting_for_agent": 0,
-  "worker_version": "34.1-antigravity-2.31-cloud",
+  "worker_version": "34.2-antigravity-2.31-cloud",
   "platform": "github-actions+windows-local",
   "model_router": {
     "preferred_provider": "gemini",
@@ -13,11 +13,11 @@
     "carbon_model": "openai/gpt-4o",
     "hydrogen_model": "openai/gpt-4o-mini"
   },
-  "updated_at": "2026-11-14T14:44:56+00:00",
+  "updated_at": "2026-11-14T15:37:52+00:00",
   "cloud_status": "online_24_7",
-  "cloud_last_cycle": "2026-11-14T14:44:56+00:00",
+  "cloud_last_cycle": "2026-11-14T15:37:52+00:00",
   "llm_ready": false,
   "local_daemon_online": true,
-  "cycle_count": 26,
-  "memory_facts_count": 33
+  "cycle_count": 27,
+  "memory_facts_count": 36
 }
