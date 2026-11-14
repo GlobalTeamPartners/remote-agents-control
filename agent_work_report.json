@@ -325,5 +325,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-14T03:09:22+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "openai/gpt-4o / openai/gpt-4o-mini (via github_models)",
+    "active_tier": "hydrogen",
+    "cycle": 21,
+    "tasks": [],
+    "study": {
+      "title": "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxc",
+      "url": "https://x.ai/bot?utm_source=google_paid&utm_medium=paid&utm_campaign=grokbot_yt_en_emea_t1_maxconv_demandgen&utm_content=828009486204&cc_gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-Thm_Sy67dMRxYYWyTsJHLsKlr14PW6OsG6yhKWxHr7Zogi7rQ08BRoCVKUQAvD_BwE&gad_source=2&gad_campaignid=24187973224",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: соеденения): «AI teammates that finish the work | Grok Bot». Ключевое: Grok Bot is your team of always-on AI teammates. They have their own computer, use it like you do, and never log off."
+    }
   }
 ]
