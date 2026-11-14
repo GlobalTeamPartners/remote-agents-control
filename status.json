@@ -1,25 +1,23 @@
 {
-  "last_seen": "2026-11-14T03:09:20+00:00",
+  "last_seen": "2026-11-14T03:17:01+00:00",
   "waiting_for_agent": 0,
   "worker_version": "34.1-antigravity-2.31-cloud",
   "platform": "github-actions+windows-local",
   "model_router": {
     "preferred_provider": "gemini",
-    "configured_providers": [
-      "github_models"
-    ],
-    "active_mode": "Antigravity 2.31 [github_models] (openai/gpt-4o / openai/gpt-4o / openai/gpt-4o-mini)",
+    "configured_providers": [],
+    "active_mode": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
     "vps_ready": false,
     "cost_architecture": "Antigravity 2.31 Tiered Routing (Gemini 4 -> OpenAI -> GitHub Models + 8-Layer Guard)",
     "argon_model": "openai/gpt-4o",
     "carbon_model": "openai/gpt-4o",
     "hydrogen_model": "openai/gpt-4o-mini"
   },
-  "updated_at": "2026-11-14T03:09:20+00:00",
+  "updated_at": "2026-11-14T03:17:01+00:00",
   "cloud_status": "online_24_7",
-  "cloud_last_cycle": "2026-11-14T03:09:20+00:00",
-  "llm_ready": true,
+  "cloud_last_cycle": "2026-11-14T03:17:01+00:00",
+  "llm_ready": false,
   "local_daemon_online": true,
-  "cycle_count": 21,
-  "memory_facts_count": 28
+  "cycle_count": 22,
+  "memory_facts_count": 29
 }
