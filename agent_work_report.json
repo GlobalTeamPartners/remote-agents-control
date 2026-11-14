@@ -413,5 +413,25 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-14T14:44:59+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 26,
+    "tasks": [
+      {
+        "issue": 61,
+        "title": "CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Book your call...** (`https://go.s"
+      }
+    ],
+    "study": null
   }
 ]
