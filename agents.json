@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:10:50+00:00",
+  "updated": "2026-11-14T03:09:20+00:00",
   "system_agents": {
     "tim": {
       "name": "Директор Тим",
@@ -231,14 +231,14 @@
       "pid": null
     },
     "github_cloud_24_7": {
-      "name": "Cloud 24/7 Orchestrator v34.0",
+      "name": "Cloud 24/7 Orchestrator v34.1",
       "emoji": "☁️",
       "project": "Global Spirit Group",
       "status": "online",
-      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #20"
+      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #21"
     },
     "tg_bot_poller": {
-      "name": "Telegram HQ Poller v34.0 (@unitybusinessbot)",
+      "name": "Telegram HQ Poller v34.1 (@unitybusinessbot)",
       "emoji": "🤖",
       "project": "Главный Штаб",
       "status": "online",
@@ -247,13 +247,15 @@
   },
   "model_router": {
     "preferred_provider": "gemini",
-    "configured_providers": [],
-    "active_mode": "structured-cloud-analyzer (awaiting GEMINI_API_KEY)",
+    "configured_providers": [
+      "github_models"
+    ],
+    "active_mode": "Antigravity 2.31 [github_models] (openai/gpt-4o / openai/gpt-4o / openai/gpt-4o-mini)",
     "vps_ready": false,
-    "cost_architecture": "Antigravity 2.31 Tiered Routing (Argon <-> Carbon <-> Hydrogen 1M)",
-    "argon_model": "gemini-4-argon",
-    "carbon_model": "gemini-4-carbon",
-    "hydrogen_model": "gemini-4-hydrogen"
+    "cost_architecture": "Antigravity 2.31 Tiered Routing (Gemini 4 -> OpenAI -> GitHub Models + 8-Layer Guard)",
+    "argon_model": "openai/gpt-4o",
+    "carbon_model": "openai/gpt-4o",
+    "hydrogen_model": "openai/gpt-4o-mini"
   },
   "statuses": {
     "new": "🆕 Новый",
