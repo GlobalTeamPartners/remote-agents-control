@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-14T19:56:08+00:00",
-  "cycle_count": 29,
+  "updated_at": "2026-11-14T21:04:19+00:00",
+  "cycle_count": 30,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -59,7 +59,8 @@
     "https://go.shadowpages.io/thealexanderlari-booking",
     "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11",
     "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
-    "https://t.me/ghostghettochild"
+    "https://t.me/ghostghettochild",
+    "https://t.me/sysadminfuture"
   ],
   "learned_facts": [
     {
@@ -286,6 +287,12 @@
       "topic": "Задача #62: CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы раннее создавали | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Book your call...** (`https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527`)\n  > Book your call.",
       "source": "issue #62"
+    },
+    {
+      "at": "2026-11-14T21:04:27+00:00",
+      "topic": "https://t.me/sysadminfuture изучи и сделай агента который изучает всю информацию из этой группы",
+      "insight": "Изучено (Проект: Позновалка): «Telegram: View @sysadminfuture». Ключевое: Telegram: View @sysadminfuture Download Admin Future 241 subscribers Превращаем эникейщиков в System Architects. 🚀 Твой навигатор в мире IT-инфраструктуры: ▪️ Hard Skills: Linux, Windows, Network, Security ▪️ Tools: Лучший софт и скрытые фишки ▪️ Mindset: Как думать, чтобы платили много Админ - @maksimshap View in Tele",
+      "source": "https://t.me/sysadminfuture"
     }
   ],
   "projects": {
@@ -706,6 +713,13 @@
       "issue": 62,
       "url": null,
       "summary": "#62 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы раннее создавали | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-14T21:04:27+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://t.me/sysadminfuture",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://t.me/sysadminfuture изучи и сделай агента который изучает всю информацию из этой группы"
     }
   ],
   "failed_urls": {
