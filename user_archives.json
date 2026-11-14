@@ -300,10 +300,26 @@
             "https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-60",
+          "ts": "2026-11-14T13:49:30.134Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 60,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "TIM: https://plan.muscle-booster.io/ what are they making money on ?",
+          "study_text": "https://plan.muscle-booster.io/ what are they making money on ?",
+          "urls": [
+            "https://plan.muscle-booster.io/",
+            "https://plan.muscle-booster.io/"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 20,
-      "last_saved_at": "2026-11-14T02:10:39.638Z"
+      "total_count": 21,
+      "last_saved_at": "2026-11-14T13:49:30.134Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -629,5 +645,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-14T02:10:39.638Z"
+  "updated_at": "2026-11-14T13:49:30.134Z"
 }
