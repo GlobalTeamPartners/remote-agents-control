@@ -1,7 +1,7 @@
 {
   "version": "34.0",
-  "updated_at": "2026-11-14T00:09:56+00:00",
-  "cycle_count": 18,
+  "updated_at": "2026-11-14T00:12:13+00:00",
+  "cycle_count": 19,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -40,7 +40,8 @@
     "https://raw.githubusercontent.com/GlobalTeamPartners/remote-agents-control/data/uploads/true_1_team/1794435793338_1.jpg",
     "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
     "https://www.instagram.com/quest_ptg/",
-    "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662"
+    "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662",
+    "https://www.altahq.com/lp/ai-calling-agent"
   ],
   "learned_facts": [
     {
@@ -177,6 +178,12 @@
       "at": "2026-11-14T00:09:56+00:00",
       "topic": "v34.0 Alberta Funnel Pivot (#47-#50)",
       "insight": "Вектор клуба для @aliashirani переключён на тотальную трансформацию и перезагрузку женщин 30-50 лет (триггер выгорания/отложенной жизни -> 90-сек AI-диагностика + 7-дневный челлендж 990-1490 ₽ -> клуб 1500-3500 ₽/мес на цель 1 000 000 ₽)."
+    },
+    {
+      "at": "2026-11-14T00:12:20+00:00",
+      "topic": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис",
+      "insight": "Изучено (Проект: Unity Inc): «AI Sales Calling Agent | Alex by Alta». Ключевое: Meet Alex, Alta’s AI Sales Agent. Automate calls, book meetings, and engage prospects with precision using advanced AI tools. Try Alex today.",
+      "source": "https://www.altahq.com/lp/ai-calling-agent"
     }
   ],
   "projects": {},
@@ -348,6 +355,13 @@
       "issue": null,
       "url": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_ENG_-_Gartner_Predicts_-_Retargeting_-_Demand_Gen&utm_content=194121865846&utm_term=&utm_id=23758715662&hsa_acc=3291578710&hsa_cam=23758715662&hsa_grp=194121865846&hsa_ad=805355427016&hsa_src=ytis&hsa_tgt=aud-2423854277168&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23758715662",
       "summary": "Изучен материал (structured-cloud-analyzer): https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html?utm_so"
+    },
+    {
+      "at": "2026-11-14T00:12:20+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.altahq.com/lp/ai-calling-agent",
+      "summary": "Изучен материал (structured-cloud-analyzer): /ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис"
     }
   ],
   "failed_urls": {}
