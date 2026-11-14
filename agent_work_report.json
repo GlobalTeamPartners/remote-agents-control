@@ -393,5 +393,25 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «Reddit Ads». Ключевое: Start advertising on Reddit today! Reach 250 million users and connect with passionate communities sharing stories and engaging conversations."
     }
+  },
+  {
+    "at": "2026-11-14T13:49:42+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.1",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o-mini [github_azure]: <urlopen error [Errno -2] Name o; awaiting GEMINI_API_KEY)",
+    "active_tier": "argon",
+    "cycle": 25,
+    "tasks": [
+      {
+        "issue": 60,
+        "title": "CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "argon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **MuscleBooster** (`https://plan.muscl"
+      }
+    ],
+    "study": null
   }
 ]
