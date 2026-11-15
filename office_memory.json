@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-14T23:33:22+00:00",
-  "cycle_count": 32,
+  "updated_at": "2026-11-15T01:01:37+00:00",
+  "cycle_count": 33,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -62,7 +62,8 @@
     "https://calendly.com/shadow-pages/booking?utm_source=instagram&utm_medium=promo&utm_campaign=thealexanderlari&month=2026-11",
     "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
     "https://t.me/ghostghettochild",
-    "https://t.me/sysadminfuture"
+    "https://t.me/sysadminfuture",
+    "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
   ],
   "learned_facts": [
     {
@@ -307,6 +308,12 @@
       "topic": "Задача #64: CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал дв",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал два инциде | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените пр",
       "source": "issue #64"
+    },
+    {
+      "at": "2026-11-15T01:01:44+00:00",
+      "topic": "Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)",
+      "insight": "Изучено (Проект: GlobalFilms (Filmtools)): «GlobalFilms — Отечественный аналог Filmtools». Ключевое: GlobalFilms — Отечественный аналог Filmtools 🎬 GlobalFilms Отечественная система Filmtools 🏛️ В Офис ⚡ Решение для Светланы · Проект Filmtools Отечественный программный комплекс кинопроизводства Полный аналог западного сервиса Filmtools , разработанный на стеке Next.js 16 + React 19 + Shadcn UI . Система автономно упра",
+      "source": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
     }
   ],
   "projects": {
@@ -748,6 +755,13 @@
       "issue": 64,
       "url": null,
       "summary": "#64 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал два инциде | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-15T01:01:44+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
+      "summary": "Изучен материал (structured-cloud-analyzer): Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)"
     }
   ],
   "failed_urls": {
