@@ -1,6 +1,6 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T18:19:31+00:00",
+  "updated_at": "2026-11-15T19:15:11.584516Z",
   "cycle_count": 38,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -350,6 +350,20 @@
       "topic": "Задача #67: CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI",
       "source": "issue #67"
+    },
+    {
+      "id": "fact-65s-dropship-v343",
+      "ts": "2026-11-15T19:15:11.584516Z",
+      "project": "Главный Штаб",
+      "issue": 65,
+      "summary": "65-секундный запуск дропшиппинг-магазина: BuildYourStore.ai/AutoDS AI Store Builder, PagePilot.ai (<60с), Storebuild.ai, Dropmagic, Shopify Magic; реальная маржа в тестах рекламы, поставщиках и US LLC/платежах (FB Reel 987369197201336 @26theceo). nlm CLI локально требует однократный `nlm login`."
+    },
+    {
+      "id": "fact-gert-mgmt-plane-v343",
+      "ts": "2026-11-15T19:15:11.584516Z",
+      "project": "Главный Штаб",
+      "issue": 64,
+      "summary": "Уроки Kaspersky GERT (BlackNevas/The Gentlemen): изоляция управляющего контура, отказ от общих многоразовых root-кредов и plaintext-заметок, сохранение allowlist-политик по аналогии с execInstalledOnly (request_only bot gate, проектная изоляция ботов, отсутствие секретов в CRM)."
     }
   ],
   "projects": {
