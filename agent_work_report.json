@@ -567,5 +567,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: GlobalFilms (Filmtools)): «GlobalFilms — Отечественный аналог Filmtools». Ключевое: GlobalFilms — Отечественный аналог Filmtools 🎬 GlobalFilms Отечественная система Filmtools 🏛️ В Офис ⚡ Решение для Светланы · Проект Filmtools Отечественный программный комплекс кинопроизводства Полный аналог западного "
     }
+  },
+  {
+    "at": "2026-11-15T07:50:09+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 34,
+    "tasks": [],
+    "study": {
+      "title": "TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)",
+      "url": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка & Traffic): «Get your business discovered on TikTok». Ключевое: Sign up TikTok For Business now. Start advertising on TikTok today to drive real business results."
+    }
   }
 ]
