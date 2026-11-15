@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T07:49:58+00:00",
-  "cycle_count": 34,
+  "updated_at": "2026-11-15T15:16:36+00:00",
+  "cycle_count": 35,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -64,7 +64,8 @@
     "https://t.me/ghostghettochild",
     "https://t.me/sysadminfuture",
     "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
-    "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting"
+    "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
+    "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads"
   ],
   "learned_facts": [
     {
@@ -321,6 +322,12 @@
       "topic": "TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)",
       "insight": "Изучено (Проект: Позновалка & Traffic): «Get your business discovered on TikTok». Ключевое: Sign up TikTok For Business now. Start advertising on TikTok today to drive real business results.",
       "source": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting"
+    },
+    {
+      "at": "2026-11-15T15:16:42+00:00",
+      "topic": "Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)",
+      "insight": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads». Ключевое: Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads Запускаю 12 IT-проектов за 12 месяцев. Идет второй год челленджа👇 Выручка одного из наших приложений за 4 месяца после запуска Всего запустил 20+ таких продуктов. Запуски разбираю в своем Telegram-канале 👇 Перейти и прочитать Внутри: все о том, к",
+      "source": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads"
     }
   ],
   "projects": {
@@ -776,6 +783,13 @@
       "issue": null,
       "url": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
       "summary": "Изучен материал (structured-cloud-analyzer): TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)"
+    },
+    {
+      "at": "2026-11-15T15:16:42+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
+      "summary": "Изучен материал (structured-cloud-analyzer): Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)"
     }
   ],
   "failed_urls": {
