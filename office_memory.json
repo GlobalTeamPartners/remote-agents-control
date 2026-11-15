@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T19:15:11.584516Z",
-  "cycle_count": 38,
+  "updated_at": "2026-11-15T20:27:56+00:00",
+  "cycle_count": 39,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -69,7 +69,8 @@
     "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
     "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
     "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
-    "https://www.facebook.com/share/v/19w2zTMQpv/"
+    "https://www.facebook.com/share/v/19w2zTMQpv/",
+    "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371"
   ],
   "learned_facts": [
     {
@@ -364,6 +365,12 @@
       "project": "Главный Штаб",
       "issue": 64,
       "summary": "Уроки Kaspersky GERT (BlackNevas/The Gentlemen): изоляция управляющего контура, отказ от общих многоразовых root-кредов и plaintext-заметок, сохранение allowlist-политик по аналогии с execInstalledOnly (request_only bot gate, проектная изоляция ботов, отсутствие секретов в CRM)."
+    },
+    {
+      "at": "2026-11-15T20:28:01+00:00",
+      "topic": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campai",
+      "insight": "Изучено (Проект: Traffic): «Individual hotels solutions». Ключевое: One platform to boost your direct booking strategy We are the number one technology and strategy enabler for outstanding hotels worldwide!",
+      "source": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=goog"
     }
   ],
   "projects": {
@@ -847,6 +854,13 @@
       "issue": 67,
       "url": null,
       "summary": "#67 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-15T20:28:01+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campai"
     }
   ],
   "failed_urls": {
