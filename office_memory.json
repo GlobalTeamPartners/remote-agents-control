@@ -1,6 +1,6 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T23:21:23+00:00",
+  "updated_at": "2026-11-15T23:21:04.025570Z",
   "cycle_count": 41,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -393,6 +393,13 @@
       "topic": "Задача #69: CMD: TIM: [Тим] https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg== | PROJ: Главный Штаб",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg== | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg==`)\n  > 422 likes, 665 comments - thevibefounder on November 13, 2026: \"Nvidia’s CEO just res",
       "source": "issue #69"
+    },
+    {
+      "id": "fact-dir-v343-iss69",
+      "ts": "2026-11-15T23:21:02.805371Z",
+      "project": "Главный Штаб",
+      "issue": 69,
+      "summary": "https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg==: Здравия! Тим на связи. Штаб, Задача #69.\n\n### Анализ ссылки из Instagram\nПо ссылке на Instagram Reel (автор *@thevibefounder* / Ajay Yadav) извлечены следующие данные:\n* **Заголовок/Описание:** Инструмент для синхронизации памяти AI-агентов через единый репозиторий. Позволяет Cla"
     }
   ],
   "projects": {
