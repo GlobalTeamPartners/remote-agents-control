@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T01:01:37+00:00",
-  "cycle_count": 33,
+  "updated_at": "2026-11-15T07:49:58+00:00",
+  "cycle_count": 34,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -63,7 +63,8 @@
     "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
     "https://t.me/ghostghettochild",
     "https://t.me/sysadminfuture",
-    "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
+    "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
+    "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting"
   ],
   "learned_facts": [
     {
@@ -314,6 +315,12 @@
       "topic": "Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)",
       "insight": "Изучено (Проект: GlobalFilms (Filmtools)): «GlobalFilms — Отечественный аналог Filmtools». Ключевое: GlobalFilms — Отечественный аналог Filmtools 🎬 GlobalFilms Отечественная система Filmtools 🏛️ В Офис ⚡ Решение для Светланы · Проект Filmtools Отечественный программный комплекс кинопроизводства Полный аналог западного сервиса Filmtools , разработанный на стеке Next.js 16 + React 19 + Shadcn UI . Система автономно упра",
       "source": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
+    },
+    {
+      "at": "2026-11-15T07:50:05+00:00",
+      "topic": "TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)",
+      "insight": "Изучено (Проект: Позновалка & Traffic): «Get your business discovered on TikTok». Ключевое: Sign up TikTok For Business now. Start advertising on TikTok today to drive real business results.",
+      "source": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting"
     }
   ],
   "projects": {
@@ -762,6 +769,13 @@
       "issue": null,
       "url": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
       "summary": "Изучен материал (structured-cloud-analyzer): Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)"
+    },
+    {
+      "at": "2026-11-15T07:50:05+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
+      "summary": "Изучен материал (structured-cloud-analyzer): TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)"
     }
   ],
   "failed_urls": {
