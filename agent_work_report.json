@@ -584,5 +584,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка & Traffic): «Get your business discovered on TikTok». Ключевое: Sign up TikTok For Business now. Start advertising on TikTok today to drive real business results."
     }
+  },
+  {
+    "at": "2026-11-15T15:16:47+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: gpt-4o [github_azure]: <urlopen error [Errno -2] Name or ser; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 35,
+    "tasks": [],
+    "study": {
+      "title": "Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)",
+      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads». Ключевое: Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads Запускаю 12 IT-проектов за 12 месяцев. Идет второй год челленджа👇 Выручка одного из наших приложений за 4 м"
+    }
   }
 ]
