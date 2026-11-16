@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-15T23:21:04.025570Z",
-  "cycle_count": 41,
+  "updated_at": "2026-11-16T00:12:57+00:00",
+  "cycle_count": 42,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -73,7 +73,8 @@
     "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
     "https://www.facebook.com/share/v/19w2zTMQpv/",
     "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371",
-    "https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg=="
+    "https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg==",
+    "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977"
   ],
   "learned_facts": [
     {
@@ -400,6 +401,12 @@
       "project": "Главный Штаб",
       "issue": 69,
       "summary": "https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg==: Здравия! Тим на связи. Штаб, Задача #69.\n\n### Анализ ссылки из Instagram\nПо ссылке на Instagram Reel (автор *@thevibefounder* / Ajay Yadav) извлечены следующие данные:\n* **Заголовок/Описание:** Инструмент для синхронизации памяти AI-агентов через единый репозиторий. Позволяет Cla"
+    },
+    {
+      "at": "2026-11-16T00:13:05+00:00",
+      "topic": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_so",
+      "insight": "Изучено (Проект: Позновалка): «AI Sales Calling Agent | Alex by Alta». Ключевое: Meet Alex, Alta’s AI Sales Agent. Automate calls, book meetings, and engage prospects with precision using advanced AI tools. Try Alex today.",
+      "source": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=1999511810"
     }
   ],
   "projects": {
@@ -904,6 +911,13 @@
       "issue": 69,
       "url": null,
       "summary": "#69 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg== | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-16T00:13:05+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_so"
     }
   ],
   "failed_urls": {
