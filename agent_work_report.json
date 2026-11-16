@@ -877,5 +877,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-16T06:34:30+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 49,
+    "tasks": [],
+    "study": {
+      "title": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ== learn each repo",
+      "url": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ==",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «Instagram». Ключевое: 5,035 likes, 46 comments - aitechorigin on September 27, 2026: \"GitHub has way more than code storage. These 9 repos can replace paid tools, improve AI workflows, and save a lot of time. 1. Open Notebook — Turns PDFs, videos, websites, and notes into a private AI res"
+    }
   }
 ]
