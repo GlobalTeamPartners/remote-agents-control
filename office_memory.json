@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-16T02:41:05+00:00",
-  "cycle_count": 48,
+  "updated_at": "2026-11-16T06:34:18+00:00",
+  "cycle_count": 49,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -86,7 +86,8 @@
     "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co",
     "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_content=ds01&gad_source=2&gad_campaignid=2434718852",
     "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html",
-    "https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl"
+    "https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl",
+    "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ=="
   ],
   "learned_facts": [
     {
@@ -455,6 +456,12 @@
       "topic": "Задача #75: CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Paid AI Tools That You Can Replace for Free #ai #subscription #tech - YouTube** (`https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl`)\n  > YouTube",
       "source": "issue #75"
+    },
+    {
+      "at": "2026-11-16T06:34:24+00:00",
+      "topic": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ== learn each repo",
+      "insight": "Изучено (Проект: Позновалка): «Instagram». Ключевое: 5,035 likes, 46 comments - aitechorigin on September 27, 2026: \"GitHub has way more than code storage. These 9 repos can replace paid tools, improve AI workflows, and save a lot of time. 1. Open Notebook — Turns PDFs, videos, websites, and notes into a private AI research assistant you can run locally. 2. No AI Slop — ",
+      "source": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ=="
     }
   ],
   "projects": {
@@ -1008,6 +1015,13 @@
       "issue": 75,
       "url": null,
       "summary": "#75 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-16T06:34:24+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ==",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ== learn each repo"
     }
   ],
   "failed_urls": {
