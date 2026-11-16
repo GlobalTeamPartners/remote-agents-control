@@ -894,5 +894,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «Instagram». Ключевое: 5,035 likes, 46 comments - aitechorigin on September 27, 2026: \"GitHub has way more than code storage. These 9 repos can replace paid tools, improve AI workflows, and save a lot of time. 1. Open Notebook — Turns PDFs, videos, websites, and notes into a private AI res"
     }
+  },
+  {
+    "at": "2026-11-16T16:26:57+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 50,
+    "tasks": [],
+    "study": {
+      "title": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_mediu",
+      "url": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&utm_term=&utm_id=24028112345&hsa_acc=3291578710&hsa_cam=24028112345&hsa_grp=197241853125&hsa_ad=825598797047&hsa_src=ytif&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24028112345",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Learn & Implement): «8 Embedded AI Agent Use Cases for SaaS: Free Ebook | ThoughtSpot». Ключевое: Download the free ebook with 8 real-world embedded AI agent use cases—from premium pricing tiers to partner portals—to unlock new SaaS revenue."
+    }
   }
 ]
