@@ -361,10 +361,26 @@
           "study_text": "",
           "urls": [],
           "image_urls": []
+        },
+        {
+          "id": "iss-71",
+          "ts": "2026-11-16T01:07:10.159Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 71,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917",
+          "study_text": "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917",
+          "urls": [
+            "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917",
+            "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 24,
-      "last_saved_at": "2026-11-14T23:27:38.478Z"
+      "total_count": 25,
+      "last_saved_at": "2026-11-16T01:07:10.159Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -690,5 +706,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-14T23:27:38.478Z"
+  "updated_at": "2026-11-16T01:07:10.159Z"
 }
