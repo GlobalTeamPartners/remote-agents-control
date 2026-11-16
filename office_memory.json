@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-16T02:03:50+00:00",
-  "cycle_count": 45,
+  "updated_at": "2026-11-16T02:17:55+00:00",
+  "cycle_count": 46,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -35,7 +35,8 @@
     "issue:69:comment:open",
     "issue:70:comment:open",
     "issue:71:comment:open",
-    "issue:72:comment:open"
+    "issue:72:comment:open",
+    "issue:73:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -79,7 +80,9 @@
     "https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg==",
     "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199951181039&hsa_ad=826684874285&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
     "https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY",
-    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917"
+    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917",
+    "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co",
+    "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_content=ds01&gad_source=2&gad_campaignid=2434718852"
   ],
   "learned_facts": [
     {
@@ -430,6 +433,12 @@
       "topic": "Задача #72: CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice",
       "source": "issue #72"
+    },
+    {
+      "at": "2026-11-16T02:17:59+00:00",
+      "topic": "Задача #73: CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_camp",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Доходные сайты с платной подпиской — бесплатный онлайн-курс — Универус** (`https://univerus.ai/lp/dohodnye-sa",
+      "source": "issue #73"
     }
   ],
   "projects": {
@@ -962,6 +971,13 @@
       "issue": 72,
       "url": null,
       "summary": "#72 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-16T02:17:59+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 73,
+      "url": null,
+      "summary": "#73 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
