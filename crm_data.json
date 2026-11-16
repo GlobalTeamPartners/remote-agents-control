@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-15T20:42:31.523179+00:00",
+  "updated_at": "2026-11-16T00:36:03.297Z",
   "version": "34.1",
   "knowledge_base": [
+    {
+      "id": "kb-1794789362220",
+      "issue": 70,
+      "saved_by_login": "true1team",
+      "saved_by_name": "@true1team",
+      "category": "Проект: Входящие_Офис",
+      "title": "TIM: https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY",
+      "source_url": "https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY",
+      "secondary_url": "",
+      "images": [],
+      "date": "16.11.2026",
+      "summary": "https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY",
+      "action_items": [
+        "Сохранено в облако GitHub CRM и папку Входящие_Офис"
+      ]
+    },
     {
       "id": "kb-1794686156263",
       "issue": 62,
@@ -1438,7 +1454,7 @@
   "revenue_pipeline": {
     "updated_at": "2026-11-15T20:42:31.523179+00:00",
     "store_leads_count": 4,
-    "estimated_cpa_pool_usd": 600.0,
-    "estimated_mrr_usd": 116.0
+    "estimated_cpa_pool_usd": 600,
+    "estimated_mrr_usd": 116
   }
 }
