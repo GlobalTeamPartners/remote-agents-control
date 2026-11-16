@@ -911,5 +911,27 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Learn & Implement): «8 Embedded AI Agent Use Cases for SaaS: Free Ebook | ThoughtSpot». Ключевое: Download the free ebook with 8 real-world embedded AI agent use cases—from premium pricing tiers to partner portals—to unlock new SaaS revenue."
     }
+  },
+  {
+    "at": "2026-11-16T21:37:11+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 51,
+    "tasks": [
+      {
+        "issue": 76,
+        "title": "CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис",
+        "project": "Входящие_Офис",
+        "actor_login": "",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https:/"
+      }
+    ],
+    "study": null
   }
 ]
