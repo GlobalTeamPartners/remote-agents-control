@@ -406,10 +406,26 @@
             "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_content=ds01&gad_source=2&gad_campaignid=2434718852"
           ],
           "image_urls": []
+        },
+        {
+          "id": "iss-74",
+          "ts": "2026-11-16T02:24:52.228Z",
+          "login": "true1team",
+          "full_name": "@true1team",
+          "issue_number": 74,
+          "project": "Входящие_Офис",
+          "kind": "saved_research",
+          "title": "TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn",
+          "study_text": "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn and plan how to use implement",
+          "urls": [
+            "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html",
+            "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html"
+          ],
+          "image_urls": []
         }
       ],
-      "total_count": 27,
-      "last_saved_at": "2026-11-16T02:17:47.597Z"
+      "total_count": 28,
+      "last_saved_at": "2026-11-16T02:24:52.228Z"
     },
     "@globalplusteam": {
       "login": "@globalplusteam",
@@ -735,5 +751,5 @@
       "last_saved_at": "2026-11-05T10:27:03.744Z"
     }
   },
-  "updated_at": "2026-11-16T02:17:47.597Z"
+  "updated_at": "2026-11-16T02:24:52.228Z"
 }
