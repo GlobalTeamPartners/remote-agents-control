@@ -933,5 +933,27 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-16T22:13:37+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 52,
+    "tasks": [
+      {
+        "issue": 77,
+        "title": "CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.ins"
+      }
+    ],
+    "study": null
   }
 ]
