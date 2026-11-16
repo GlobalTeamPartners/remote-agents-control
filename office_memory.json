@@ -1,6 +1,6 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-16T22:13:31+00:00",
+  "updated_at": "2026-11-16T22:13:15.162280Z",
   "cycle_count": 52,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -485,6 +485,13 @@
       "topic": "Задача #77: CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5`)\n  > 4,150 likes, 133 comments - tonythetechie on November 2, 2026: \"Wanna tell that kid trolling ",
       "source": "issue #77"
+    },
+    {
+      "id": "fact-dir-v343-iss77",
+      "ts": "2026-11-16T22:13:07.442843Z",
+      "project": "Главный Штаб",
+      "issue": 77,
+      "summary": "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5: Здравия! Тим на связи. Анализ задачи #77 завершен.\n\n### Анализ контента\nПо ссылке `https://www.instagram.com/reel/DfQWuxWTUul/` (автор: *tonythetechie*):\n* **Суть:** Видео является манифестом «от идеи к реализации». Автор проводит параллель между подростковым увлечением кастомиза"
     }
   ],
   "projects": {
