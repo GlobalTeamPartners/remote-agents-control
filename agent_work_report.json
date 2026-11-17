@@ -1072,5 +1072,27 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-17T21:44:54+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o [github_models]: Expecting value: line 1 colum; awaiting GEMINI_API_KEY)",
+    "active_tier": "carbon",
+    "cycle": 59,
+    "tasks": [
+      {
+        "issue": 74,
+        "title": "CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn | PROJ: Входящие_Офис",
+        "project": "Входящие_Офис",
+        "actor_login": "",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "carbon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn | PROJ: Входящие_Офис\n\n**Изученные"
+      }
+    ],
+    "study": null
   }
 ]
