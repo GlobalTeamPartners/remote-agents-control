@@ -1,27 +1,5 @@
 [
   {
-    "at": "2026-11-12T16:52:41+00:00",
-    "source": "github_actions_cloud_24_7",
-    "cycle": 1,
-    "tasks": [
-      {
-        "issue": 47,
-        "title": "CMD: RESEARCH_MORE: Быстрые клиенты и идеи монетизации для Alberta | PROJ: Alberta",
-        "persona": "Облачный Совет Агентов 24/7",
-        "model": "deterministic-fallback",
-        "preview": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: RESEARCH_MORE: Быстрые клиенты и идеи монетизации для Alberta | PROJ: Alberta\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2"
-      },
-      {
-        "issue": 48,
-        "title": "CMD: Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽ | PROJ: Alberta",
-        "persona": "Облачный Совет Агентов 24/7",
-        "model": "deterministic-fallback",
-        "preview": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽ | PROJ: Alberta\n\n**Изученные материалы:**\n- 🔗 **Telegram: Launch @lermontovplusbot** (`https://t.me/lermontovplus"
-      }
-    ],
-    "study": null
-  },
-  {
     "at": "2026-11-12T17:05:34+00:00",
     "source": "github_actions_cloud_24_7",
     "cycle": 2,
@@ -1135,6 +1113,28 @@
         "tier": "carbon",
         "transport": "fallback",
         "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- ⚠️ Не удалось открыть `"
+      }
+    ],
+    "study": null
+  },
+  {
+    "at": "2026-11-17T21:46:32+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o [github_models]: Expecting value: line 1 colum; awaiting GEMINI_API_KEY)",
+    "active_tier": "carbon",
+    "cycle": 61,
+    "tasks": [
+      {
+        "issue": 71,
+        "title": "CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис",
+        "project": "Входящие_Офис",
+        "actor_login": "",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "carbon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис\n\n**Изученные источн"
       }
     ],
     "study": null
