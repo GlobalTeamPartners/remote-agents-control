@@ -955,5 +955,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-17T00:23:32+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 53,
+    "tasks": [],
+    "study": {
+      "title": "https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?",
+      "url": "https://habr.com/ru/amp/publications/1095202/",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr». Ключевое: GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr Все потоки Разработка Администрирование Дизайн Менеджмент Маркетинг Научпоп Как стать автором Помощь Техническая поддержка honest_nic"
+    }
   }
 ]
