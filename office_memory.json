@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-17T00:23:15+00:00",
-  "cycle_count": 53,
+  "updated_at": "2026-11-17T08:16:42+00:00",
+  "cycle_count": 54,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -93,7 +93,8 @@
     "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&utm_term=&utm_id=24028112345&hsa_acc=3291578710&hsa_cam=24028112345&hsa_grp=197241853125&hsa_ad=825598797047&hsa_src=ytif&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24028112345",
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==",
     "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5",
-    "https://habr.com/ru/amp/publications/1095202/"
+    "https://habr.com/ru/amp/publications/1095202/",
+    "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS"
   ],
   "learned_facts": [
     {
@@ -499,6 +500,12 @@
       "topic": "https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?",
       "insight": "Изучено (Проект: Позновалка): «GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr». Ключевое: GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr Все потоки Разработка Администрирование Дизайн Менеджмент Маркетинг Научпоп Как стать автором Помощь Техническая поддержка honest_niceman {{ day }} {{ monthNameShort }} {{ year }}, {{ hour }}:{{ minuteTwoDigit }} GLM 5.3 Flash и DeepSeek V4.1 Flash",
       "source": "https://habr.com/ru/amp/publications/1095202/"
+    },
+    {
+      "at": "2026-11-17T08:16:48+00:00",
+      "topic": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_c",
+      "insight": "Изучено (Проект: NT:YouTube): «VPS Hosting | Fast, AI-Ready KVM VPS up to 70% off - Hostinger». Ключевое: Virtual private servers for more power and control. AMD EPYC processors, NVMe SSD storage, free weekly backups and AI-ready VPS management with up to 70% off.",
+      "source": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS"
     }
   ],
   "projects": {
@@ -1087,6 +1094,13 @@
       "issue": null,
       "url": "https://habr.com/ru/amp/publications/1095202/",
       "summary": "Изучен материал (structured-cloud-analyzer): https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?"
+    },
+    {
+      "at": "2026-11-17T08:16:48+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_c"
     }
   ],
   "failed_urls": {
