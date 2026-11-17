@@ -972,5 +972,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr». Ключевое: GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr Все потоки Разработка Администрирование Дизайн Менеджмент Маркетинг Научпоп Как стать автором Помощь Техническая поддержка honest_nic"
     }
+  },
+  {
+    "at": "2026-11-17T08:16:55+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 54,
+    "tasks": [],
+    "study": {
+      "title": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_c",
+      "url": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: NT:YouTube): «VPS Hosting | Fast, AI-Ready KVM VPS up to 70% off - Hostinger». Ключевое: Virtual private servers for more power and control. AMD EPYC processors, NVMe SSD storage, free weekly backups and AI-ready VPS management with up to 70% off."
+    }
   }
 ]
