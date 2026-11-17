@@ -1006,5 +1006,27 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «Alta — Your next chapter of growth». Ключевое: Meet your AI revenue workforce. Watch Alta turn your company website into a personalized go-to-market plan."
     }
+  },
+  {
+    "at": "2026-11-17T21:39:14+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o [github_models]: Expecting value: line 1 colum; awaiting GEMINI_API_KEY)",
+    "active_tier": "carbon",
+    "cycle": 56,
+    "tasks": [
+      {
+        "issue": 77,
+        "title": "CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "carbon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.ins"
+      }
+    ],
+    "study": null
   }
 ]
