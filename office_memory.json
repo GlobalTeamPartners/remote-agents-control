@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-17T23:55:16.701400Z",
-  "cycle_count": 70,
+  "updated_at": "2026-11-17T23:58:55+00:00",
+  "cycle_count": 71,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -106,7 +106,8 @@
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==`",
     "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`",
     "https://github.io/remote-agents-control/`",
-    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917`"
+    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917`",
+    "https://join-tech.ru"
   ],
   "learned_facts": [
     {
@@ -538,6 +539,12 @@
       "project": "Главный Штаб",
       "issue": 79,
       "summary": "https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3YAMFKa3svSf7JLOuE8bxh2StjQC9LlOkxjIgaTAEyNusazZflTlPLgi_aem_eiT-O1t22-dAudlzRwVrEw: Здравия! Тим на связи. Главный Штаб, Задача #79.\n\nПо ссылке `outsource.gov.uz/en` загружен официальный национальный портал **IT Outsourcing & BPO Portal | Outsource to Uzbekistan** (подразделение IT Park Uzbekistan). \n\n### Ключевые данные с портала:\n* "
+    },
+    {
+      "at": "2026-11-17T23:59:00+00:00",
+      "topic": "Модель JoinTECH (Андрей Беловолов) — План для Global Plus",
+      "insight": "Изучено (Бизнес-модель & Global Plus): «JoinTECH — Развитие бизнеса через технологии». Ключевое: Развитие бизнеса через технологии: сайты и веб-системы, SEO, amoCRM, чат-боты, автоматизация и AI-решения для бизнеса. Проектируем и внедряем решения под задачи компании.",
+      "source": "https://join-tech.ru"
     }
   ],
   "projects": {
@@ -1189,6 +1196,20 @@
       "issue": 71,
       "url": null,
       "summary": "#71 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-17T23:58:58+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://tbank-online.com/baf/6eNKZud3qzd.",
+      "summary": "URL недоступен: https://tbank-online.com/baf/6eNKZud3qzd. (HTTP Error 404: Not Found)"
+    },
+    {
+      "at": "2026-11-17T23:59:00+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://join-tech.ru",
+      "summary": "Изучен материал (structured-cloud-analyzer): Модель JoinTECH (Андрей Беловолов) — План для Global Plus"
     }
   ],
   "failed_urls": {
@@ -1203,9 +1224,9 @@
       "last_try": "2026-11-14T13:49:37+00:00"
     },
     "https://tbank-online.com/baf/6eNKZud3qzd.": {
-      "retries": 1,
+      "retries": 2,
       "last_error": "HTTP Error 404: Not Found",
-      "last_try": "2026-11-17T17:44:43+00:00"
+      "last_try": "2026-11-17T23:58:58+00:00"
     },
     "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5»": {
       "retries": 1,
