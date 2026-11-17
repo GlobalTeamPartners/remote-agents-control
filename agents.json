@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:44:46+00:00",
+  "updated": "2026-11-17T21:39:12+00:00",
   "system_agents": {
     "tim": {
       "name": "Директор Тим",
@@ -235,20 +235,20 @@
       "emoji": "☁️",
       "project": "Global Spirit Group",
       "status": "online",
-      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #55"
+      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #56"
     },
     "tg_bot_poller": {
       "name": "Telegram HQ Poller v34.2 (@unitybusinessbot)",
       "emoji": "🤖",
       "project": "Главный Штаб",
-      "status": "online",
-      "detail": "Онлайн на ПК"
+      "status": "offline_local",
+      "detail": "Офлайн — перехвачен облачным fallback 24/7"
     }
   },
   "model_router": {
     "preferred_provider": "gemini",
     "configured_providers": [],
-    "active_mode": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_mode": "structured-cloud-analyzer (fallback: openai/gpt-4o [github_models]: Expecting value: line 1 colum; awaiting GEMINI_API_KEY)",
     "vps_ready": false,
     "cost_architecture": "Antigravity 2.31 Tiered Routing (Gemini 4 -> OpenAI -> GitHub Models + 8-Layer Guard)",
     "argon_model": "openai/gpt-4o",
