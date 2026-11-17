@@ -989,5 +989,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: NT:YouTube): «VPS Hosting | Fast, AI-Ready KVM VPS up to 70% off - Hostinger». Ключевое: Virtual private servers for more power and control. AMD EPYC processors, NVMe SSD storage, free weekly backups and AI-ready VPS management with up to 70% off."
     }
+  },
+  {
+    "at": "2026-11-17T17:44:49+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.2",
+    "model_engine": "structured-cloud-analyzer (fallback: openai/gpt-4o-mini [github_models]: Expecting value: line 1 ; awaiting GEMINI_API_KEY)",
+    "active_tier": "hydrogen",
+    "cycle": 55,
+    "tasks": [],
+    "study": {
+      "title": "https://lp-demo.altahq.com/?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adword",
+      "url": "https://lp-demo.altahq.com/?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=201787091475&hsa_ad=827969908054&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «Alta — Your next chapter of growth». Ключевое: Meet your AI revenue workforce. Watch Alta turn your company website into a personalized go-to-market plan."
+    }
   }
 ]
