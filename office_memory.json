@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-17T21:45:21+00:00",
-  "cycle_count": 60,
+  "updated_at": "2026-11-17T21:46:22+00:00",
+  "cycle_count": 61,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -45,7 +45,8 @@
     "issue:76:comment:6961789914",
     "issue:75:comment:6961829824",
     "issue:73:comment:6961872390",
-    "issue:72:comment:6961884581"
+    "issue:72:comment:6961884581",
+    "issue:71:comment:6961906530"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -104,7 +105,8 @@
     "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5`",
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==`",
     "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`",
-    "https://github.io/remote-agents-control/`"
+    "https://github.io/remote-agents-control/`",
+    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917`"
   ],
   "learned_facts": [
     {
@@ -445,7 +447,7 @@
       "source": "issue #70"
     },
     {
-      "at": "2026-11-16T01:07:17+00:00",
+      "at": "2026-11-17T21:46:25+00:00",
       "topic": "Задача #71: CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaign",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **ToonBee - Founders Special Offer: Unlock AI-powered Cartoon Video Creation** (`https://toonbee.ai/g-special?campaigni",
       "source": "issue #71"
@@ -1166,6 +1168,13 @@
       "issue": 72,
       "url": null,
       "summary": "#72 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-17T21:46:25+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 71,
+      "url": null,
+      "summary": "#71 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
@@ -1198,6 +1207,11 @@
       "retries": 1,
       "last_error": "HTTP Error 403: Forbidden",
       "last_try": "2026-11-17T21:45:23+00:00"
+    },
+    "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917»": {
+      "retries": 1,
+      "last_error": "'ascii' codec can't encode character '\\xbb' in position 118: ordinal not in range(128)",
+      "last_try": "2026-11-17T21:46:24+00:00"
     }
   }
 }
