@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-16T22:35:23.643155Z",
-  "cycle_count": 52,
+  "updated_at": "2026-11-17T00:23:15+00:00",
+  "cycle_count": 53,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -92,7 +92,8 @@
     "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ==",
     "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&utm_term=&utm_id=24028112345&hsa_acc=3291578710&hsa_cam=24028112345&hsa_grp=197241853125&hsa_ad=825598797047&hsa_src=ytif&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24028112345",
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==",
-    "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5"
+    "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5",
+    "https://habr.com/ru/amp/publications/1095202/"
   ],
   "learned_facts": [
     {
@@ -492,6 +493,12 @@
       "project": "Главный Штаб",
       "issue": 77,
       "summary": "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5: Здравия! Тим на связи. Анализ задачи #77 завершен.\n\n### Анализ контента\nПо ссылке `https://www.instagram.com/reel/DfQWuxWTUul/` (автор: *tonythetechie*):\n* **Суть:** Видео является манифестом «от идеи к реализации». Автор проводит параллель между подростковым увлечением кастомиза"
+    },
+    {
+      "at": "2026-11-17T00:23:24+00:00",
+      "topic": "https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?",
+      "insight": "Изучено (Проект: Позновалка): «GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr». Ключевое: GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr Все потоки Разработка Администрирование Дизайн Менеджмент Маркетинг Научпоп Как стать автором Помощь Техническая поддержка honest_niceman {{ day }} {{ monthNameShort }} {{ year }}, {{ hour }}:{{ minuteTwoDigit }} GLM 5.3 Flash и DeepSeek V4.1 Flash",
+      "source": "https://habr.com/ru/amp/publications/1095202/"
     }
   ],
   "projects": {
@@ -1073,6 +1080,13 @@
       "issue": 77,
       "url": null,
       "summary": "#77 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-17T00:23:24+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://habr.com/ru/amp/publications/1095202/",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?"
     }
   ],
   "failed_urls": {
