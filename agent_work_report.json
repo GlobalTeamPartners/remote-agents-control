@@ -1,20 +1,5 @@
 [
   {
-    "at": "2026-11-12T17:05:34+00:00",
-    "source": "github_actions_cloud_24_7",
-    "cycle": 2,
-    "tasks": [
-      {
-        "issue": 51,
-        "title": "CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta",
-        "persona": "Облачный Совет Агентов 24/7",
-        "model": "deterministic-fallback",
-        "preview": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office"
-      }
-    ],
-    "study": null
-  },
-  {
     "at": "2026-11-12T17:07:51+00:00",
     "source": "github_actions_cloud_24_7",
     "cycle": 3,
@@ -1138,5 +1123,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-17T23:59:05+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 71,
+    "tasks": [],
+    "study": {
+      "title": "Модель JoinTECH (Андрей Беловолов) — План для Global Plus",
+      "url": "https://join-tech.ru",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Бизнес-модель & Global Plus): «JoinTECH — Развитие бизнеса через технологии». Ключевое: Развитие бизнеса через технологии: сайты и веб-системы, SEO, amoCRM, чат-боты, автоматизация и AI-решения для бизнеса. Проектируем и внедряем решения под задачи компании."
+    }
   }
 ]
