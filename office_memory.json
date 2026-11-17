@@ -1,7 +1,7 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-17T21:44:49+00:00",
-  "cycle_count": 59,
+  "updated_at": "2026-11-17T21:45:21+00:00",
+  "cycle_count": 60,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -44,7 +44,8 @@
     "issue:77:comment:6961745348",
     "issue:76:comment:6961789914",
     "issue:75:comment:6961829824",
-    "issue:73:comment:6961872390"
+    "issue:73:comment:6961872390",
+    "issue:72:comment:6961884581"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -102,7 +103,8 @@
     "https://lp-demo.altahq.com/?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=201787091475&hsa_ad=827969908054&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905",
     "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5`",
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==`",
-    "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`"
+    "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`",
+    "https://github.io/remote-agents-control/`"
   ],
   "learned_facts": [
     {
@@ -449,9 +451,9 @@
       "source": "issue #71"
     },
     {
-      "at": "2026-11-16T02:03:51+00:00",
+      "at": "2026-11-17T21:45:24+00:00",
       "topic": "Задача #72: CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- ⚠️ Не удалось открыть `https://www.khl.ru/` (HTTP Error 403: Forbidden)\n- 🔗 **GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository.",
       "source": "issue #72"
     },
     {
@@ -1157,6 +1159,13 @@
       "issue": 73,
       "url": null,
       "summary": "#73 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-17T21:45:24+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 72,
+      "url": null,
+      "summary": "#72 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
@@ -1184,6 +1193,11 @@
       "retries": 1,
       "last_error": "'ascii' codec can't encode character '\\xbb' in position 57: ordinal not in range(128)",
       "last_try": "2026-11-17T21:41:09+00:00"
+    },
+    "https://www.khl.ru/": {
+      "retries": 1,
+      "last_error": "HTTP Error 403: Forbidden",
+      "last_try": "2026-11-17T21:45:23+00:00"
     }
   }
 }
