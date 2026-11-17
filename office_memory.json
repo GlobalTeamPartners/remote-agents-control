@@ -1,6 +1,6 @@
 {
   "version": "34.2",
-  "updated_at": "2026-11-17T21:44:00+00:00",
+  "updated_at": "2026-11-17T21:44:49+00:00",
   "cycle_count": 59,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -44,7 +44,7 @@
     "issue:77:comment:6961745348",
     "issue:76:comment:6961789914",
     "issue:75:comment:6961829824",
-    "issue:74:comment:6961853810"
+    "issue:73:comment:6961872390"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -102,7 +102,7 @@
     "https://lp-demo.altahq.com/?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adwords&utm_medium=ppc&utm_id=24010572905&hsa_acc=1922078764&hsa_cam=24010572905&hsa_grp=201787091475&hsa_ad=827969908054&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24010572905",
     "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5`",
     "https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==`",
-    "https://github.io/remote-agents-control/`"
+    "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`"
   ],
   "learned_facts": [
     {
@@ -455,13 +455,13 @@
       "source": "issue #72"
     },
     {
-      "at": "2026-11-16T02:17:59+00:00",
+      "at": "2026-11-17T21:44:55+00:00",
       "topic": "Задача #73: CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_camp",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Доходные сайты с платной подпиской — бесплатный онлайн-курс — Универус** (`https://univerus.ai/lp/dohodnye-sa",
       "source": "issue #73"
     },
     {
-      "at": "2026-11-17T21:44:48+00:00",
+      "at": "2026-11-16T02:25:36+00:00",
       "topic": "Задача #74: CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Браузер, но не для людей: Cloudflare открыла исходный код Kitesurf — браузера для ИИ-агентов** (`https://www.i",
       "source": "issue #74"
@@ -1152,11 +1152,11 @@
       "summary": "#75 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис"
     },
     {
-      "at": "2026-11-17T21:44:48+00:00",
+      "at": "2026-11-17T21:44:55+00:00",
       "kind": "cloud_task_executed",
-      "issue": 74,
+      "issue": 73,
       "url": null,
-      "summary": "#74 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn | PROJ: Входящие_Офис"
+      "summary": "#73 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
@@ -1184,11 +1184,6 @@
       "retries": 1,
       "last_error": "'ascii' codec can't encode character '\\xbb' in position 57: ordinal not in range(128)",
       "last_try": "2026-11-17T21:41:09+00:00"
-    },
-    "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi»:**": {
-      "retries": 1,
-      "last_error": "'ascii' codec can't encode character '\\xbb' in position 74: ordinal not in range(128)",
-      "last_try": "2026-11-17T21:44:47+00:00"
     }
   }
 }
