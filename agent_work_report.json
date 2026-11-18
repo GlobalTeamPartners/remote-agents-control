@@ -44,5 +44,22 @@
       "transport": "fallback",
       "summary": "Изучено (Инфраструктура & Сервер): «Самохостинг 10 ТБ на ноутбуке, свой сервер вместо облака, личные сайты и сисопки / Хабр». Ключевое: Домашний сервер — обычное дело в наше время. Кажется, таким никого не удивишь. Но некоторые экстремальные примеры всё-таки поражают. Вот недавно товарищ рассказал , как организовал у с"
     }
+  },
+  {
+    "at": "2026-11-18T22:57:23+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 84,
+    "tasks": [],
+    "study": {
+      "title": "Gartner® Predicts 2026: Intelligent Applications (ThoughtSpot)",
+      "url": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Аналитика & Тренды 2026): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you"
+    }
   }
 ]
