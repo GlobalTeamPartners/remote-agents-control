@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:24:49.792Z",
+  "updated_at": "2026-11-18T04:39:20.877418Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1217,6 +1217,33 @@
       "action_items": [
         "Генерировать сценарии и посты в 1 клик из любой сохраненной ссылки в Базе Знаний"
       ]
+    },
+    {
+      "id": "kb-bot-78",
+      "issue": 78,
+      "category": "Проект: Главный Штаб",
+      "title": "Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)",
+      "source_url": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "summary": "Сохранено из @unitybusinessbot (#78 closed) в 04_База_Знаний_Синтез/Note_Bot_78_Instagram_Reel_DfzPj_5NrgN.md.",
+      "updated_at": "2026-11-18T04:39:19.625454Z"
+    },
+    {
+      "id": "kb-bot-79",
+      "issue": 79,
+      "category": "Проект: Главный Штаб",
+      "title": "IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка",
+      "source_url": "https://www.outsource.gov.uz/en",
+      "summary": "# IT Park Uzbekistan (`outsource.gov.uz/en`) — Консолидация #79 и #81\n\n- **Источники:** https://www.outsource.gov.uz/en (Задачи `#79` и `#81`)\n- **Проект:** `Главный Штаб`\n- **SEO & GEO аудит (Claude SEO Autopilot):** HTTP 200 · `88/100` (`robots.txt=False`, `llms.txt=False`, `JSON-LD=0`, `multiple-h1`)\n\n## Ключевые факты\n- 4,200+ резидентских техно-компаний, $2.8B экспортной выручки, 25,000+ IT-выпускников/год.\n- **0% Corporate Tax** на экспорт IT/AI/BPO-услуг и SaaS (льгота резидента IT Park).\n- **Zero-Risk Subsidies:** компенсация офисов до ",
+      "updated_at": "2026-11-18T04:39:19.625454Z"
+    },
+    {
+      "id": "kb-bot-80",
+      "issue": 80,
+      "category": "Проект: Главный Штаб",
+      "title": "Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude.",
+      "source_url": "https://youtu.be/I-lJCF2HPSA",
+      "summary": "# Разбор YouTube #80: «Anthropic только что уничтожил причину пользоваться Claude» (`I-lJCF2HPSA`)\n\n- **Видео:** https://youtu.be/I-lJCF2HPSA\n- **Извлечённый заголовок (`oEmbed`):** Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude.\n- **Канал:** YouTube: Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude. · Канал: ИИ МАСТОДОНТ (https://www.youtube.com/@aiBoomb)\n- **Проект:** `Главный Штаб`\n\n## Суть материала\n1. Anthropic ужесточила антифрод-блокировки аккаунтов (включая VPN/регионы) и перекрыла использование потребительских OAu",
+      "updated_at": "2026-11-18T04:39:19.625454Z"
     }
   ],
   "global_plus_matrix": [
