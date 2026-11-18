@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:56:20+00:00",
+  "updated": "2026-11-17 21:12:25",
   "system_agents": {
     "tim": {
       "name": "Директор Тим",
@@ -9,10 +9,10 @@
       "gives": "исполнительный отчёт + распределённые ТЗ отделам",
       "next": "strategist / marketer / developer / sales_closer / creative_producer / vibe_coder / researcher",
       "state": "online",
-      "tasks_completed": 11,
-      "last_task": "Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
-      "last_project": "Дима Верхняя Синичиха Алапаевск",
-      "updated_at": "2026-10-30 00:09:20"
+      "tasks_completed": 60,
+      "last_task": "[Тим] https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "last_project": "Главный Штаб",
+      "updated_at": "2026-11-17 15:40:42"
     },
     "strategist": {
       "name": "Стратег",
@@ -22,10 +22,10 @@
       "gives": "модель монетизации и финансовые метрики",
       "next": "tim",
       "state": "online",
-      "tasks_completed": 9,
-      "last_task": "Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
-      "last_project": "Дима Верхняя Синичиха Алапаевск",
-      "updated_at": "2026-10-30 00:09:20"
+      "tasks_completed": 50,
+      "last_task": "[Тим] https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "last_project": "Главный Штаб",
+      "updated_at": "2026-11-17 15:40:42"
     },
     "marketer": {
       "name": "Маркетолог & Трафик",
@@ -35,10 +35,10 @@
       "gives": "воронка и каналы привлечения клиентов",
       "next": "tim",
       "state": "online",
-      "tasks_completed": 7,
-      "last_task": "Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
-      "last_project": "Дима Верхняя Синичиха Алапаевск",
-      "updated_at": "2026-10-30 00:09:20"
+      "tasks_completed": 46,
+      "last_task": "[Тим] https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "last_project": "Главный Штаб",
+      "updated_at": "2026-11-17 15:40:42"
     },
     "developer": {
       "name": "Главный Разработчик",
@@ -48,10 +48,10 @@
       "gives": "готовый код, интерактивные веб-модули и боты",
       "next": "tim",
       "state": "online",
-      "tasks_completed": 10,
-      "last_task": "Разбей текущую цель проекта на 3 простых действия на ближайшие 30 минут",
-      "last_project": "Дима Верхняя Синичиха Алапаевск",
-      "updated_at": "2026-10-30 00:09:20"
+      "tasks_completed": 50,
+      "last_task": "[Тим] https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "last_project": "Главный Штаб",
+      "updated_at": "2026-11-17 15:40:42"
     },
     "sales_closer": {
       "name": "B2B Продажи & Офферы",
@@ -62,9 +62,9 @@
       "next": "tim",
       "state": "online",
       "tasks_completed": 2,
-      "last_task": "Полный разбор облачных задач #142–#157, аудит агентов и 4 схемы монетизации",
-      "last_project": "12 IT Продуктов (Короче Капитан)",
-      "updated_at": "2026-10-29 18:50:32"
+      "last_task": "Упакуй продающий 1-страничный оффер B2B AI-Аудита Unity Inc / Global Plus по модели JoinTECH и список первых 10 компаний для аутрича",
+      "last_project": "Unity Inc",
+      "updated_at": "2026-11-02 12:38:26"
     },
     "creative_producer": {
       "name": "Креативный Продюсер",
@@ -74,10 +74,10 @@
       "gives": "раскадровка, видео и музыкальные релизы",
       "next": "tim",
       "state": "online",
-      "tasks_completed": 1,
-      "last_task": "Полный разбор облачных задач #142–#157, аудит агентов и 4 схемы монетизации",
-      "last_project": "12 IT Продуктов (Короче Капитан)",
-      "updated_at": "2026-10-29 18:50:32"
+      "tasks_completed": 5,
+      "last_task": "https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY",
+      "last_project": "Входящие_Офис",
+      "updated_at": "2026-11-17 14:47:07"
     },
     "vibe_coder": {
       "name": "Вайбкодер & Micro-SaaS",
@@ -88,9 +88,9 @@
       "next": "tim",
       "state": "online",
       "tasks_completed": 4,
-      "last_task": "Автономный E2E-тест v18: запусти связку Бесплатный AI-Магазин за 15 мин (#147) и TMA Vibe-конструктор (#157) с расчётом CPA и подписки",
-      "last_project": "12 IT Продуктов (Короче Капитан)",
-      "updated_at": "2026-10-29 18:53:31"
+      "last_task": "Вайбкодер — предложи быстрый Micro-SaaS или Telegram-бот для Личный Офис: @true1team",
+      "last_project": "Личный Офис: @true1team",
+      "updated_at": "2026-11-02 12:30:45"
     },
     "intake": {
       "name": "Приёмщик",
@@ -100,10 +100,10 @@
       "gives": "карточка со статусом new",
       "next": "researcher",
       "state": "online",
-      "tasks_completed": 56,
+      "tasks_completed": 149,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "researcher": {
       "name": "Разведчик",
@@ -113,10 +113,10 @@
       "gives": "уровень доказательств: studied / partial / title_only / not_studied",
       "next": "router",
       "state": "online",
-      "tasks_completed": 23,
+      "tasks_completed": 68,
       "last_task": "Фоновый обход TG-каналов (@vibecodings, @sysadminfuture, @ghostghettochild, @belovolov_andrey)",
       "last_project": "Автономная_База_Знаний_Каналов",
-      "updated_at": "2026-10-30 00:53:56"
+      "updated_at": "2026-11-17 16:07:25"
     },
     "router": {
       "name": "Маршрутизатор",
@@ -126,10 +126,10 @@
       "gives": "проект + уверенность + альтернативы",
       "next": "analyst",
       "state": "online",
-      "tasks_completed": 56,
+      "tasks_completed": 149,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "analyst": {
       "name": "Аналитик",
@@ -139,10 +139,10 @@
       "gives": "файл в 02_На_Подтверждении",
       "next": "human",
       "state": "online",
-      "tasks_completed": 23,
+      "tasks_completed": 68,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "gatekeeper": {
       "name": "Контролёр",
@@ -152,10 +152,10 @@
       "gives": "финальный статус карточки",
       "next": "scribe",
       "state": "online",
-      "tasks_completed": 56,
+      "tasks_completed": 149,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "scribe": {
       "name": "Архивариус",
@@ -165,10 +165,10 @@
       "gives": "файлы в проекте + обновлённая ДОСКА.md",
       "next": "project_lead",
       "state": "online",
-      "tasks_completed": 15,
+      "tasks_completed": 114,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "project_lead": {
       "name": "Ведущий агент проекта",
@@ -178,10 +178,10 @@
       "gives": "выполненные шаги проекта",
       "next": "human",
       "state": "online",
-      "tasks_completed": 15,
+      "tasks_completed": 114,
       "last_task": "#9006: 🎬 Проверить Filmtools со смартфона (с Светланой)",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     },
     "human": {
       "name": "Власлав",
@@ -194,7 +194,7 @@
       "tasks_completed": 0,
       "last_task": "Готов к поручениям",
       "last_project": "Все проекты",
-      "updated_at": "2026-10-30 00:59:51"
+      "updated_at": "2026-11-17 21:12:25"
     }
   },
   "daemons": {
@@ -202,58 +202,49 @@
       "name": "Слушатель Офиса (laptop_worker.py v18)",
       "emoji": "🔄",
       "project": "Входящие_Офис",
-      "status": "paused_offline_local",
-      "detail": "Остановлен на ПК (архив v34.0, не запущен в фоне Windows)",
-      "pid": null
+      "status": "online",
+      "detail": "Слушает облачную очередь GitHub Issues и синхронизирует ветку data 24/7"
     },
     "khl_live_service": {
       "name": "KHL Live Odds v17 (khl_live_service_v17.py)",
       "emoji": "🏒",
       "project": "Юра",
-      "status": "paused_offline_local",
-      "detail": "Остановлен на ПК (архив v34.0, не запущен в фоне Windows)",
-      "pid": null
+      "status": "standby",
+      "detail": "Мониторинг live-коэффициентов КХЛ и отправка сигналов 24/7"
     },
     "khl_auto_learning": {
       "name": "KHL Auto-Learning (khl_auto_learning_service.py)",
       "emoji": "🧬",
       "project": "Юра",
-      "status": "paused_offline_local",
-      "detail": "Остановлен на ПК (архив v34.0, не запущен в фоне Windows)",
-      "pid": null
+      "status": "standby",
+      "detail": "Автообучение и калибровка вероятностной модели КХЛ"
     },
     "channel_watcher": {
       "name": "Монитор TG-каналов (channel_watcher.py)",
       "emoji": "📡",
       "project": "Автономная_База_Знаний_Каналов",
-      "status": "paused_offline_local",
-      "detail": "Остановлен на ПК (архив v34.0, не запущен в фоне Windows)",
-      "pid": null
-    },
-    "github_cloud_24_7": {
-      "name": "Cloud 24/7 Orchestrator v34.3",
-      "emoji": "☁️",
-      "project": "Global Spirit Group",
-      "status": "online",
-      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #76"
-    },
-    "tg_bot_poller": {
-      "name": "Telegram HQ Poller v34.3 (@unitybusinessbot)",
-      "emoji": "🤖",
-      "project": "Главный Штаб",
-      "status": "online",
-      "detail": "Онлайн на ПК"
+      "status": "scheduled",
+      "detail": "Авто-обход @vibecodings, @sysadminfuture, @ghostghettochild, @belovolov_andrey каждые 45 мин"
     }
   },
   "model_router": {
-    "preferred_provider": "gemini",
-    "configured_providers": [],
-    "active_mode": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
-    "vps_ready": false,
-    "cost_architecture": "Antigravity 2.31 Tiered Routing (Gemini 4 -> OpenAI -> GitHub Models + 8-Layer Guard)",
-    "argon_model": "openai/gpt-4o",
-    "carbon_model": "openai/gpt-4o",
-    "hydrogen_model": "openai/gpt-4o-mini"
+    "preferred_provider": "auto",
+    "configured_providers": [
+      "gemini"
+    ],
+    "active_mode": "production_api (gemini)",
+    "vps_ready": true,
+    "cost_architecture": "Anthropic 2026 Tiered Routing (Frontier + Economy + Single-Loop)",
+    "frontier_model": "auto-frontier",
+    "economy_model": "auto-economy",
+    "metrics": {
+      "calls_total": 0,
+      "calls_by_provider": {},
+      "last_provider": "auto_standby",
+      "last_model": "auto",
+      "last_call_at": null,
+      "errors_count": 0
+    }
   },
   "statuses": {
     "new": "🆕 Новый",
