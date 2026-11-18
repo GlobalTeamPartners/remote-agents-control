@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 21:12:25",
+  "updated": "2026-11-18T04:13:44+00:00",
   "system_agents": {
     "tim": {
       "name": "Директор Тим",
@@ -202,49 +202,54 @@
       "name": "Слушатель Офиса (laptop_worker.py v18)",
       "emoji": "🔄",
       "project": "Входящие_Офис",
-      "status": "online",
+      "status": "paused_offline_local",
       "detail": "Слушает облачную очередь GitHub Issues и синхронизирует ветку data 24/7"
     },
     "khl_live_service": {
       "name": "KHL Live Odds v17 (khl_live_service_v17.py)",
       "emoji": "🏒",
       "project": "Юра",
-      "status": "standby",
+      "status": "paused_offline_local",
       "detail": "Мониторинг live-коэффициентов КХЛ и отправка сигналов 24/7"
     },
     "khl_auto_learning": {
       "name": "KHL Auto-Learning (khl_auto_learning_service.py)",
       "emoji": "🧬",
       "project": "Юра",
-      "status": "standby",
+      "status": "paused_offline_local",
       "detail": "Автообучение и калибровка вероятностной модели КХЛ"
     },
     "channel_watcher": {
       "name": "Монитор TG-каналов (channel_watcher.py)",
       "emoji": "📡",
       "project": "Автономная_База_Знаний_Каналов",
-      "status": "scheduled",
+      "status": "paused_offline_local",
       "detail": "Авто-обход @vibecodings, @sysadminfuture, @ghostghettochild, @belovolov_andrey каждые 45 мин"
+    },
+    "github_cloud_24_7": {
+      "name": "Cloud 24/7 Orchestrator v34.3",
+      "emoji": "☁️",
+      "project": "Global Spirit Group",
+      "status": "online",
+      "detail": "GitHub Actions 24/7: Argon / Carbon / Hydrogen · цикл #77"
+    },
+    "tg_bot_poller": {
+      "name": "Telegram HQ Poller v34.3 (@unitybusinessbot)",
+      "emoji": "🤖",
+      "project": "Главный Штаб",
+      "status": "online",
+      "detail": "Онлайн на ПК"
     }
   },
   "model_router": {
-    "preferred_provider": "auto",
-    "configured_providers": [
-      "gemini"
-    ],
-    "active_mode": "production_api (gemini)",
-    "vps_ready": true,
-    "cost_architecture": "Anthropic 2026 Tiered Routing (Frontier + Economy + Single-Loop)",
-    "frontier_model": "auto-frontier",
-    "economy_model": "auto-economy",
-    "metrics": {
-      "calls_total": 0,
-      "calls_by_provider": {},
-      "last_provider": "auto_standby",
-      "last_model": "auto",
-      "last_call_at": null,
-      "errors_count": 0
-    }
+    "preferred_provider": "gemini",
+    "configured_providers": [],
+    "active_mode": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "vps_ready": false,
+    "cost_architecture": "Antigravity 2.31 Tiered Routing (Gemini 4 -> OpenAI -> GitHub Models + 8-Layer Guard)",
+    "argon_model": "openai/gpt-4o",
+    "carbon_model": "openai/gpt-4o",
+    "hydrogen_model": "openai/gpt-4o-mini"
   },
   "statuses": {
     "new": "🆕 Новый",
