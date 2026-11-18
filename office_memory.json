@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-18T04:39:01.546254+00:00",
-  "cycle_count": 77,
+  "updated_at": "2026-11-18T06:56:16+00:00",
+  "cycle_count": 78,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -46,7 +46,8 @@
     "issue:75:comment:6961829824",
     "issue:73:comment:6961872390",
     "issue:72:comment:6961884581",
-    "issue:71:comment:6961906530"
+    "issue:71:comment:6961906530",
+    "issue:79:auto:6966034550"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -107,7 +108,10 @@
     "https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co`",
     "https://github.io/remote-agents-control/`",
     "https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917`",
-    "https://join-tech.ru"
+    "https://join-tech.ru",
+    "https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3Y",
+    "https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3YAMFKa3svSf7JLOuE8bxh2StjQC9LlOkxjIgaTAEyNusazZflTlPLgi_aem_eiT-O1t22-dAudlzRwVrEw",
+    "https://www.similarweb.com/ru/"
   ],
   "learned_facts": [
     {
@@ -559,6 +563,18 @@
       "project": "Главный Штаб",
       "issue": 81,
       "summary": "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRRiNE3Y5JjCINYpD5w res: Здравия! Тим на связи. Главный Штаб, Задача #81. \n\n*(Примечание: `nlm.exe` на ПК не авторизован — для работы с NotebookLM выполните 1 раз `nlm login` в окне Chrome. Ниже дан глубокий анализ силами Gemini и Памяти Офиса).*\n\nИсходя из извлеченных дан"
+    },
+    {
+      "at": "2026-11-18T06:56:30+00:00",
+      "topic": "Задача #79: CMD: TIM: [Тим] https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3Y | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **IT Outsourcing & BPO Portal | Outsource to Uzbekistan** (`https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG",
+      "source": "issue #79"
+    },
+    {
+      "at": "2026-11-18T06:56:35+00:00",
+      "topic": "Similarweb + Система бесплатного трафика (Unity Spirit & Global Plus)",
+      "insight": "Изучено (Маркетинг & Трафик): «Similarweb: Решения по анализу цифровых данных на основе искусственного интеллекта». Ключевое: Similarweb - это компания, предоставляющая цифровые данные на основе искусственного интеллекта, которая в режиме реального времени проводит анализ рынка, конкурентной среды и потребительских тенденций для ускорения роста бизнеса.",
+      "source": "https://www.similarweb.com/ru/"
     }
   ],
   "projects": {
@@ -1224,6 +1240,27 @@
       "issue": null,
       "url": "https://join-tech.ru",
       "summary": "Изучен материал (structured-cloud-analyzer): Модель JoinTECH (Андрей Беловолов) — План для Global Plus"
+    },
+    {
+      "at": "2026-11-18T06:56:30+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 79,
+      "url": null,
+      "summary": "#79 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3Y | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-18T06:56:34+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://tbank-online.com/baf/6eNKZud3qzd.",
+      "summary": "URL недоступен: https://tbank-online.com/baf/6eNKZud3qzd. (HTTP Error 404: Not Found)"
+    },
+    {
+      "at": "2026-11-18T06:56:35+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.similarweb.com/ru/",
+      "summary": "Изучен материал (structured-cloud-analyzer): Similarweb + Система бесплатного трафика (Unity Spirit & Global Plus)"
     }
   ],
   "failed_urls": {
@@ -1241,6 +1278,16 @@
       "retries": 1,
       "last_error": "HTTP Error 403: Forbidden",
       "last_try": "2026-11-17T21:45:23+00:00"
+    },
+    "https://www.outsource.gov.uz/en`": {
+      "retries": 1,
+      "last_error": "HTTP Error 404: Not Found",
+      "last_try": "2026-11-18T06:56:29+00:00"
+    },
+    "https://tbank-online.com/baf/6eNKZud3qzd.": {
+      "retries": 1,
+      "last_error": "HTTP Error 404: Not Found",
+      "last_try": "2026-11-18T06:56:34+00:00"
     }
   }
 }
