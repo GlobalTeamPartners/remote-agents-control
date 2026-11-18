@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:51:22.528164Z",
+  "updated_at": "2026-11-18T16:17:04.481357Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1271,6 +1271,15 @@
       "source_url": "",
       "summary": "Здравия! Тим на связи. Главный Штаб, Задача #84.\n\nИнтеграция моделей **DeepSeek (V3 / R1)** в архитектуру **Harness CI/CD** (или кастомный оркестратор агентов/хазнеса) в рамках контура Global Spirit Group — это мощный шаг к автоматизации пайплайнов, код-ревью и генерации инфраструктурного кода (Terraform/Ansible) с минимальной стоимостью токенов.\n\nНиже собрана база знаний из наших предыдущих обсуждений по применению DeepSeek, а также готовый архитектурный план внедрения в связке с Harness.\n\n---\n\n### 1. Что мы ранее изучали и фиксировали по DeepSeek в задачах Штаба:\n* **Экономика токенов и кэши",
       "updated_at": "2026-11-18T15:51:21.193543Z"
+    },
+    {
+      "id": "kb-bot-85",
+      "issue": 85,
+      "category": "Проект: Главный Штаб",
+      "title": "https://youtu.be/I-lJCF2HPSA?is=78ZDOQJpolH1nkL9",
+      "source_url": "https://youtu.be/I-lJCF2HPSA?is=78ZDOQJpolH1nkL9",
+      "summary": "Tim here. Reporting for Global Spirit Group, HQ.\n\n### 1. Analysis of the Video (I-lJCF2HPSA)\nThe video \"Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude\" discusses the shift in the LLM landscape where open-weights models (like DeepSeek) are rapidly closing the gap with proprietary models (Claude/GPT-4o). The core takeaway is the **democratization of high-level reasoning capabilities**, which directly supports our strategy to move away from vendor lock-in and toward self-hosted/API-agnostic infrastructure.\n\n### 2. DeepSeek + Harness Integration (Expertise)\nPer your previous tasks (#84",
+      "updated_at": "2026-11-18T16:17:03.082176Z"
     }
   ],
   "global_plus_matrix": [
