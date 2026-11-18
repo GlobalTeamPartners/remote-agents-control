@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-18T16:12:44+00:00",
+  "updated_at": "2026-11-18T16:16:38.922750Z",
   "cycle_count": 82,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -603,6 +603,13 @@
       "topic": "Самохостинг 10 ТБ на ноутбуке: Garage S3 + ZFS вместо облака",
       "insight": "Изучено (Инфраструктура & Сервер): «Самохостинг 10 ТБ на ноутбуке, свой сервер вместо облака, личные сайты и сисопки / Хабр». Ключевое: Домашний сервер — обычное дело в наше время. Кажется, таким никого не удивишь. Но некоторые экстремальные примеры всё-таки поражают. Вот недавно товарищ рассказал , как организовал у себя дешёвый...",
       "source": "https://habr.com/ru/articles/1093840/"
+    },
+    {
+      "id": "fact-dir-v343-iss85",
+      "ts": "2026-11-18T16:16:37.584943Z",
+      "project": "Главный Штаб",
+      "issue": 85,
+      "summary": "https://youtu.be/I-lJCF2HPSA?is=78ZDOQJpolH1nkL9: Tim here. Reporting for Global Spirit Group, HQ.\n\n### 1. Analysis of the Video (I-lJCF2HPSA)\nThe video \"Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude\" discusses the shift in the LLM landscape where open-weights models (like DeepSeek) are rapidly closing the gap with "
     }
   ],
   "projects": {
