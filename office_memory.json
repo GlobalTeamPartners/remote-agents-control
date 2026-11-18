@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-18T16:17:53+00:00",
-  "cycle_count": 83,
+  "updated_at": "2026-11-18T22:57:11+00:00",
+  "cycle_count": 84,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -112,21 +112,10 @@
     "https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3Y",
     "https://www.outsource.gov.uz/en?fbclid=IwVERTSAVpyANleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH30T3YAMFKa3svSf7JLOuE8bxh2StjQC9LlOkxjIgaTAEyNusazZflTlPLgi_aem_eiT-O1t22-dAudlzRwVrEw",
     "https://www.similarweb.com/ru/",
-    "https://habr.com/ru/articles/1093840/"
+    "https://habr.com/ru/articles/1093840/",
+    "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-12T16:52:37+00:00",
-      "topic": "Задача #47: CMD: RESEARCH_MORE: Быстрые клиенты и идеи монетизации для Alberta | PROJ: Alberta",
-      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: RESEARCH_MORE: Быстрые клиенты и идеи монетизации для Alberta | PROJ: Alberta\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение или команду (`/ceo`, `/strategy`, `/viral`, `/expert`) в ответ, и облачный агент продолжи",
-      "source": "issue #47"
-    },
-    {
-      "at": "2026-11-12T16:52:38+00:00",
-      "topic": "Задача #48: CMD: Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽ | PROJ: Alberta",
-      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽ | PROJ: Alberta\n\n**Изученные материалы:**\n- 🔗 **Telegram: Launch @lermontovplusbot** (`https://t.me/lermontovplusbot?start=aliashirani`): Telegram: Launch @lermontovplusbot Download Alberta @lermontovplusbot Start Bot If you have Telegram , you can launch Alberta",
-      "source": "issue #48"
-    },
     {
       "at": "2026-11-12T17:05:32+00:00",
       "topic": "Задача #51: CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta",
@@ -610,6 +599,12 @@
       "project": "Главный Штаб",
       "issue": 85,
       "summary": "https://youtu.be/I-lJCF2HPSA?is=78ZDOQJpolH1nkL9: Tim here. Reporting for Global Spirit Group, HQ.\n\n### 1. Analysis of the Video (I-lJCF2HPSA)\nThe video \"Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude\" discusses the shift in the LLM landscape where open-weights models (like DeepSeek) are rapidly closing the gap with "
+    },
+    {
+      "at": "2026-11-18T22:57:18+00:00",
+      "topic": "Gartner® Predicts 2026: Intelligent Applications (ThoughtSpot)",
+      "insight": "Изучено (Аналитика & Тренды 2026): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you",
+      "source": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html"
     }
   ],
   "projects": {
@@ -1310,6 +1305,20 @@
       "issue": null,
       "url": "https://habr.com/ru/articles/1093840/",
       "summary": "Изучен материал (structured-cloud-analyzer): Самохостинг 10 ТБ на ноутбуке: Garage S3 + ZFS вместо облака"
+    },
+    {
+      "at": "2026-11-18T22:57:18+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://tbank-online.com/baf/6eNKZud3qzd.",
+      "summary": "URL недоступен: https://tbank-online.com/baf/6eNKZud3qzd. (HTTP Error 404: Not Found)"
+    },
+    {
+      "at": "2026-11-18T22:57:18+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html",
+      "summary": "Изучен материал (structured-cloud-analyzer): Gartner® Predicts 2026: Intelligent Applications (ThoughtSpot)"
     }
   ],
   "failed_urls": {
@@ -1334,9 +1343,9 @@
       "last_try": "2026-11-18T06:56:29+00:00"
     },
     "https://tbank-online.com/baf/6eNKZud3qzd.": {
-      "retries": 2,
+      "retries": 3,
       "last_error": "HTTP Error 404: Not Found",
-      "last_try": "2026-11-18T16:12:52+00:00"
+      "last_try": "2026-11-18T22:57:18+00:00"
     }
   }
 }
