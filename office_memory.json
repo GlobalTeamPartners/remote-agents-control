@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-19T12:33:36+00:00",
-  "cycle_count": 86,
+  "updated_at": "2026-11-19T12:48:48+00:00",
+  "cycle_count": 87,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -114,15 +114,10 @@
     "https://www.similarweb.com/ru/",
     "https://habr.com/ru/articles/1093840/",
     "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html",
-    "https://github.com/Panniantong/Agent-Reach"
+    "https://github.com/Panniantong/Agent-Reach",
+    "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-12T17:07:49+00:00",
-      "topic": "Задача #52: CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta",
-      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение или команду (`/ceo`, `/strategy`, `/viral`, `/expert`) в ответ, и облачн",
-      "source": "issue #52"
-    },
     {
       "at": "2026-11-12T17:09:14+00:00",
       "topic": "Задача #50: CMD: TIM: Выяви главный триггер женщин 30-50 лет по одной из перечисленных ранее тем, проанализируй для этого все запросы на все",
@@ -606,6 +601,12 @@
       "topic": "Безлимитный ИИ-контент и клон без платных подписок (0 ₽/мес)",
       "insight": "Изучено (Контент & ИИ-Аватары): «GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — on». Ключевое: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. - Panniantong/Agent-Reach",
       "source": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "at": "2026-11-19T12:48:53+00:00",
+      "topic": "Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)",
+      "insight": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,257 likes, 488 comments - open_chain on November 16, 2026: \"Follow + type “tutor” to get it #crypto#bitcoin#xrp#memecoins\".",
+      "source": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3"
     }
   ],
   "projects": {
@@ -761,13 +762,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-12T16:52:38+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 48,
-      "url": null,
-      "summary": "#48 (Облачный Совет Агентов 24/7): CMD: Собрать архитектуру Telegram-бота и воронки подписки для Alberta Shirani на 1 000 000 ₽ | PROJ: Alberta"
-    },
     {
       "at": "2026-11-12T17:05:32+00:00",
       "kind": "cloud_task_executed",
@@ -1320,6 +1314,13 @@
       "issue": null,
       "url": "https://github.com/Panniantong/Agent-Reach",
       "summary": "Изучен материал (structured-cloud-analyzer): Безлимитный ИИ-контент и клон без платных подписок (0 ₽/мес)"
+    },
+    {
+      "at": "2026-11-19T12:48:53+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "summary": "Изучен материал (structured-cloud-analyzer): Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)"
     }
   ],
   "failed_urls": {
