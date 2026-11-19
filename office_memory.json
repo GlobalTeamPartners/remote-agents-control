@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-19T12:48:48+00:00",
-  "cycle_count": 87,
+  "updated_at": "2026-11-19T21:09:51+00:00",
+  "cycle_count": 88,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -115,15 +115,10 @@
     "https://habr.com/ru/articles/1093840/",
     "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html",
     "https://github.com/Panniantong/Agent-Reach",
-    "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3"
+    "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+    "https://www.outsource.gov.uz/en"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-12T17:09:14+00:00",
-      "topic": "Задача #50: CMD: TIM: Выяви главный триггер женщин 30-50 лет по одной из перечисленных ранее тем, проанализируй для этого все запросы на все",
-      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: TIM: Выяви главный триггер женщин 30-50 лет по одной из перечисленных ранее тем, проанализируй для этого все запросы на всех онлайн-площадках и с | PROJ: Входящие_Офис\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение",
-      "source": "issue #50"
-    },
     {
       "at": "2026-11-12T17:09:15+00:00",
       "topic": "Задача #49: CMD: TIM: 1. Продукт & Закрытый Клуб | PROJ: Traffic",
@@ -607,6 +602,12 @@
       "topic": "Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)",
       "insight": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,257 likes, 488 comments - open_chain on November 16, 2026: \"Follow + type “tutor” to get it #crypto#bitcoin#xrp#memecoins\".",
       "source": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3"
+    },
+    {
+      "at": "2026-11-19T21:09:58+00:00",
+      "topic": "IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка",
+      "insight": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations.",
+      "source": "https://www.outsource.gov.uz/en"
     }
   ],
   "projects": {
@@ -762,13 +763,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-12T17:05:32+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 51,
-      "url": null,
-      "summary": "#51 (Облачный Совет Агентов 24/7): CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta"
-    },
     {
       "at": "2026-11-12T17:07:49+00:00",
       "kind": "cloud_task_executed",
@@ -1321,6 +1315,13 @@
       "issue": null,
       "url": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
       "summary": "Изучен материал (structured-cloud-analyzer): Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)"
+    },
+    {
+      "at": "2026-11-19T21:09:58+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.outsource.gov.uz/en",
+      "summary": "Изучен материал (structured-cloud-analyzer): IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка"
     }
   ],
   "failed_urls": {
