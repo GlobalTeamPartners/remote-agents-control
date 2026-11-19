@@ -95,5 +95,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,257 likes, 488 comments - open_chain on November 16, 2026: \"Follow + type “tutor” to get it #crypto#bitcoin#xrp#memecoins\"."
     }
+  },
+  {
+    "at": "2026-11-19T21:10:03+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 88,
+    "tasks": [],
+    "study": {
+      "title": "IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка",
+      "url": "https://www.outsource.gov.uz/en",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations."
+    }
   }
 ]
