@@ -78,5 +78,22 @@
       "transport": "fallback",
       "summary": "Изучено (Контент & ИИ-Аватары): «GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — on». Ключевое: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, Xiao"
     }
+  },
+  {
+    "at": "2026-11-19T12:48:57+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 87,
+    "tasks": [],
+    "study": {
+      "title": "Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)",
+      "url": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,257 likes, 488 comments - open_chain on November 16, 2026: \"Follow + type “tutor” to get it #crypto#bitcoin#xrp#memecoins\"."
+    }
   }
 ]
