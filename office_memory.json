@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-19T22:50:09+00:00",
+  "updated_at": "2026-11-19T22:49:47.667090Z",
   "cycle_count": 89,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -608,6 +608,13 @@
       "topic": "IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка",
       "insight": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations.",
       "source": "https://www.outsource.gov.uz/en"
+    },
+    {
+      "id": "fact-dir-v343-iss87",
+      "ts": "2026-11-19T22:49:41.992123Z",
+      "project": "Главный Штаб",
+      "issue": 87,
+      "summary": "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm: Здравия! Тим на связи. Главный Штаб, Задача #87.\n\nИсходя из извлечённых данных по ссылке `https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm` (канал Kathryn Petrillo), видео озаглавлено: **«China launches advanced open-source AI beating Anthropic and OpenAI»**. \n\n*(Примеч"
     }
   ],
   "projects": {
