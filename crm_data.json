@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:38:41.138649Z",
+  "updated_at": "2026-11-19T22:50:02.332183Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1289,6 +1289,15 @@
       "source_url": "https://www.clodix.ai/",
       "summary": "Изучен Clodix.ai ($39/мес monthly, $27 quarterly, $18 yearly; авто-календарь + SEO/GEO статьи + обложки + CMS). Собран рабочий прототип seo_content_autopilot_engine.py (Content Score 100/100, 0 руб подписок). Готов к упаковке в SaaS $29-$99/мес и DFY $350-$750.",
       "updated_at": "2026-11-19T12:38:23.253604Z"
+    },
+    {
+      "id": "kb-bot-87",
+      "issue": 87,
+      "category": "Проект: Главный Штаб",
+      "title": "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
+      "source_url": "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
+      "summary": "Здравия! Тим на связи. Главный Штаб, Задача #87.\n\nИсходя из извлечённых данных по ссылке `https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm` (канал Kathryn Petrillo), видео озаглавлено: **«China launches advanced open-source AI beating Anthropic and OpenAI»**. \n\n*(Примечание: NotebookLM CLI не использован, так как профиль Google не авторизован — для его активации нужно 1 раз выполнить `nlm login` в терминале ПК. Ниже представлен глубокий экспертный разбор силами аналитики контура Главного Штаба и Памяти Офиса).*\n\n---\n\n### Экспертный анализ: Китайский прорыв в Open-Source ИИ и его влия",
+      "updated_at": "2026-11-19T22:50:01.113466Z"
     }
   ],
   "global_plus_matrix": [
