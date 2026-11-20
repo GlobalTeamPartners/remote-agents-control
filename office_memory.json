@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-20T02:18:21+00:00",
-  "cycle_count": 92,
+  "updated_at": "2026-11-20T10:17:25+00:00",
+  "cycle_count": 93,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -117,15 +117,10 @@
     "https://github.com/Panniantong/Agent-Reach",
     "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3",
     "https://www.outsource.gov.uz/en",
-    "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRRiNE3Y5JjCINYpD5w"
+    "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRRiNE3Y5JjCINYpD5w",
+    "https://quasarlab.dev/"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-12T22:33:49+00:00",
-      "topic": "Задача #45: CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team",
-      "insight": "🤖 **24/7 Облачный Агент (Облачный Совет Агентов 24/7) выполнил разбор в облаке**\n\n**Задача:** CMD: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team\n\n**Итоговые шаги выполнения:**\n1. Зафиксирован контекст задачи и сохранён в облачной памяти офиса (`office_memory.json`).\n2. Подготовлен план дальнейшего действия — напишите уточнение или команду (`/ceo`, `/strategy`, `/viral`, `/expert`) в ответ, и облачный агент продолжит автоматически даж",
-      "source": "issue #45"
-    },
     {
       "at": "2026-11-13T02:54:55+00:00",
       "topic": "Задача #44: CMD: TIM: https://www.optimizely.com/campaigns/who-is-mark-eting?utm_source=google&utm_medium=cpc&utm_campaign=global_all_demgen",
@@ -612,6 +607,12 @@
       "topic": "Детально посмотри что делает этот сайт и что сделанно, какие разработки использует и в чём преимущества",
       "insight": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations.",
       "source": "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRR"
+    },
+    {
+      "at": "2026-11-20T10:17:30+00:00",
+      "topic": "https://quasarlab.dev/",
+      "insight": "Изучено (Проект: Главный Штаб): «Quasar Lab — Creative Development Studio | Web, Apps & AI». Ключевое: Quasar Lab is a creative development studio: custom websites, cross-platform apps, automation & AI systems, and sonic branding — engineered from concept to production.",
+      "source": "https://quasarlab.dev/"
     }
   ],
   "projects": {
@@ -767,13 +768,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-12T17:09:14+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 50,
-      "url": null,
-      "summary": "#50 (Облачный Совет Агентов 24/7): CMD: TIM: Выяви главный триггер женщин 30-50 лет по одной из перечисленных ранее тем, проанализируй для этого все запросы на всех онлайн-площадках и с | PROJ: Входящие_Офис"
-    },
     {
       "at": "2026-11-12T17:09:15+00:00",
       "kind": "cloud_task_executed",
@@ -1326,6 +1320,13 @@
       "issue": null,
       "url": "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRRiNE3Y5JjCINYpD5w",
       "summary": "Изучен материал (structured-cloud-analyzer): Детально посмотри что делает этот сайт и что сделанно, какие разработки использует и в чём преимущества"
+    },
+    {
+      "at": "2026-11-20T10:17:30+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://quasarlab.dev/",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://quasarlab.dev/"
     }
   ],
   "failed_urls": {
