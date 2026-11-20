@@ -112,5 +112,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations."
     }
+  },
+  {
+    "at": "2026-11-20T02:18:36+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 92,
+    "tasks": [],
+    "study": {
+      "title": "Детально посмотри что делает этот сайт и что сделанно, какие разработки использует и в чём преимущества",
+      "url": "https://www.outsource.gov.uz/en?fbclid=IwVERDUAVp6epleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHwLWH0ulQFCPNCt2zHCOLCWgPTn7JRn43tiOq7bgbCEZbiVFupzLXXGMmUGK_aem_4preRRiNE3Y5JjCINYpD5w",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations."
+    }
   }
 ]
