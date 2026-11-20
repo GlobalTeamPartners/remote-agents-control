@@ -129,5 +129,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «IT Outsourcing & BPO Portal | Outsource to Uzbekistan». Ключевое: Official national portal for IT & BPO outsourcing in Uzbekistan. Connect with IT Park residents, access 0% corporate tax, and scale tech operations."
     }
+  },
+  {
+    "at": "2026-11-20T10:17:35+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 93,
+    "tasks": [],
+    "study": {
+      "title": "https://quasarlab.dev/",
+      "url": "https://quasarlab.dev/",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «Quasar Lab — Creative Development Studio | Web, Apps & AI». Ключевое: Quasar Lab is a creative development studio: custom websites, cross-platform apps, automation & AI systems, and sonic branding — engineered from concept to production."
+    }
   }
 ]
