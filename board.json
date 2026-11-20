@@ -17676,27 +17676,27 @@
     "83": {
       "id": 83,
       "gh_issue": 83,
-      "created": "2026-11-18 04:09:08",
+      "created": "2026-11-20 18:42:32",
+      "updated": "2026-11-20 18:42:32",
       "handoffs": [
         {
-          "t": "2026-11-18 04:09:08",
-          "from": "tg_director",
+          "t": "2026-11-20 18:42:32",
+          "from": "cloud_agent_24_7",
           "to": "gatekeeper",
-          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+          "note": "Выполнено Облаком 24/7"
         }
       ],
-      "title": "https://quasarlab.dev/",
+      "title": "CMD: TIM: [Тим] https://quasarlab.dev/ | PROJ: Главный Штаб",
+      "project": "Главный Штаб",
+      "kind": "command",
       "urls": [
         "https://quasarlab.dev/"
       ],
-      "project": "Главный Штаб",
-      "kind": "link",
-      "status": "done",
       "owner": "gatekeeper",
-      "updated": "2026-11-18 04:09:08",
+      "status": "done",
       "next": {
         "who": "done",
-        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
     },
     "gh-84": {
@@ -17752,39 +17752,28 @@
     "86": {
       "id": 86,
       "gh_issue": 86,
-      "created": "2026-11-19 05:33:01",
-      "updated": "2026-11-19 05:33:01",
+      "created": "2026-11-20 18:42:32",
+      "updated": "2026-11-20 18:42:32",
       "handoffs": [
         {
-          "t": "2026-11-19 05:33:01",
-          "from": "tg_director",
-          "to": "owner",
-          "note": "Изучен clodix.ai ($18-$39/мес), собран бесплатный прототип seo_content_autopilot_engine.py (Score 100/100)"
+          "t": "2026-11-20 18:42:32",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
         }
       ],
-      "title": "clodix.ai — Свой бесплатный SEO/GEO-автопилот + White-Label SaaS ($29-$99/мес) на продажу",
-      "project": "12 IT Продуктов (Короче Капитан)",
-      "kind": "link",
+      "title": "CMD: CMD: TIM: [Тим] https://clodix.ai — Разбор + собственный бесплатный SEO-автопилот и SaaS на продажу | PROJ: 12 IT Продуктов (Короче Капитан)",
+      "project": "Главный Штаб",
+      "kind": "command",
       "urls": [
-        "https://www.clodix.ai/",
-        "https://www.clodix.ai/pricing"
+        "https://clodix.ai"
       ],
-      "evidence": "Note_Bot_Clodix_AI_Free_Clone_And_SaaS_Blueprint.md | seo_content_autopilot_engine.py (Content Score 100/100)",
-      "owner": "director_tim",
-      "status": "in_progress",
+      "owner": "gatekeeper",
+      "status": "done",
       "next": {
-        "who": "owner",
-        "what": "Подключить демо-генератор 1 статьи в Telegram-бот/веб-витрину и оплату Stripe/ЮKassa ($29/мес SaaS или $350-$750 DFY)"
-      },
-      "refers_to": [],
-      "skills_applied": [
-        "seo-audit",
-        "seo-content",
-        "seo-geo",
-        "pricing",
-        "launch"
-      ],
-      "ai_solution": "# Разбор `clodix.ai` — Создание бесплатного SEO-автопилота для себя и SaaS на продажу\n\n- **Источник:** `https://www.clodix.ai/` и `https://www.clodix.ai/pricing` (изучено 19.11.2026)\n- **Проект:** `12 IT Продуктов (Короче Капитан)` / `Главный Штаб`\n- **Готовый рабочий прототип:** `C:\\Users\\Vlaslav\\Downloads\\12 IT Продуктов (Короче Капитан)\\seo_content_autopilot_engine.py`\n\n---\n\n## 1. Что именно делает Clodix.ai и как они зарабатывают\n\n**Clodix.ai** — это AI-автопилот SEO- и GEO-контента (*«SEO grind, handled for you»*), который обещает заменить SEO-агентство за `$5,000/мес`:\n1. **Онбординг по URL (2 минуты):** клиент вводит ссылку на свой сайт → система сама изучает бренд, тон голоса (`Tone "
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
     },
     "87": {
       "id": 87,
