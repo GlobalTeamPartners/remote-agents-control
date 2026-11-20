@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-20T12:38:01+00:00",
+  "updated_at": "2026-11-20T12:37:38.594592Z",
   "cycle_count": 95,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -613,6 +613,13 @@
       "topic": "https://quasarlab.dev/",
       "insight": "Изучено (Проект: Главный Штаб): «Quasar Lab — Creative Development Studio | Web, Apps & AI». Ключевое: Quasar Lab is a creative development studio: custom websites, cross-platform apps, automation & AI systems, and sonic branding — engineered from concept to production.",
       "source": "https://quasarlab.dev/"
+    },
+    {
+      "id": "fact-dir-v343-iss90",
+      "ts": "2026-11-20T12:37:36.963720Z",
+      "project": "Traffic",
+      "issue": 90,
+      "summary": "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==: ### Analysis of the Provided Instagram Link\n\nBased on the extracted link data, the URL points to an Instagram post by **Марк Светозаров | Нейросети | ИИ контент-завод** (`ythemark`), published in mid-November. Due to Instagram’s strict scraping protections, the deep post body tex"
     }
   ],
   "projects": {
