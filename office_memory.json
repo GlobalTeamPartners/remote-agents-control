@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T02:02:44+00:00",
+  "updated_at": "2026-11-21T02:02:19.618413Z",
   "cycle_count": 101,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -626,6 +626,13 @@
       "topic": "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
       "insight": "Изучено (Проект: Traffic): «Instagram». Ключевое: ythemark on November 17, 2026",
       "source": "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw=="
+    },
+    {
+      "id": "fact-dir-v343-iss92",
+      "ts": "2026-11-21T02:02:18.258568Z",
+      "project": "Traffic",
+      "issue": 92,
+      "summary": "https://youtube.com/shorts/PXpujJZ_MWA?is=m1mnsNT_toXtsrHd: ### Analysis of the YouTube Short (`PXpujJZ_MWA`)\n\nBased on the extracted URL metadata:\n* **Final URL:** `https://youtube.com/shorts/PXpujJZ_MWA?is=m1mnsNT_toXtsrHd`\n* **Title:** *China launches advanced open-source AI beating Anthropic and #OpenAI #opensourceAI #AIinnovation*\n* "
     }
   ],
   "projects": {
