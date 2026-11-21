@@ -17778,27 +17778,39 @@
     "87": {
       "id": 87,
       "gh_issue": 87,
-      "created": "2026-11-21 00:17:55",
-      "updated": "2026-11-21 00:17:55",
+      "created": "2026-11-19 15:49:52",
       "handoffs": [
         {
-          "t": "2026-11-21 00:17:55",
-          "from": "cloud_agent_24_7",
+          "t": "2026-11-19 15:49:52",
+          "from": "tg_director",
           "to": "gatekeeper",
-          "note": "Выполнено Облаком 24/7"
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+        },
+        {
+          "t": "2026-11-19 15:50:12",
+          "from": "tg_director",
+          "to": "gatekeeper",
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+        },
+        {
+          "t": "2026-11-21 13:28:58",
+          "from": "tg_director",
+          "to": "gatekeeper",
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
         }
       ],
-      "title": "CMD: TIM: [Тим] https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm | PROJ: Главный Штаб",
-      "project": "Главный Штаб",
-      "kind": "command",
+      "title": "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
       "urls": [
         "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm"
       ],
-      "owner": "gatekeeper",
+      "project": "Главный Штаб",
+      "kind": "link",
       "status": "done",
+      "owner": "gatekeeper",
+      "updated": "2026-11-21 13:28:58",
       "next": {
         "who": "done",
-        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
       }
     },
     "88": {
