@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:03:01.819102Z",
+  "updated_at": "2026-11-21T07:32:57+00:00",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1352,6 +1352,15 @@
       "source_url": "",
       "summary": "### Analysis & Integration Plan: Connecting the Method to the Traffic Circuit\n\n*Note on link & tools:* The direct scraping payload for this interaction did not return raw contents for `https://youtube.com/shorts/PXpujJZ_MWA` within this specific prompt frame (building on our previous analysis of this short regarding high-retention structural hooks/AI deployment). As for NotebookLM CLI: **please run `nlm login` once on your PC** to enable full automated workspace sync. Below is the structural blueprint from my traffic and media-buying expertise to integrate this specific method into our active ",
       "updated_at": "2026-11-21T02:03:00.576040Z"
+    },
+    {
+      "id": "kb-bot-94",
+      "issue": 94,
+      "category": "Проект: Главный Штаб (Облако 24/7)",
+      "title": "CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис",
+      "source_url": "",
+      "summary": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbo",
+      "updated_at": "2026-11-21T07:32:57+00:00"
     }
   ],
   "global_plus_matrix": [
