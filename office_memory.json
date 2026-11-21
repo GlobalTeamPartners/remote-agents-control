@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T17:38:59+00:00",
-  "cycle_count": 107,
+  "updated_at": "2026-11-21T17:39:07+00:00",
+  "cycle_count": 108,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -53,7 +53,7 @@
     "issue:87:auto:7049046612",
     "issue:86:auto:7048924048",
     "issue:94:comment:open",
-    "issue:96:comment:7066637534"
+    "issue:94:comment:7066640409"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -131,9 +131,14 @@
     "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
     "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
     "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
-    "https://univerus.ai"
+    "https://openai.com"
   ],
   "learned_facts": [
+    {
+      "at": "2026-11-14T00:09:56+00:00",
+      "topic": "v34.0 Alberta Funnel Pivot (#47-#50)",
+      "insight": "Вектор клуба для @aliashirani переключён на тотальную трансформацию и перезагрузку женщин 30-50 лет (триггер выгорания/отложенной жизни -> 90-сек AI-диагностика + 7-дневный челлендж 990-1490 ₽ -> клуб 1500-3500 ₽/мес на цель 1 000 000 ₽)."
+    },
     {
       "at": "2026-11-14T00:12:20+00:00",
       "topic": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис",
@@ -619,9 +624,9 @@
       "summary": "Study and let's connect this method: ### Analysis & Integration Plan: Connecting the Method to the Traffic Circuit\n\n*Note on link & tools:* The direct scraping payload for this interaction did not return raw contents for `https://youtube.com/shorts/PXpujJZ_MWA` within this specific prompt frame (building on our prev"
     },
     {
-      "at": "2026-11-21T07:32:58+00:00",
+      "at": "2026-11-21T17:39:09+00:00",
       "topic": "Задача #94: CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Вхо",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключ",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **OpenAI | Research & Deployment** (`https://openai.com`)\n  > We believe our research will eventually lead to artificial general intelligence, a ",
       "source": "issue #94"
     },
     {
@@ -629,12 +634,6 @@
       "topic": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
       "insight": "Изучено (Проект: Traffic): «Instagram». Ключевое: 21K likes, 649 comments - massive.manas.exe on September 15, 2026: \"I built a city for 50 AI agents. Then I let them run it. Welcome to AUTOPOLIS — AI City | AI Cyber City Inside MAIN TOWER every agent has a job. Inside THE INSTITUTE they study and graduate — CINDER, QUILL, CARILLON got hired same day. This is an AI Ag",
       "source": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
-    },
-    {
-      "at": "2026-11-21T17:39:03+00:00",
-      "topic": "Задача #96: CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep resea",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep research | PROJ: Traffic\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Универус** (`https://univerus.ai`)\n  > Осваивайте востребованные навыки с помощью ИИ-наставника, проходите курсы и стройте карьеру в I",
-      "source": "issue #96"
     }
   ],
   "projects": {
@@ -1344,11 +1343,11 @@
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
     },
     {
-      "at": "2026-11-21T17:39:03+00:00",
+      "at": "2026-11-21T17:39:09+00:00",
       "kind": "cloud_task_executed",
-      "issue": 96,
+      "issue": 94,
       "url": null,
-      "summary": "#96 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep research | PROJ: Traffic"
+      "summary": "#94 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
@@ -1387,10 +1386,15 @@
       "last_error": "blocked_non_public_host",
       "last_try": "2026-11-21T00:17:51+00:00"
     },
-    "https://univerus.ai/lp/dohodnye-sajty/start`": {
+    "https://claude.ai": {
+      "retries": 1,
+      "last_error": "HTTP Error 403: Forbidden",
+      "last_try": "2026-11-21T17:39:08+00:00"
+    },
+    "https://googleapis.com": {
       "retries": 1,
       "last_error": "HTTP Error 404: Not Found",
-      "last_try": "2026-11-21T17:39:02+00:00"
+      "last_try": "2026-11-21T17:39:08+00:00"
     }
   }
 }
