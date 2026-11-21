@@ -18018,6 +18018,32 @@
         "who": "done",
         "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
+    },
+    "95": {
+      "id": 95,
+      "gh_issue": 95,
+      "created": "2026-11-21 23:40:06",
+      "updated": "2026-11-21 23:40:06",
+      "handoffs": [
+        {
+          "t": "2026-11-21 23:40:06",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] https://univerus.ai/ | PROJ: Traffic",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [
+        "https://univerus.ai/"
+      ],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
     }
   }
 }
