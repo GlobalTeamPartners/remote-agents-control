@@ -186,5 +186,45 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Clodix — SEO grind, handled for you». Ключевое: Clodix writes, optimizes, and posts SEO content proven to rank on Google. Connect your site once and grow your search traffic on autopilot — no SEO skills needed."
     }
+  },
+  {
+    "at": "2026-11-21T00:18:02+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 100,
+    "tasks": [
+      {
+        "issue": 87,
+        "title": "CMD: TIM: [Тим] https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **China launches advanced open-source "
+      },
+      {
+        "issue": 86,
+        "title": "CMD: CMD: TIM: [Тим] https://clodix.ai — Разбор + собственный бесплатный SEO-автопилот и SaaS на продажу | PROJ: 12 IT Продуктов (Короче Капитан)",
+        "project": "12 IT Продуктов (Короче Капитан)",
+        "actor_login": "",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "argon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: CMD: TIM: [Тим] https://clodix.ai — Разбор + собственный бесплатный SEO-автопилот и SaaS на продажу | PROJ: 12 IT Продуктов (Короче Капитан)\n\n**Изученные источники и извлечённые ф"
+      }
+    ],
+    "study": {
+      "title": "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
+      "url": "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Traffic): «Instagram». Ключевое: ythemark on November 17, 2026"
+    }
   }
 ]
