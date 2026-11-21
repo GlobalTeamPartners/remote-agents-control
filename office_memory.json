@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T17:39:07+00:00",
-  "cycle_count": 108,
+  "updated_at": "2026-11-21T17:38:59+00:00",
+  "cycle_count": 107,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -52,7 +52,8 @@
     "issue:86:auto:7039155161",
     "issue:87:auto:7049046612",
     "issue:86:auto:7048924048",
-    "issue:94:comment:open"
+    "issue:94:comment:open",
+    "issue:96:comment:7066637534"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -129,14 +130,10 @@
     "https://www.clodix.ai/",
     "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
     "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
-    "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
+    "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
+    "https://univerus.ai"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T00:09:56+00:00",
-      "topic": "v34.0 Alberta Funnel Pivot (#47-#50)",
-      "insight": "Вектор клуба для @aliashirani переключён на тотальную трансформацию и перезагрузку женщин 30-50 лет (триггер выгорания/отложенной жизни -> 90-сек AI-диагностика + 7-дневный челлендж 990-1490 ₽ -> клуб 1500-3500 ₽/мес на цель 1 000 000 ₽)."
-    },
     {
       "at": "2026-11-14T00:12:20+00:00",
       "topic": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис",
@@ -632,6 +629,12 @@
       "topic": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
       "insight": "Изучено (Проект: Traffic): «Instagram». Ключевое: 21K likes, 649 comments - massive.manas.exe on September 15, 2026: \"I built a city for 50 AI agents. Then I let them run it. Welcome to AUTOPOLIS — AI City | AI Cyber City Inside MAIN TOWER every agent has a job. Inside THE INSTITUTE they study and graduate — CINDER, QUILL, CARILLON got hired same day. This is an AI Ag",
       "source": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
+    },
+    {
+      "at": "2026-11-21T17:39:03+00:00",
+      "topic": "Задача #96: CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep resea",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep research | PROJ: Traffic\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Универус** (`https://univerus.ai`)\n  > Осваивайте востребованные навыки с помощью ИИ-наставника, проходите курсы и стройте карьеру в I",
+      "source": "issue #96"
     }
   ],
   "projects": {
@@ -787,13 +790,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-13T20:52:06+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 55,
-      "url": null,
-      "summary": "#55 (Облачный Совет Агентов 24/7): CMD: TIM: https://pivex.com/h?prc_id=1204&utm_source=google&utm_medium=cpc&utm_campaign=24417053234&utm_adgroupid=201559059573&utm_ad=830190979841&utm | PROJ: Входящие_Офис"
-    },
     {
       "at": "2026-11-13T20:53:08+00:00",
       "kind": "cloud_task_executed",
@@ -1346,6 +1342,13 @@
       "issue": null,
       "url": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
+    },
+    {
+      "at": "2026-11-21T17:39:03+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 96,
+      "url": null,
+      "summary": "#96 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Study this project where are they making money from and how to make the same profitable project! Make Deep research | PROJ: Traffic"
     }
   ],
   "failed_urls": {
@@ -1383,6 +1386,11 @@
       "retries": 1,
       "last_error": "blocked_non_public_host",
       "last_try": "2026-11-21T00:17:51+00:00"
+    },
+    "https://univerus.ai/lp/dohodnye-sajty/start`": {
+      "retries": 1,
+      "last_error": "HTTP Error 404: Not Found",
+      "last_try": "2026-11-21T17:39:02+00:00"
     }
   }
 }
