@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T20:28:53.594737Z",
-  "cycle_count": 108,
+  "updated_at": "2026-11-21T21:10:12+00:00",
+  "cycle_count": 109,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -53,7 +53,9 @@
     "issue:87:auto:7049046612",
     "issue:86:auto:7048924048",
     "issue:94:comment:open",
-    "issue:94:comment:7066640409"
+    "issue:94:comment:7066640409",
+    "issue:93:auto:7066639503",
+    "issue:91:auto:7066638858"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -131,26 +133,10 @@
     "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
     "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
     "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
-    "https://openai.com"
+    "https://openai.com",
+    "https://univerus.ai/"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T00:09:56+00:00",
-      "topic": "v34.0 Alberta Funnel Pivot (#47-#50)",
-      "insight": "Вектор клуба для @aliashirani переключён на тотальную трансформацию и перезагрузку женщин 30-50 лет (триггер выгорания/отложенной жизни -> 90-сек AI-диагностика + 7-дневный челлендж 990-1490 ₽ -> клуб 1500-3500 ₽/мес на цель 1 000 000 ₽)."
-    },
-    {
-      "at": "2026-11-14T00:12:20+00:00",
-      "topic": "/ceo Оцени экономический эффект и риски: https://www.altahq.com/lp/ai-calling-agent создать сис",
-      "insight": "Изучено (Проект: Unity Inc): «AI Sales Calling Agent | Alex by Alta». Ключевое: Meet Alex, Alta’s AI Sales Agent. Automate calls, book meetings, and engage prospects with precision using advanced AI tools. Try Alex today.",
-      "source": "https://www.altahq.com/lp/ai-calling-agent"
-    },
-    {
-      "at": "2026-11-14T02:10:48+00:00",
-      "topic": "Задача #59: CMD: https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service | PR",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7 learn how to make your own ai system implement this service | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Свой ИИ для компании: 8 слоёв внутри - YouTube** (`https://youtube.com/shorts/uz-zrN-3b2A?is=-P6mTLH9trYsCyt7`)\n  > Как сделать свой ИИ ",
-      "source": "issue #59"
-    },
     {
       "at": "2026-11-14T03:07:53+00:00",
       "topic": "v34.1 #59: Свой ИИ для компании (8 слоёв) — внедрено в ядро Офиса",
@@ -634,6 +620,24 @@
       "topic": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
       "insight": "Изучено (Проект: Traffic): «Instagram». Ключевое: 21K likes, 649 comments - massive.manas.exe on September 15, 2026: \"I built a city for 50 AI agents. Then I let them run it. Welcome to AUTOPOLIS — AI City | AI Cyber City Inside MAIN TOWER every agent has a job. Inside THE INSTITUTE they study and graduate — CINDER, QUILL, CARILLON got hired same day. This is an AI Ag",
       "source": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
+    },
+    {
+      "at": "2026-11-21T21:10:14+00:00",
+      "topic": "Задача #93: CMD: TIM: [Тим] Study and let's connect this method | PROJ: Traffic",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Study and let's connect this method | PROJ: Traffic\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COMSS AI 2.0 / 12 Mini ",
+      "source": "issue #93"
+    },
+    {
+      "at": "2026-11-21T21:10:15+00:00",
+      "topic": "Задача #91: CMD: TIM: [Тим] https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw== | PROJ: Traffic",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw== | PROJ: Traffic\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==`)\n  > 21K likes, 649 comments - massive.manas.exe on September 15, 2026: \"I built a city for 50 ",
+      "source": "issue #91"
+    },
+    {
+      "at": "2026-11-21T21:10:17+00:00",
+      "topic": "https://univerus.ai/",
+      "insight": "Изучено (Проект: Traffic): «Универус». Ключевое: Осваивайте востребованные навыки с помощью ИИ-наставника, проходите курсы и стройте карьеру в IT",
+      "source": "https://univerus.ai/"
     }
   ],
   "projects": {
@@ -789,27 +793,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-13T20:53:08+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 56,
-      "url": null,
-      "summary": "#56 (Облачный Совет Агентов 24/7): CMD: TIM: https://www.comss.ru/page.php?id=22854 изучи как это применить для нашей офисной системы для улучшения | PROJ: Входящие_Офис"
-    },
-    {
-      "at": "2026-11-13T21:23:20+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 57,
-      "url": null,
-      "summary": "#57 (Облачный Совет Агентов 24/7): CMD: https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0 learn from this post and tell me what you learned and continue | PROJ: Входящие_Офис"
-    },
-    {
-      "at": "2026-11-13T21:23:45+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 58,
-      "url": null,
-      "summary": "#58 (Облачный Совет Агентов 24/7): CMD: TIM: NOTEBOOKLM_RAG: Проведи глубинный анализ без галлюцинаций по источнику/теме: https://www.instagram.com/reel/DfcReHwgDIu/?psln=cnhwdWRnMDFsOHJ0 | PROJ: Traffic"
-    },
     {
       "at": "2026-11-13T22:43:30+00:00",
       "kind": "cloud_task_executed",
@@ -1348,6 +1331,27 @@
       "issue": 94,
       "url": null,
       "summary": "#94 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-21T21:10:14+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 93,
+      "url": null,
+      "summary": "#93 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Study and let's connect this method | PROJ: Traffic"
+    },
+    {
+      "at": "2026-11-21T21:10:15+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 91,
+      "url": null,
+      "summary": "#91 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw== | PROJ: Traffic"
+    },
+    {
+      "at": "2026-11-21T21:10:17+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://univerus.ai/",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://univerus.ai/"
     }
   ],
   "failed_urls": {
