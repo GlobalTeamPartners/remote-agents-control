@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T21:10:12+00:00",
-  "cycle_count": 109,
+  "updated_at": "2026-11-21T23:40:03+00:00",
+  "cycle_count": 110,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -55,7 +55,8 @@
     "issue:94:comment:open",
     "issue:94:comment:7066640409",
     "issue:93:auto:7066639503",
-    "issue:91:auto:7066638858"
+    "issue:91:auto:7066638858",
+    "issue:95:comment:7071022765"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -137,12 +138,6 @@
     "https://univerus.ai/"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T03:07:53+00:00",
-      "topic": "v34.1 #59: Свой ИИ для компании (8 слоёв) — внедрено в ядро Офиса",
-      "insight": "Реализованы все 8 слоёв архитектуры из #59: Gemini4/GitHubModels роутер, дедуплицированная RAG-память (177->63), YouTube oEmbed, RBAC + Bot Gate, <untrusted_web_data> фильтр инъекций и редактирование секретов, scoping concurrency в cloud_agents_24_7.yml против отмены очередей, анти-дрейф фильтр промо-ссылок и единичный lock tg_bot_poller.py.",
-      "source": "issue #59 + v34.1 audit"
-    },
     {
       "at": "2026-11-14T03:07:53+00:00",
       "topic": "Аудит Авто- и Транспортных перспектив (Detailing, VT VIP, Егор Трансфер, Пора за Руль)",
@@ -638,6 +633,12 @@
       "topic": "https://univerus.ai/",
       "insight": "Изучено (Проект: Traffic): «Универус». Ключевое: Осваивайте востребованные навыки с помощью ИИ-наставника, проходите курсы и стройте карьеру в IT",
       "source": "https://univerus.ai/"
+    },
+    {
+      "at": "2026-11-21T23:40:06+00:00",
+      "topic": "Задача #95: CMD: TIM: [Тим] https://univerus.ai/ | PROJ: Traffic",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://univerus.ai/ | PROJ: Traffic\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Универус** (`https://univerus.ai/`)\n  > Осваивайте востребованные навыки с помощью ИИ-наставника, проходите курсы и стройте карьеру в IT\n  *Контекст страницы:* Универус Возможности Нейросети Как это работает Учитесь с нейросетями",
+      "source": "issue #95"
     }
   ],
   "projects": {
@@ -793,13 +794,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-13T22:43:30+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 51,
-      "url": null,
-      "summary": "#51 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: /ceo Оцени экономический эффект и риски: QA Проверка поля ввода и 24/7 агентов | PROJ: Alberta"
-    },
     {
       "at": "2026-11-13T22:44:07+00:00",
       "kind": "cloud_task_executed",
@@ -1352,6 +1346,13 @@
       "issue": null,
       "url": "https://univerus.ai/",
       "summary": "Изучен материал (structured-cloud-analyzer): https://univerus.ai/"
+    },
+    {
+      "at": "2026-11-21T23:40:06+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 95,
+      "url": null,
+      "summary": "#95 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://univerus.ai/ | PROJ: Traffic"
     }
   ],
   "failed_urls": {
