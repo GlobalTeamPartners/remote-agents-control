@@ -17898,27 +17898,27 @@
     "91": {
       "id": 91,
       "gh_issue": 91,
-      "created": "2026-11-20 13:02:41",
+      "created": "2026-11-21 21:10:17",
+      "updated": "2026-11-21 21:10:17",
       "handoffs": [
         {
-          "t": "2026-11-20 13:02:41",
-          "from": "tg_director",
+          "t": "2026-11-21 21:10:17",
+          "from": "cloud_agent_24_7",
           "to": "gatekeeper",
-          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+          "note": "Выполнено Облаком 24/7"
         }
       ],
-      "title": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
+      "title": "CMD: TIM: [Тим] https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw== | PROJ: Traffic",
+      "project": "Главный Штаб",
+      "kind": "command",
       "urls": [
         "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
       ],
-      "project": "Traffic",
-      "kind": "link",
-      "status": "done",
       "owner": "gatekeeper",
-      "updated": "2026-11-20 13:02:41",
+      "status": "done",
       "next": {
         "who": "done",
-        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
     },
     "92": {
@@ -17950,25 +17950,25 @@
     "93": {
       "id": 93,
       "gh_issue": 93,
-      "created": "2026-11-20 19:02:43",
+      "created": "2026-11-21 21:10:17",
+      "updated": "2026-11-21 21:10:17",
       "handoffs": [
         {
-          "t": "2026-11-20 19:02:43",
-          "from": "tg_director",
+          "t": "2026-11-21 21:10:17",
+          "from": "cloud_agent_24_7",
           "to": "gatekeeper",
-          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+          "note": "Выполнено Облаком 24/7"
         }
       ],
-      "title": "Study and let's connect this method",
-      "urls": [],
-      "project": "Traffic",
+      "title": "CMD: TIM: [Тим] Study and let's connect this method | PROJ: Traffic",
+      "project": "Главный Штаб",
       "kind": "command",
-      "status": "done",
+      "urls": [],
       "owner": "gatekeeper",
-      "updated": "2026-11-20 19:02:43",
+      "status": "done",
       "next": {
         "who": "done",
-        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
     },
     "94": {
