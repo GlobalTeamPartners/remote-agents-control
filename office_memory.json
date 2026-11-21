@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-21T07:32:45+00:00",
+  "updated_at": "2026-11-21T07:32:56+00:00",
   "cycle_count": 103,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -52,7 +52,7 @@
     "issue:86:auto:7039155161",
     "issue:87:auto:7049046612",
     "issue:86:auto:7048924048",
-    "issue:94:comment:cloud_tg_ingest"
+    "issue:94:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -128,10 +128,14 @@
     "https://clodix.ai",
     "https://www.clodix.ai/",
     "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
-    "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw==",
-    "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
+    "https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw=="
   ],
   "learned_facts": [
+    {
+      "at": "2026-11-14T00:09:56+00:00",
+      "topic": "v34.0 HQ Open Issues Consolidated (#43-#58 Audit)",
+      "insight": "#45 (Three.js 3D floorplan walkthroughs $5k-$10k: Fable/Seedance пресейл -> Blender+Python+Three.js baked lighting + Critic), #53 (Profitroom+AltaHQ $750-$1200 + $350-$550/mo против комиссий Booking 15-25%), #54 (REPT Battero EV/ESS + боль Luz y Fuerza), #55 (Pivex $50->$25k DemandGen), #56 (COMSS AI 2.0: trial + возврат подписки по ID платежа + gzip fix), #57-#58 (Kali NetHunter NFC аудит отелей и No-Wipe Hot Update)."
+    },
     {
       "at": "2026-11-14T00:09:56+00:00",
       "topic": "v34.0 Alberta Funnel Pivot (#47-#50)",
@@ -622,16 +626,10 @@
       "summary": "Study and let's connect this method: ### Analysis & Integration Plan: Connecting the Method to the Traffic Circuit\n\n*Note on link & tools:* The direct scraping payload for this interaction did not return raw contents for `https://youtube.com/shorts/PXpujJZ_MWA` within this specific prompt frame (building on our prev"
     },
     {
-      "at": "2026-11-21T07:32:49+00:00",
+      "at": "2026-11-21T07:32:58+00:00",
       "topic": "Задача #94: CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Вхо",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключ",
       "source": "issue #94"
-    },
-    {
-      "at": "2026-11-21T07:32:55+00:00",
-      "topic": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
-      "insight": "Изучено (Проект: Traffic): «Instagram». Ключевое: 21K likes, 649 comments - massive.manas.exe on September 15, 2026: \"I built a city for 50 AI agents. Then I let them run it. Welcome to AUTOPOLIS — AI City | AI Cyber City Inside MAIN TOWER every agent has a job. Inside THE INSTITUTE they study and graduate — CINDER, QUILL, CARILLON got hired same day. This is an AI Ag",
-      "source": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
     }
   ],
   "projects": {
@@ -787,6 +785,13 @@
     }
   },
   "recent_events": [
+    {
+      "at": "2026-11-13T10:28:35+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 32,
+      "url": null,
+      "summary": "#32 (Технический Эксперт): 📊 СВОДНЫЙ АУДИТ ДЕЙСТВИЙ ПОЛЬЗОВАТЕЛЕЙ И СИСТЕМЫ (ПОЛНЫЙ ДОСТУП @unityspiritpartners)"
+    },
     {
       "at": "2026-11-13T20:52:06+00:00",
       "kind": "cloud_task_executed",
@@ -1334,18 +1339,11 @@
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/p/Df2vZaXE7RH/?img_index=4&cnvx=MTR6NGk1MXc0NTllZw=="
     },
     {
-      "at": "2026-11-21T07:32:49+00:00",
+      "at": "2026-11-21T07:32:58+00:00",
       "kind": "cloud_task_executed",
       "issue": 94,
       "url": null,
       "summary": "#94 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Как сделать такой роутер самостоятельно для России ? Чтобы работали американские сервисы как этом те | PROJ: Входящие_Офис"
-    },
-    {
-      "at": "2026-11-21T07:32:55+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw==",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/reel/DdU3ZaFTFC7/?fqnt=MXM0YjdjNW5sMWNpcw=="
     }
   ],
   "failed_urls": {
