@@ -17752,11 +17752,11 @@
     "86": {
       "id": 86,
       "gh_issue": 86,
-      "created": "2026-11-20 18:42:32",
-      "updated": "2026-11-20 18:42:32",
+      "created": "2026-11-21 00:17:55",
+      "updated": "2026-11-21 00:17:55",
       "handoffs": [
         {
-          "t": "2026-11-20 18:42:32",
+          "t": "2026-11-21 00:17:55",
           "from": "cloud_agent_24_7",
           "to": "gatekeeper",
           "note": "Выполнено Облаком 24/7"
@@ -17778,33 +17778,27 @@
     "87": {
       "id": 87,
       "gh_issue": 87,
-      "created": "2026-11-19 15:49:52",
+      "created": "2026-11-21 00:17:55",
+      "updated": "2026-11-21 00:17:55",
       "handoffs": [
         {
-          "t": "2026-11-19 15:49:52",
-          "from": "tg_director",
+          "t": "2026-11-21 00:17:55",
+          "from": "cloud_agent_24_7",
           "to": "gatekeeper",
-          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
-        },
-        {
-          "t": "2026-11-19 15:50:12",
-          "from": "tg_director",
-          "to": "gatekeeper",
-          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+          "note": "Выполнено Облаком 24/7"
         }
       ],
-      "title": "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm",
+      "title": "CMD: TIM: [Тим] https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm | PROJ: Главный Штаб",
+      "project": "Главный Штаб",
+      "kind": "command",
       "urls": [
         "https://youtube.com/shorts/PXpujJZ_MWA?is=1S1py850MRT8Dlrm"
       ],
-      "project": "Главный Штаб",
-      "kind": "link",
-      "status": "done",
       "owner": "gatekeeper",
-      "updated": "2026-11-19 15:50:12",
+      "status": "done",
       "next": {
         "who": "done",
-        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
     },
     "88": {
