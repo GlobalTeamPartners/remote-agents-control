@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-22T21:30:08.382762Z",
-  "cycle_count": 117,
+  "updated_at": "2026-11-22T21:34:10+00:00",
+  "cycle_count": 118,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -63,7 +63,8 @@
     "issue:99:comment:cloud_tg_ingest",
     "issue:100:comment:cloud_tg_ingest",
     "issue:101:comment:cloud_tg_ingest",
-    "issue:98:comment:open"
+    "issue:98:comment:open",
+    "issue:100:comment:7086147368"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -153,12 +154,6 @@
     "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv=m&mt=&pl=youtube.com&utm_source=youtube_ads&utm_medium=cpc&utm_campaign=nimb&utm_content=189059065370|23616818868|799060508631&utm_term=2246&gad_source=2&gad_campaignid=23616818868"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T15:36:46.784869Z",
-      "title": "Задача #61: Shadow Pages (Alexander Lari) модель и воронка",
-      "summary": "Faceless theme pages на ИИ (реклама, affiliate, перелив в воронки, продажа страниц); ссылка go.shadowpages.io -> Calendly квалификация на high-ticket сопровождение.",
-      "source": "issue #61 (true1team)"
-    },
     {
       "at": "2026-11-14T15:37:50+00:00",
       "topic": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source",
@@ -638,7 +633,7 @@
       "source": "issue #99"
     },
     {
-      "at": "2026-11-22T16:34:01+00:00",
+      "at": "2026-11-22T21:34:13+00:00",
       "topic": "Задача #100: CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Вх",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Redirect Notice** (`https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE`)\n  > Redirect Notice ",
       "source": "issue #100"
@@ -816,13 +811,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T03:16:58+00:00",
-      "kind": "study_skip",
-      "issue": null,
-      "url": "https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713",
-      "summary": "URL недоступен: https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713"
-    },
     {
       "at": "2026-11-14T03:16:59+00:00",
       "kind": "cloud_study",
@@ -1375,6 +1363,13 @@
       "issue": 98,
       "url": null,
       "summary": "#98 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/p/Dfs5Rp5E-JX/?img_index=5&evlk=MXNwdmllNXJremVndg== | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-22T21:34:13+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 100,
+      "url": null,
+      "summary": "#100 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
