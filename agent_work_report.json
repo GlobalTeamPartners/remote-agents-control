@@ -601,5 +601,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-22T22:02:24+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 119,
+    "tasks": [],
+    "study": {
+      "title": "https://www.instagram.com/reel/DcbbTdxyhbs/?knvt=MWN6NjJ0eGY2ZGVnbg==",
+      "url": "https://www.instagram.com/reel/DcbbTdxyhbs/?knvt=MWN6NjJ0eGY2ZGVnbg==",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 5,636 likes, 5,409 comments - lynette.genfarmer on August 24, 2026: \"Managing hundreds of Android devices manually doesn't scale. BoxPhone combines real Android hardware with centralized control, allowing you to operate up to 200 devices from one PC while simplifyi"
+    }
   }
 ]
