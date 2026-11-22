@@ -18064,6 +18064,106 @@
         "who": "done",
         "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
+    },
+    "98": {
+      "id": 98,
+      "gh_issue": 98,
+      "created": "2026-11-22 16:34:03",
+      "updated": "2026-11-22 16:34:03",
+      "handoffs": [
+        {
+          "t": "2026-11-22 16:34:03",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] https://www.instagram.com/p/Dfs5Rp5E-JX/?img_index=5&evlk=MXNwdmllNXJremVndg== | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [
+        "https://www.instagram.com/p/Dfs5Rp5E-JX/?img_index=5&evlk=MXNwdmllNXJremVndg=="
+      ],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
+    },
+    "99": {
+      "id": 99,
+      "gh_issue": 99,
+      "created": "2026-11-22 16:34:03",
+      "updated": "2026-11-22 16:34:03",
+      "handoffs": [
+        {
+          "t": "2026-11-22 16:34:03",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] I want to sell service by providing training to build apps how can I build one for my needs and afte | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
+    },
+    "100": {
+      "id": 100,
+      "gh_issue": 100,
+      "created": "2026-11-22 16:34:03",
+      "updated": "2026-11-22 16:34:03",
+      "handoffs": [
+        {
+          "t": "2026-11-22 16:34:03",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [
+        "https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE"
+      ],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
+    },
+    "101": {
+      "id": 101,
+      "gh_issue": 101,
+      "created": "2026-11-22 16:34:03",
+      "updated": "2026-11-22 16:34:03",
+      "handoffs": [
+        {
+          "t": "2026-11-22 16:34:03",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] Сделай нам такой же сайт с такими сервисами для России после детального изучения как это работает? | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
     }
   }
 }
