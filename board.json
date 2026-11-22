@@ -18038,6 +18038,32 @@
         "who": "done",
         "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
+    },
+    "97": {
+      "id": 97,
+      "gh_issue": 97,
+      "created": "2026-11-22 08:28:15",
+      "updated": "2026-11-22 08:28:15",
+      "handoffs": [
+        {
+          "t": "2026-11-22 08:28:15",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [
+        "https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y"
+      ],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
     }
   }
 }
