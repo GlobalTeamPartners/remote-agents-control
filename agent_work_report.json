@@ -557,5 +557,27 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-22T16:34:35+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 113,
+    "tasks": [
+      {
+        "issue": 100,
+        "title": "CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Входящие_Офис",
+        "project": "Входящие_Офис",
+        "actor_login": "true1team",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.google.com/url?opi=89978449&q=https://www.comss.ru/page.php%3Fid%3D23006&sa=U&ved=2ahUKE | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**"
+      }
+    ],
+    "study": null
   }
 ]
