@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-22T21:30:32+00:00",
+  "updated_at": "2026-11-22T21:30:08.382762Z",
   "cycle_count": 117,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -654,6 +654,13 @@
       "topic": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid",
       "insight": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads». Ключевое: Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads Запускаю 12 IT-проектов за 12 месяцев. Идет второй год челленджа👇 Выручка одного из наших приложений за 4 месяца после запуска Всего запустил 20+ таких продуктов. Запуски разбираю в своем Telegram-канале 👇 Перейти и прочитать Внутри: все о том, к",
       "source": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv"
+    },
+    {
+      "id": "fact-dir-v343-iss104",
+      "ts": "2026-11-22T21:30:07.181167Z",
+      "project": "Главный Штаб",
+      "issue": 104,
+      "summary": "https://youtube.com/shorts/HuCODFehKRg?is=8HE1MoXLlXBZ2Wro: Здравия! Тим на связи. Главный Штаб, Задача #104.\n\n*Примечание по инструменту:* Профиль NotebookLM не авторизован (требуется 1 раз выполнить `nlm login` на ПК), поэтому разбор выполнен силами моей архитектуры и Памяти Офиса Global Spirit Group.\n\nИсходя из извлечённых данных по сс"
     }
   ],
   "projects": {
