@@ -8,13 +8,13 @@
   "transport": "fallback",
   "llm_ready": false,
   "local_daemon_online": false,
-  "last_cycle_iso": "2026-11-22T08:28:19+00:00",
+  "last_cycle_iso": "2026-11-22T08:28:25+00:00",
   "cycle_count": 112,
-  "event": "schedule",
+  "event": "issues",
   "tasks_executed_this_cycle": 1,
-  "studied_this_cycle": true,
+  "studied_this_cycle": false,
   "memory_facts_count": 80,
-  "studied_urls_count": 82,
+  "studied_urls_count": 81,
   "failed_urls_count": 10,
   "projects_synced_count": 25,
   "eval_stats": {
@@ -22,17 +22,15 @@
     "promo_urls_filtered": 0,
     "youtube_oembed_hits": 0,
     "rag_facts_injected": 6,
-    "llm_calls_attempted": 2,
+    "llm_calls_attempted": 1,
     "llm_live_ok": false,
     "last_llm_error": "openai/gpt-4o-mini [github_models]: Expecting value: line 1 column 1 (char 0)"
   },
   "bot_gate_mode": "request_only_by_@unityspiritpartners",
   "tg_offline_fallback": {
     "polled": true,
-    "updates": 1,
-    "handled": 1,
-    "created_issues": [
-      97
-    ]
+    "updates": 0,
+    "handled": 0,
+    "created_issues": []
   }
 }
