@@ -8,7 +8,7 @@
   "transport": "fallback",
   "llm_ready": false,
   "local_daemon_online": false,
-  "last_cycle_iso": "2026-11-22T16:34:17+00:00",
+  "last_cycle_iso": "2026-11-22T16:34:20+00:00",
   "cycle_count": 113,
   "event": "issues",
   "tasks_executed_this_cycle": 1,
@@ -30,7 +30,7 @@
   "tg_offline_fallback": {
     "polled": true,
     "updates": 0,
-    "reason": "tg_empty_or_busy",
+    "handled": 0,
     "created_issues": []
   }
 }
