@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-22T01:17:16+00:00",
-  "cycle_count": 111,
+  "updated_at": "2026-11-22T08:28:02+00:00",
+  "cycle_count": 112,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -57,7 +57,8 @@
     "issue:93:auto:7066639503",
     "issue:91:auto:7066638858",
     "issue:95:comment:7071022765",
-    "issue:89:auto:7066638122"
+    "issue:89:auto:7066638122",
+    "issue:97:comment:cloud_tg_ingest"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -139,21 +140,11 @@
     "https://univerus.ai/",
     "https://Nereo.io",
     "https://nereo.io",
-    "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174909"
+    "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174909",
+    "https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y",
+    "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv=m&mt=&pl=youtube.com&utm_source=youtube_ads&utm_medium=cpc&utm_campaign=nimb&utm_content=189059065370|23616818868|799060508631&utm_term=2246&gad_source=2&gad_campaignid=23616818868"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T03:16:59+00:00",
-      "topic": "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_cam",
-      "insight": "Изучено (Проект: Позновалка): «Greece Golden Visa 2026: €250K–€800K Thresholds, Costs & Requirements | Astons». Ключевое: Greece Golden Visa 2026 from €250,000 — Greek residency by investment. Schengen travel, family permits, high-yield properties, verified projects & full-cycle support from Astons’ experts.",
-      "source": "https://www.astons.com/residency-by-investment/greece/?utm_source=google&utm_medium=cpc&utm_campaign=rez_greece_dgen_eu_en_24092026&utm_content=dgen_greece_en&utm_term=24284806448|"
-    },
-    {
-      "at": "2026-11-14T03:28:52+00:00",
-      "topic": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586",
-      "insight": "Изучено (Проект: Позновалка): «https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=243582586». Ключевое: AI-агенты: новый рабочий инструмент для бизнеса — бесплатный вебинар Б Богатушин сегодня · 19:00 GMT+3 · онлайн Бесплатный онлайн-вебинар · сегодня · 19:00 GMT+3 AI-агенты: новый рабочий инструмент для бизнеса Простым языком разберём, какие AI-агенты уже нужны маркетингу и бизнесу, какие задачи им можно передать и как ",
-      "source": "https://bogatushin.com/web_v11/gaigents?utm_source=google&utm_medium=cpc&utm_campaign=24358258691&utm_content=196423618770_828100227048_m_2246&gad_source=2&gad_campaignid=243582586"
-    },
     {
       "at": "2026-11-14T10:50:23+00:00",
       "topic": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut",
@@ -643,6 +634,18 @@
       "topic": "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&",
       "insight": "Изучено (Проект: Traffic): «[Бесплатный Тренинг] Для Коучей, Экспертов и Наставников». Ключевое: Как Новая Воронка «ShortПрогрева™» Приносит 10-15 Платёжеспособных Клиентов с Чеком от $1,000 за 10 дней БЕЗ Риска, Опыта ИЛИ Усилий. Всё уже протестировано и готово, просто внедрите и получайте клиентов. Если вы не получаете клиентов, тогда мы работаем БЕСПЛАТНО.",
       "source": "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174"
+    },
+    {
+      "at": "2026-11-22T08:28:08+00:00",
+      "topic": "Задача #97: CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y`)\n  > 16K likes, 9,025 comments - b.orodina on July 19, 2026: \"🎁 Пиши «КАРЬЕРА» в комментариях, и ",
+      "source": "issue #97"
+    },
+    {
+      "at": "2026-11-22T08:28:14+00:00",
+      "topic": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid",
+      "insight": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads». Ключевое: Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads Запускаю 12 IT-проектов за 12 месяцев. Идет второй год челленджа👇 Выручка одного из наших приложений за 4 месяца после запуска Всего запустил 20+ таких продуктов. Запуски разбираю в своем Telegram-канале 👇 Перейти и прочитать Внутри: все о том, к",
+      "source": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv"
     }
   ],
   "projects": {
@@ -798,20 +801,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-13T22:46:12+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FRIO&utm_term=T1_NORD_LAL&utm_content=AD04",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://space.gnssacademy.com/spacecareerweek26-yt/?utm_source=google&utm_medium=paid&utm_campaign=SCW26_GOOGLE_T1_NORD_DG-FR"
-    },
-    {
-      "at": "2026-11-13T23:26:51+00:00",
-      "kind": "study_skip",
-      "issue": null,
-      "url": "https://www.instagram.com/quest_ptg/",
-      "summary": "URL недоступен: https://www.instagram.com/quest_ptg/ (HTTP Error 429: Too Many Requests)"
-    },
     {
       "at": "2026-11-13T23:26:52+00:00",
       "kind": "study_skip",
@@ -1357,6 +1346,20 @@
       "issue": null,
       "url": "https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&h_keyword_id=&h_keyword=&h_placement=youtube.com&gad_source=2&gad_campaignid=24276174909",
       "summary": "Изучен материал (structured-cloud-analyzer): https://exponentialtraffic.com/dfy?gc_id=24276174909&h_ga_id=199975383066&h_ad_id=825749333656&"
+    },
+    {
+      "at": "2026-11-22T08:28:08+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 97,
+      "url": null,
+      "summary": "#97 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-22T08:28:14+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv=m&mt=&pl=youtube.com&utm_source=youtube_ads&utm_medium=cpc&utm_campaign=nimb&utm_content=189059065370|23616818868|799060508631&utm_term=2246&gad_source=2&gad_campaignid=23616818868",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid"
     }
   ],
   "failed_urls": {
