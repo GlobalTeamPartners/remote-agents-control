@@ -515,7 +515,7 @@
     }
   },
   {
-    "at": "2026-11-22T16:34:25+00:00",
+    "at": "2026-11-22T16:34:24+00:00",
     "source": "github_actions_cloud_24_7",
     "version": "34.3",
     "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
@@ -523,15 +523,15 @@
     "cycle": 113,
     "tasks": [
       {
-        "issue": 99,
-        "title": "CMD: TIM: [Тим] I want to sell service by providing training to build apps how can I build one for my needs and afte | PROJ: Входящие_Офис",
+        "issue": 101,
+        "title": "CMD: TIM: [Тим] Сделай нам такой же сайт с такими сервисами для России после детального изучения как это работает? | PROJ: Входящие_Офис",
         "project": "Входящие_Офис",
         "actor_login": "true1team",
         "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
         "model": "structured-cloud-analyzer",
         "tier": "hydrogen",
         "transport": "fallback",
-        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] I want to sell service by providing training to build apps how can I build one for my needs and afte | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbo"
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Сделай нам такой же сайт с такими сервисами для России после детального изучения как это работает? | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon "
       }
     ],
     "study": null
