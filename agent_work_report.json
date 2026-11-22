@@ -429,5 +429,27 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Traffic): «[Бесплатный Тренинг] Для Коучей, Экспертов и Наставников». Ключевое: Как Новая Воронка «ShortПрогрева™» Приносит 10-15 Платёжеспособных Клиентов с Чеком от $1,000 за 10 дней БЕЗ Риска, Опыта ИЛИ Усилий. Всё уже протестировано и готово, просто внедрите и получайте клиентов. Если вы не получае"
     }
+  },
+  {
+    "at": "2026-11-22T08:28:28+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 112,
+    "tasks": [
+      {
+        "issue": 97,
+        "title": "CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис",
+        "project": "Входящие_Офис",
+        "actor_login": "true1team",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/Da-jPxwIOWe/?jplx=NzlocDNxdTlya20y | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.in"
+      }
+    ],
+    "study": null
   }
 ]
