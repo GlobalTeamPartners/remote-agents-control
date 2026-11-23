@@ -674,5 +674,45 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-23T22:48:14+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "argon",
+    "cycle": 127,
+    "tasks": [
+      {
+        "issue": 107,
+        "title": "CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "argon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**"
+      },
+      {
+        "issue": 105,
+        "title": "CMD: TIM: [Тим] The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman- | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman- | PROJ: Главный Штаб\n\n**Изученные источники и извлеч"
+      }
+    ],
+    "study": {
+      "title": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy изучи детально о чём они говорят в этом видео ",
+      "url": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «- YouTube». Ключевое: YouTube видео/Short: «Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!» · Канал: The Diary Of A CEO (https://www.youtube.com/@TheDiaryOfACEO) | Enjoy the videos and music you love, upload original content, and share i"
+    }
   }
 ]
