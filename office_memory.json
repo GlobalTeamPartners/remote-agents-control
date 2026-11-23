@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-23T20:36:27+00:00",
-  "cycle_count": 126,
+  "updated_at": "2026-11-23T22:47:58+00:00",
+  "cycle_count": 127,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -65,7 +65,9 @@
     "issue:101:comment:cloud_tg_ingest",
     "issue:98:comment:open",
     "issue:100:comment:7086147368",
-    "issue:106:comment:open"
+    "issue:106:comment:open",
+    "issue:107:auto:7113293454",
+    "issue:105:auto:7105719734"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -155,33 +157,15 @@
     "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads?tm=tt&ap=gads&aaid=adahWqvvxfi0d&cid=23616818868&agid=189059065370&aid=799060508631&kid=&kw=&nw=ytis&dv=m&mt=&pl=youtube.com&utm_source=youtube_ads&utm_medium=cpc&utm_campaign=nimb&utm_content=189059065370|23616818868|799060508631&utm_term=2246&gad_source=2&gad_campaignid=23616818868",
     "https://www.instagram.com/reel/DcbbTdxyhbs/?knvt=MWN6NjJ0eGY2ZGVnbg==",
     "https://www.instagram.com/reel/DfUoq06IRm9/?fqnt=MWZwOWQ4YnFhem13NA==",
-    "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH"
+    "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH",
+    "https://microsoft.com",
+    "https://nvidia.com",
+    "https://samsung.com",
+    "https://www.sfchronicle.com/sf/article/greg-brockman-",
+    "https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php",
+    "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T23:33:23+00:00",
-      "topic": "Задача #64: CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал дв",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал два инциде | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените пр",
-      "source": "issue #64"
-    },
-    {
-      "at": "2026-11-15T01:01:44+00:00",
-      "topic": "Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)",
-      "insight": "Изучено (Проект: GlobalFilms (Filmtools)): «GlobalFilms — Отечественный аналог Filmtools». Ключевое: GlobalFilms — Отечественный аналог Filmtools 🎬 GlobalFilms Отечественная система Filmtools 🏛️ В Офис ⚡ Решение для Светланы · Проект Filmtools Отечественный программный комплекс кинопроизводства Полный аналог западного сервиса Filmtools , разработанный на стеке Next.js 16 + React 19 + Shadcn UI . Система автономно упра",
-      "source": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html"
-    },
-    {
-      "at": "2026-11-15T07:50:05+00:00",
-      "topic": "TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)",
-      "insight": "Изучено (Проект: Позновалка & Traffic): «Get your business discovered on TikTok». Ключевое: Sign up TikTok For Business now. Start advertising on TikTok today to drive real business results.",
-      "source": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting"
-    },
-    {
-      "at": "2026-11-15T15:16:42+00:00",
-      "topic": "Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)",
-      "insight": "Изучено (Проект: 12 IT Продуктов (Короче Капитан)): «Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads». Ключевое: Челлендж по запуску 12 IT-проектов за 12 месяцев - v2 - Dark - Google Ads Запускаю 12 IT-проектов за 12 месяцев. Идет второй год челленджа👇 Выручка одного из наших приложений за 4 месяца после запуска Всего запустил 20+ таких продуктов. Запуски разбираю в своем Telegram-канале 👇 Перейти и прочитать Внутри: все о том, к",
-      "source": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads"
-    },
     {
       "at": "2026-11-15T18:09:52+00:00",
       "topic": "Задача #65: CMD: TIM: [Тим] https://www.facebook.com/share/v/19w2zTMQpv/\nFind a platform for building dropshiping shop only in 65 seconds cl",
@@ -668,6 +652,24 @@
       "project": "Unity Inc",
       "issue": 107,
       "summary": "Xiaomi 14T (2406APNFAG, Android 16, HyperOS 3.0.303.0, Dimensity 8300-Ultra arm64-v8a) -> AmneziaVPN 5.1.1.10 android11+ arm64-v8a + XRay REALITY (Fingerprint=firefox) + HyperOS no-restrictions/autostart/PrivateDNS Off + amnezia_ru_exclude.json (71 RU domains) for Beeline."
+    },
+    {
+      "at": "2026-11-23T22:48:03+00:00",
+      "topic": "Задача #107: CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Г",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps** (`https://microsoft.com`)\n  > Explore Microsoft products and services and suppo",
+      "source": "issue #107"
+    },
+    {
+      "at": "2026-11-23T22:48:04+00:00",
+      "topic": "Задача #105: CMD: TIM: [Тим] The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brock",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman- | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Client Challenge** (`https://www.sfchronicle.com/sf/article/greg-brockman-`)\n  > Client Challenge A required part of this site co",
+      "source": "issue #105"
+    },
+    {
+      "at": "2026-11-23T22:48:06+00:00",
+      "topic": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy изучи детально о чём они говорят в этом видео",
+      "insight": "Изучено (Проект: Позновалка): «- YouTube». Ключевое: YouTube видео/Short: «Nischa Shah: They’re Lying To You About Buying a House! My 652510 Rule Built $200K Passive Income!» · Канал: The Diary Of A CEO (https://www.youtube.com/@TheDiaryOfACEO) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy"
     }
   ],
   "projects": {
@@ -823,27 +825,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T10:50:23+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=RP_PMAX_Google_Prospecting_MOFU_Reg-T1T2_EMEA_EU_EN_All_23736473219&utm_content=_m_&hsa_acc=1706531352&hsa_cam=23736473219&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=23736483581",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://ads.reddit.com/register?promo_code=PPC500&ploc=2246&utm_medium=cpc&utm_source=google&ut"
-    },
-    {
-      "at": "2026-11-14T13:49:38+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 60,
-      "url": null,
-      "summary": "#60 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://plan.muscle-booster.io/ what are they making money on ? | PROJ: Входящие_Офис"
-    },
-    {
-      "at": "2026-11-14T14:44:54+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 61,
-      "url": null,
-      "summary": "#61 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 | PROJ: Входящие_Офис"
-    },
     {
       "at": "2026-11-14T15:37:50+00:00",
       "kind": "cloud_study",
@@ -1382,6 +1363,27 @@
       "issue": 106,
       "url": null,
       "summary": "#106 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: AUTH_SYNC: Быстрая заявка REQ-029596 (@MShlomoN / @MShlomoN) | PROJ: Входящие_Офис"
+    },
+    {
+      "at": "2026-11-23T22:48:03+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 107,
+      "url": null,
+      "summary": "#107 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-23T22:48:04+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 105,
+      "url": null,
+      "summary": "#105 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman- | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-23T22:48:06+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy изучи детально о чём они говорят в этом видео "
     }
   ],
   "failed_urls": {
