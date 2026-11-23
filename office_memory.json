@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-23T15:32:21+00:00",
-  "cycle_count": 123,
+  "updated_at": "2026-11-23T17:30:48+00:00",
+  "cycle_count": 124,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -64,7 +64,8 @@
     "issue:100:comment:cloud_tg_ingest",
     "issue:101:comment:cloud_tg_ingest",
     "issue:98:comment:open",
-    "issue:100:comment:7086147368"
+    "issue:100:comment:7086147368",
+    "issue:106:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -157,18 +158,6 @@
     "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-14T21:04:27+00:00",
-      "topic": "https://t.me/sysadminfuture изучи и сделай агента который изучает всю информацию из этой группы",
-      "insight": "Изучено (Проект: Позновалка): «Telegram: View @sysadminfuture». Ключевое: Telegram: View @sysadminfuture Download Admin Future 241 subscribers Превращаем эникейщиков в System Architects. 🚀 Твой навигатор в мире IT-инфраструктуры: ▪️ Hard Skills: Linux, Windows, Network, Security ▪️ Tools: Лучший софт и скрытые фишки ▪️ Mindset: Как думать, чтобы платили много Админ - @maksimshap View in Tele",
-      "source": "https://t.me/sysadminfuture"
-    },
-    {
-      "at": "2026-11-14T23:27:48+00:00",
-      "topic": "Задача #63: CMD: /expert Глубокий экспертный разбор: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: /expert Глубокий экспертный разбор: 📷 Изучить фото (3 шт.) для True 1 Team | PROJ: True 1 Team\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / T",
-      "source": "issue #63"
-    },
     {
       "at": "2026-11-14T23:33:23+00:00",
       "topic": "Задача #64: CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал дв",
@@ -666,6 +655,12 @@
       "project": "Главный Штаб",
       "issue": 105,
       "summary": "The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php: **Понятая цель:** The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php\n\n### Извлечённые данные по ссылкам:\n\n• `https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-2254182"
+    },
+    {
+      "at": "2026-11-23T17:30:51+00:00",
+      "topic": "Задача #106: CMD: AUTH_SYNC: Быстрая заявка REQ-029596 (@MShlomoN / @MShlomoN) | PROJ: Входящие_Офис",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: AUTH_SYNC: Быстрая заявка REQ-029596 (@MShlomoN / @MShlomoN) | PROJ: Входящие_Офис\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COM",
+      "source": "issue #106"
     }
   ],
   "projects": {
@@ -821,13 +816,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T10:50:22+00:00",
-      "kind": "study_skip",
-      "issue": null,
-      "url": "https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713",
-      "summary": "URL недоступен: https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/ipa-investigator/?cmpid=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&utm_source=CM_QDI_DISC_IPA-Investigator_1026_DemGen_Google_Global&gad_source=2&gad_campaignid=24357100713"
-    },
     {
       "at": "2026-11-14T10:50:23+00:00",
       "kind": "cloud_study",
@@ -1380,6 +1368,13 @@
       "issue": null,
       "url": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH",
       "summary": "Изучен материал (structured-cloud-analyzer): https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH what is he talking about learn and t"
+    },
+    {
+      "at": "2026-11-23T17:30:51+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 106,
+      "url": null,
+      "summary": "#106 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: AUTH_SYNC: Быстрая заявка REQ-029596 (@MShlomoN / @MShlomoN) | PROJ: Входящие_Офис"
     }
   ],
   "failed_urls": {
