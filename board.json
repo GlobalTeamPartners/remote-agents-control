@@ -18242,6 +18242,30 @@
         "who": "done",
         "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
       }
+    },
+    "106": {
+      "id": 106,
+      "gh_issue": 106,
+      "created": "2026-11-23 17:30:51",
+      "updated": "2026-11-23 17:30:51",
+      "handoffs": [
+        {
+          "t": "2026-11-23 17:30:51",
+          "from": "cloud_agent_24_7",
+          "to": "gatekeeper",
+          "note": "Выполнено Облаком 24/7"
+        }
+      ],
+      "title": "CMD: AUTH_SYNC: Быстрая заявка REQ-029596 (@MShlomoN / @MShlomoN) | PROJ: Входящие_Офис",
+      "project": "Главный Штаб",
+      "kind": "command",
+      "urls": [],
+      "owner": "gatekeeper",
+      "status": "done",
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
+      }
     }
   }
 }
