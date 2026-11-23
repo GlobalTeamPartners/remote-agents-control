@@ -635,5 +635,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 895 likes, 800 comments - olliemckinlay on November 4, 2026: \"You don’t need a phone farm anymore - Comment “Butter” for the set up\"."
     }
+  },
+  {
+    "at": "2026-11-23T11:18:53+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 121,
+    "tasks": [],
+    "study": {
+      "title": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH what is he talking about learn and t",
+      "url": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Позновалка): «Get Rich with these 5 AI business ideas - YouTube». Ключевое: YouTube видео/Short: «Get Rich with these 5 AI business ideas» · Канал: Dan Martell (https://www.youtube.com/@danmartell) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, an"
+    }
   }
 ]
