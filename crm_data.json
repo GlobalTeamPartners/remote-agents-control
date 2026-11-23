@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T22:48:08+00:00",
+  "updated_at": "2026-11-23T23:09:59.587689Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1469,6 +1469,15 @@
       "source_url": "",
       "summary": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] This is my version of my phone find a folder Unity Inc project in folder amneziavpn setup for beeline | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**",
       "updated_at": "2026-11-23T22:48:08+00:00"
+    },
+    {
+      "id": "kb-bot-108",
+      "issue": 108,
+      "category": "Проект: Главный Штаб",
+      "title": "https://www.facebook.com/share/p/1ChJaWNsh1/",
+      "source_url": "https://www.facebook.com/share/p/1ChJaWNsh1/",
+      "summary": "Здравия! Тим на связи. Главный Штаб, Задача #108.\n\n### Анализ ссылки\nСсылка `https://www.facebook.com/share/p/1ChJaWNsh1/` является **стандартной короткой ссылкой Facebook для репоста конкретного поста**. \n\n**Важное уточнение:**\n1. **Технический статус:** При переходе по ссылке сервер Facebook выполняет редирект на страницу авторизации (`facebook.com/login`). Это происходит, так как контент поста ограничен настройками приватности автора или требует активной сессии пользователя.\n2. **Связь с предыдущим контекстом (Sfchronicle):** В нашей Памяти Офиса (Issue #105) фигурировала статья *SF Chronic",
+      "updated_at": "2026-11-23T23:09:57.862273Z"
     }
   ],
   "global_plus_matrix": [
