@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-23T15:02:41+00:00",
+  "updated_at": "2026-11-23T15:03:50.649178Z",
   "cycle_count": 122,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -659,6 +659,13 @@
       "topic": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH what is he talking about learn and t",
       "insight": "Изучено (Проект: Позновалка): «Get Rich with these 5 AI business ideas - YouTube». Ключевое: YouTube видео/Short: «Get Rich with these 5 AI business ideas» · Канал: Dan Martell (https://www.youtube.com/@danmartell) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
       "source": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH"
+    },
+    {
+      "id": "fact-dir-v343-iss105",
+      "ts": "2026-11-23T15:03:49.540909Z",
+      "project": "Главный Штаб",
+      "issue": 105,
+      "summary": "The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php: **Понятая цель:** The richest person in San Francisco doesn’t work at Anthropic https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php\n\n### Извлечённые данные по ссылкам:\n\n• `https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-2254182"
     }
   ],
   "projects": {
