@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-24T05:42:27.226855Z",
-  "cycle_count": 130,
+  "updated_at": "2026-11-24T06:43:14+00:00",
+  "cycle_count": 131,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -163,34 +163,10 @@
     "https://samsung.com",
     "https://www.sfchronicle.com/sf/article/greg-brockman-",
     "https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php",
-    "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy"
+    "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
+    "https://www.facebook.com/share/p/1ChJaWNsh1/"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-15T18:09:52+00:00",
-      "topic": "Задача #65: CMD: TIM: [Тим] https://www.facebook.com/share/v/19w2zTMQpv/\nFind a platform for building dropshiping shop only in 65 seconds cl",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.facebook.com/share/v/19w2zTMQpv/\nFind a platform for building dropshiping shop only in 65 seconds click clic | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Facebook** (`https://www.facebook.com/share/v/19w2zTMQpv/`)\n  > Everybody talks about starting an LLC. Few talk about WHERE ",
-      "source": "issue #65"
-    },
-    {
-      "at": "2026-11-15T18:10:10+00:00",
-      "topic": "Задача #66: CMD: DIRECTOR_ТИМ: Выполнение шага #1 (Главный Штаб) | PROJ: Главный Штаб",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: DIRECTOR_ТИМ: Выполнение шага #1 (Главный Штаб) | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COMSS AI 2.0 / 12",
-      "source": "issue #66"
-    },
-    {
-      "at": "2026-11-15T18:19:33+00:00",
-      "topic": "Задача #67: CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI",
-      "source": "issue #67"
-    },
-    {
-      "id": "fact-65s-dropship-v343",
-      "ts": "2026-11-15T19:15:11.584516Z",
-      "project": "Главный Штаб",
-      "issue": 65,
-      "summary": "65-секундный запуск дропшиппинг-магазина: BuildYourStore.ai/AutoDS AI Store Builder, PagePilot.ai (<60с), Storebuild.ai, Dropmagic, Shopify Magic; реальная маржа в тестах рекламы, поставщиках и US LLC/платежах (FB Reel 987369197201336 @26theceo). nlm CLI локально требует однократный `nlm login`."
-    },
     {
       "id": "fact-gert-mgmt-plane-v343",
       "ts": "2026-11-15T19:15:11.584516Z",
@@ -691,6 +667,12 @@
       "project": "Главный Штаб",
       "issue": 110,
       "summary": "https://aituber.app/: Здравия! Тим на связи. Главный Штаб, Задача #110.\n\nПо вашему запросу изучена платформа **AITuber** (`https://aituber.app/`). \n* **Извлечённые данные:** Страница позиционируется как сервис для автоматизированного создания «faceless» (безликих) видеороликов на автопилоте для YouTub"
+    },
+    {
+      "at": "2026-11-24T06:43:24+00:00",
+      "topic": "https://www.facebook.com/share/p/1ChJaWNsh1/",
+      "insight": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: Facebook Explore the things you love . Log into Facebook Email or mobile number Password Log in Forgot password? Create new account English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano More languages… Sign Up Log In Messenger Facebook Lite Video Meta Pay Meta Store Meta Quest Ray-Ban Meta M",
+      "source": "https://www.facebook.com/share/p/1ChJaWNsh1/"
     }
   ],
   "projects": {
@@ -846,13 +828,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T15:37:50+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=199404240886&hsa_ad=826684887017&hsa_src=ytis&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24303424977",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://www.altahq.com/lp/ai-sdr-katie?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source"
-    },
     {
       "at": "2026-11-14T16:50:04+00:00",
       "kind": "cloud_study",
@@ -1405,6 +1380,13 @@
       "issue": null,
       "url": "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
       "summary": "Изучен материал (structured-cloud-analyzer): https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy изучи детально о чём они говорят в этом видео "
+    },
+    {
+      "at": "2026-11-24T06:43:24+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.facebook.com/share/p/1ChJaWNsh1/",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.facebook.com/share/p/1ChJaWNsh1/"
     }
   ],
   "failed_urls": {
