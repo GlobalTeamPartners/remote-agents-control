@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-24T10:56:38+00:00",
-  "cycle_count": 132,
+  "updated_at": "2026-11-24T18:21:55+00:00",
+  "cycle_count": 133,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -67,7 +67,8 @@
     "issue:100:comment:7086147368",
     "issue:106:comment:open",
     "issue:107:auto:7113293454",
-    "issue:105:auto:7105719734"
+    "issue:105:auto:7105719734",
+    "issue:110:auto:7129444741"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -164,22 +165,11 @@
     "https://www.sfchronicle.com/sf/article/greg-brockman-",
     "https://www.sfchronicle.com/sf/article/greg-brockman-openai-net-worth-22541824.php",
     "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
-    "https://www.facebook.com/share/p/1ChJaWNsh1/"
+    "https://www.facebook.com/share/p/1ChJaWNsh1/",
+    "https://aituber.app/",
+    "https://www.facebook.com/share/v/1F4wSz7Fqo/"
   ],
   "learned_facts": [
-    {
-      "id": "fact-gert-mgmt-plane-v343",
-      "ts": "2026-11-15T19:15:11.584516Z",
-      "project": "Главный Штаб",
-      "issue": 64,
-      "summary": "Уроки Kaspersky GERT (BlackNevas/The Gentlemen): изоляция управляющего контура, отказ от общих многоразовых root-кредов и plaintext-заметок, сохранение allowlist-политик по аналогии с execInstalledOnly (request_only bot gate, проектная изоляция ботов, отсутствие секретов в CRM)."
-    },
-    {
-      "at": "2026-11-15T20:28:01+00:00",
-      "topic": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campai",
-      "insight": "Изучено (Проект: Traffic): «Individual hotels solutions». Ключевое: One platform to boost your direct booking strategy We are the number one technology and strategy enabler for outstanding hotels worldwide!",
-      "source": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=goog"
-    },
     {
       "at": "2026-11-15T22:54:39+00:00",
       "topic": "Задача #68: CMD: TIM: [Тим] Новая задача как использовать и подключить space bunny model to our system? | PROJ: Главный Штаб",
@@ -673,6 +663,18 @@
       "topic": "https://www.facebook.com/share/p/1ChJaWNsh1/",
       "insight": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: Facebook Explore the things you love . Log into Facebook Email or mobile number Password Log in Forgot password? Create new account English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano More languages… Sign Up Log In Messenger Facebook Lite Video Meta Pay Meta Store Meta Quest Ray-Ban Meta M",
       "source": "https://www.facebook.com/share/p/1ChJaWNsh1/"
+    },
+    {
+      "at": "2026-11-24T18:21:58+00:00",
+      "topic": "Задача #110: CMD: TIM: [Тим] https://aituber.app/ | PROJ: Главный Штаб",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://aituber.app/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **AITuber - Create Faceless AI Videos on Autopilot** (`https://aituber.app/`)\n  > Generate shorts & long-form 4K videos with 1300+ AI voices, visuals, and captions. For YouTube, TikTok, Reels & more.\n  *Контекст страницы:* 4 p",
+      "source": "issue #110"
+    },
+    {
+      "at": "2026-11-24T18:22:03+00:00",
+      "topic": "https://www.facebook.com/share/v/1F4wSz7Fqo/",
+      "insight": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: This made HOW MUCH MOBEY?? #aibuilder #bunker #asmr #higgsfieldpartner #dallas Higgsfield AI",
+      "source": "https://www.facebook.com/share/v/1F4wSz7Fqo/"
     }
   ],
   "projects": {
@@ -828,20 +830,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T16:50:04+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://t.me/ghostghettochild",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://t.me/ghostghettochild изучи эту группу и придумай для него предложение он хочет размест"
-    },
-    {
-      "at": "2026-11-14T19:56:10+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 62,
-      "url": null,
-      "summary": "#62 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: https://go.shadowpages.io/thealexanderlari-booking?utm_term=1322537527 изучи и подготовь план для создания такой системы мы раннее создавали | PROJ: Входящие_Офис"
-    },
     {
       "at": "2026-11-14T21:04:27+00:00",
       "kind": "cloud_study",
@@ -1387,6 +1375,20 @@
       "issue": null,
       "url": "https://www.facebook.com/share/p/1ChJaWNsh1/",
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.facebook.com/share/p/1ChJaWNsh1/"
+    },
+    {
+      "at": "2026-11-24T18:21:58+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 110,
+      "url": null,
+      "summary": "#110 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://aituber.app/ | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-24T18:22:03+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.facebook.com/share/v/1F4wSz7Fqo/",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.facebook.com/share/v/1F4wSz7Fqo/"
     }
   ],
   "failed_urls": {
