@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T13:14:14.486Z",
+  "updated_at": "2026-11-25T13:14:25+00:00",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1530,6 +1530,15 @@
       "source_url": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
       "summary": "Здравия! Тим на связи. Главный Штаб, Задача #112.\n\n### Анализ источника\nПо ссылке на Instagram Reel (`https://www.instagram.com/reel/DfPtwayN0bR/`) система извлекла следующие открытые данные:\n* **Title:** `Noah on Instagram: \"You understand it now?\"`\n* **Description:** `2,439 likes, 139 comments - noahprofitphones on November 2, 2026: \"You understand it now?\".`\n* **Content:** Прямое видеосодержимое Instagram защищено политикой платформы и не может быть полностью прочитано текстовым парсером без авторизации, однако по метаданным аккаунта (`noahprofitphones`) и контексту подобных коротких видео ",
       "updated_at": "2026-11-25T06:43:56.055735Z"
+    },
+    {
+      "id": "kb-bot-113",
+      "issue": 113,
+      "category": "Проект: Главный Штаб (Облако 24/7)",
+      "title": "CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб",
+      "source_url": "",
+      "summary": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст зада",
+      "updated_at": "2026-11-25T13:14:25+00:00"
     }
   ],
   "global_plus_matrix": [
