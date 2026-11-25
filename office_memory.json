@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-25T20:57:40.999811Z",
-  "cycle_count": 142,
+  "updated_at": "2026-11-25T20:59:46+00:00",
+  "cycle_count": 143,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -170,27 +170,10 @@
     "https://aituber.app/",
     "https://www.facebook.com/share/v/1F4wSz7Fqo/",
     "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
-    "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg=="
+    "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
+    "https://habr.com/ru/articles/1103460/"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-16T00:36:15+00:00",
-      "topic": "Задача #70: CMD: TIM: https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY | PROJ: Входящие_Офис",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **China launches world’s fastest open source AI for free local use #AI #OpenSource #TechNews - YouTube** (`https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY`)\n  > YouTube видео/Short: ",
-      "source": "issue #70"
-    },
-    {
-      "at": "2026-11-17T21:46:25+00:00",
-      "topic": "Задача #71: CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaign",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **ToonBee - Founders Special Offer: Unlock AI-powered Cartoon Video Creation** (`https://toonbee.ai/g-special?campaigni",
-      "source": "issue #71"
-    },
-    {
-      "at": "2026-11-17T21:45:24+00:00",
-      "topic": "Задача #72: CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: Claude is paying to learn the skills how much? How can I make money by learning? | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- ⚠️ Не удалось открыть `https://www.khl.ru/` (HTTP Error 403: Forbidden)\n- 🔗 **GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository.",
-      "source": "issue #72"
-    },
     {
       "at": "2026-11-17T21:44:55+00:00",
       "topic": "Задача #73: CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_camp",
@@ -692,6 +675,12 @@
       "project": "Alberta",
       "issue": 115,
       "summary": "Оптимизируй эту страницу и все с ней связанные вкладки под просмтор не только с пк, но и в мобильной версии, а то с телефона не вся информация в пределах экрана. https://unityspirit.github.io/alberta-: Здравия! Аршак на связи. Задача **#115** принята в работу. \n\nПо ссылке `https://unityspirit.github.io/alberta-hub/` развернут элитарный бизнес-хаб Alberta Shirani × Global Spirit Group в эстетике Kinfolk & Solid Aesthetic. Поскольку страница создан"
+    },
+    {
+      "at": "2026-11-25T20:59:49+00:00",
+      "topic": "Внимательно изучи две эти статьи и по их примеру настрой непробиваемый рабочий vpn\nhttps://habr.com/ru/articles/1103460/\nhttps://habr.com/ru",
+      "insight": "Изучено (Проект: Татьяна tentorium.ru): «Методичка по построению VPN, осень 2026 / Хабр». Ключевое: Осенью 2026 года за шесть недель заблокировали четыре зарубежных VPN-сервера, и каждый следующий прожил меньше предыдущего, три последних заблокировали за пять дней. Все настроено серьезно: VLESS...",
+      "source": "https://habr.com/ru/articles/1103460/"
     }
   ],
   "projects": {
@@ -847,13 +836,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-15T01:01:44+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://unityspirit.github.io/remote-agents-control/globalfilms/index.html",
-      "summary": "Изучен материал (structured-cloud-analyzer): Разбор и запуск платформы кинопроизводства для Светланы (GlobalFilms / Filmtools)"
-    },
     {
       "at": "2026-11-15T07:50:05+00:00",
       "kind": "cloud_study",
@@ -1406,6 +1388,13 @@
       "issue": 113,
       "url": null,
       "summary": "#113 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-25T20:59:49+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://habr.com/ru/articles/1103460/",
+      "summary": "Изучен материал (structured-cloud-analyzer): Внимательно изучи две эти статьи и по их примеру настрой непробиваемый рабочий vpn\nhttps://habr.com/ru/articles/1103460/\nhttps://habr.com/ru"
     }
   ],
   "failed_urls": {
