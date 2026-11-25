@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-25T11:45:21+00:00",
-  "cycle_count": 137,
+  "updated_at": "2026-11-25T13:14:21+00:00",
+  "cycle_count": 138,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -68,7 +68,8 @@
     "issue:106:comment:open",
     "issue:107:auto:7113293454",
     "issue:105:auto:7105719734",
-    "issue:110:auto:7129444741"
+    "issue:110:auto:7129444741",
+    "issue:113:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -172,12 +173,6 @@
     "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg=="
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-16T00:13:05+00:00",
-      "topic": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_so",
-      "insight": "Изучено (Проект: Позновалка): «AI Sales Calling Agent | Alex by Alta». Ключевое: Meet Alex, Alta’s AI Sales Agent. Automate calls, book meetings, and engage prospects with precision using advanced AI tools. Try Alex today.",
-      "source": "https://www.altahq.com/lp/ai-calling-agent?utm_term=&utm_campaign=DemandGen_RestOfEurope&utm_source=adwords&utm_medium=ppc&hsa_acc=1922078764&hsa_cam=24303424977&hsa_grp=1999511810"
-    },
     {
       "at": "2026-11-16T00:36:15+00:00",
       "topic": "Задача #70: CMD: TIM: https://youtube.com/shorts/dLGjXxAUvyg?is=E7S7KgIwREXT3BGY | PROJ: Входящие_Офис",
@@ -677,6 +672,12 @@
       "topic": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
       "insight": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,449 likes, 140 comments - noahprofitphones on November 2, 2026: \"You understand it now?\".",
       "source": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg=="
+    },
+    {
+      "at": "2026-11-25T13:14:23+00:00",
+      "topic": "Задача #113: CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDe",
+      "source": "issue #113"
     }
   ],
   "projects": {
@@ -832,13 +833,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T23:33:23+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 64,
-      "url": null,
-      "summary": "#64 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Зашифровали всю ферму ESXi и весь кластер Proxmox. Без единого эксплойта гипервизора\n\nKaspersky GERT разобрал два инциде | PROJ: Главный Штаб"
-    },
     {
       "at": "2026-11-15T01:01:44+00:00",
       "kind": "cloud_study",
@@ -1391,6 +1385,13 @@
       "issue": null,
       "url": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg=="
+    },
+    {
+      "at": "2026-11-25T13:14:23+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 113,
+      "url": null,
+      "summary": "#113 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб"
     }
   ],
   "failed_urls": {
