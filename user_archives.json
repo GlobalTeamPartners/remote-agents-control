@@ -749,7 +749,28 @@
       ],
       "total_count": 1,
       "last_saved_at": "2026-11-05T10:27:03.744Z"
+    },
+    "mshlomon": {
+      "login": "mshlomon",
+      "full_name": "@MShlomoN (BMWecker)",
+      "items": [
+        {
+          "id": "iss-113",
+          "ts": "2026-11-25T13:14:17.033Z",
+          "login": "mshlomon",
+          "full_name": "@MShlomoN (BMWecker)",
+          "issue_number": 113,
+          "project": "Главный Штаб",
+          "kind": "agent_request",
+          "title": "какие у нас есть готовые наработки для Альберты по теме трансформации личности?",
+          "study_text": "какие у нас есть готовые наработки для Альберты по теме трансформации личности?",
+          "urls": [],
+          "image_urls": []
+        }
+      ],
+      "total_count": 1,
+      "last_saved_at": "2026-11-25T13:14:17.033Z"
     }
   },
-  "updated_at": "2026-11-16T02:24:52.228Z"
+  "updated_at": "2026-11-25T13:14:17.033Z"
 }
