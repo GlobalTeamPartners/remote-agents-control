@@ -794,5 +794,27 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,449 likes, 140 comments - noahprofitphones on November 2, 2026: \"You understand it now?\"."
     }
+  },
+  {
+    "at": "2026-11-25T13:14:31+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 138,
+    "tasks": [
+      {
+        "issue": 113,
+        "title": "CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: какие у нас есть готовые наработки для Альберты по теме трансформации личности? | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст зада"
+      }
+    ],
+    "study": null
   }
 ]
