@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-25T00:01:06+00:00",
+  "updated_at": "2026-11-25T00:00:44.216039Z",
   "cycle_count": 134,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -675,6 +675,13 @@
       "topic": "https://www.facebook.com/share/v/1F4wSz7Fqo/",
       "insight": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: This made HOW MUCH MOBEY?? #aibuilder #bunker #asmr #higgsfieldpartner #dallas Higgsfield AI",
       "source": "https://www.facebook.com/share/v/1F4wSz7Fqo/"
+    },
+    {
+      "id": "fact-dir-v343-iss111",
+      "ts": "2026-11-25T00:00:42.973117Z",
+      "project": "Главный Штаб",
+      "issue": 111,
+      "summary": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh: Tim here. Global Spirit Group, HQ. Task #111.\n\n### Analysis: SGP Card Joker\nThe link points to a promotional reel for the **SGP Card Joker**, a hardware-based cybersecurity tool. \n\n**Technical Profile:**\n*   **Form Factor:** Ultra-slim (credit card size).\n*   **Core Capabilities:"
     }
   ],
   "projects": {
