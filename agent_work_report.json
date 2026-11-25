@@ -816,5 +816,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-25T20:59:54+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 143,
+    "tasks": [],
+    "study": {
+      "title": "Внимательно изучи две эти статьи и по их примеру настрой непробиваемый рабочий vpn\nhttps://habr.com/ru/articles/1103460/\nhttps://habr.com/ru",
+      "url": "https://habr.com/ru/articles/1103460/",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Татьяна tentorium.ru): «Методичка по построению VPN, осень 2026 / Хабр». Ключевое: Осенью 2026 года за шесть недель заблокировали четыре зарубежных VPN-сервера, и каждый следующий прожил меньше предыдущего, три последних заблокировали за пять дней. Все настроено серьезно: VLESS..."
+    }
   }
 ]
