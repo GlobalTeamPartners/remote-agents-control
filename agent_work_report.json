@@ -777,5 +777,22 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 10K likes, 1,627 comments - sgpcard on October 23, 2026: \"🚀 Comment “SGP” and we’ll send you the link! Meet the SGP Card Joker — one of the thinnest cybersecurity tools ever designed! 🔥 A powerful, ultra-slim device packed with advanced technology for cybersecurity"
     }
+  },
+  {
+    "at": "2026-11-25T11:45:36+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 137,
+    "tasks": [],
+    "study": {
+      "title": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
+      "url": "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,449 likes, 140 comments - noahprofitphones on November 2, 2026: \"You understand it now?\"."
+    }
   }
 ]
