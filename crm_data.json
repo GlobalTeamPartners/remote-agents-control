@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:22:06+00:00",
+  "updated_at": "2026-11-25T00:00:59.489161Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1496,6 +1496,15 @@
       "source_url": "https://aituber.app/",
       "summary": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://aituber.app/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **AITuber - Create Faceless AI Videos on Autopilot** (`https://aituber.app/`",
       "updated_at": "2026-11-24T18:22:06+00:00"
+    },
+    {
+      "id": "kb-bot-111",
+      "issue": 111,
+      "category": "Проект: Главный Штаб",
+      "title": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
+      "source_url": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
+      "summary": "Tim here. Global Spirit Group, HQ. Task #111.\n\n### Analysis: SGP Card Joker\nThe link points to a promotional reel for the **SGP Card Joker**, a hardware-based cybersecurity tool. \n\n**Technical Profile:**\n*   **Form Factor:** Ultra-slim (credit card size).\n*   **Core Capabilities:** Wi-Fi/Bluetooth scanning, BadUSB/HID injection, wireless network analysis, and security testing.\n*   **Architecture:** Likely ESP32-based (common for this form factor), fully programmable.\n*   **Market Positioning:** Targeted at ethical hackers, penetration testers, and cybersecurity enthusiasts who require portable",
+      "updated_at": "2026-11-25T00:00:58.202775Z"
     }
   ],
   "global_plus_matrix": [
