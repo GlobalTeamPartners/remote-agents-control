@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-25T00:00:44.216039Z",
-  "cycle_count": 134,
+  "updated_at": "2026-11-25T02:41:33+00:00",
+  "cycle_count": 135,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -167,22 +167,10 @@
     "https://youtu.be/NxTsA72O5x0?is=s-V7foF6lqFoaocy",
     "https://www.facebook.com/share/p/1ChJaWNsh1/",
     "https://aituber.app/",
-    "https://www.facebook.com/share/v/1F4wSz7Fqo/"
+    "https://www.facebook.com/share/v/1F4wSz7Fqo/",
+    "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-15T22:54:39+00:00",
-      "topic": "Задача #68: CMD: TIM: [Тим] Новая задача как использовать и подключить space bunny model to our system? | PROJ: Главный Штаб",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] Новая задача как использовать и подключить space bunny model to our system? | PROJ: Главный Штаб\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice",
-      "source": "issue #68"
-    },
-    {
-      "id": "fact-dir-v343-iss68",
-      "ts": "2026-11-15T22:54:15.518641Z",
-      "project": "Главный Штаб",
-      "issue": 68,
-      "summary": "Директор понял, что нужно создать новую задачу по интеграции и подключению модели Space Bunny к нашей системе.: Здравия! Тим на связи. Разбираем задачу **#68**: интеграция и подключение модели **Space Bunny** в контур Global Spirit Group. \n\nПоскольку ссылки и специфичные технические манифесты по самой «Space Bunny» в запросе не переданы (а под этим именем могут скрываться кастомные LoRA-мо"
-    },
     {
       "at": "2026-11-15T23:21:25+00:00",
       "topic": "Задача #69: CMD: TIM: [Тим] https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg== | PROJ: Главный Штаб",
@@ -682,6 +670,12 @@
       "project": "Главный Штаб",
       "issue": 111,
       "summary": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh: Tim here. Global Spirit Group, HQ. Task #111.\n\n### Analysis: SGP Card Joker\nThe link points to a promotional reel for the **SGP Card Joker**, a hardware-based cybersecurity tool. \n\n**Technical Profile:**\n*   **Form Factor:** Ultra-slim (credit card size).\n*   **Core Capabilities:"
+    },
+    {
+      "at": "2026-11-25T02:41:37+00:00",
+      "topic": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
+      "insight": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 10K likes, 1,627 comments - sgpcard on October 23, 2026: \"🚀 Comment “SGP” and we’ll send you the link! Meet the SGP Card Joker — one of the thinnest cybersecurity tools ever designed! 🔥 A powerful, ultra-slim device packed with advanced technology for cybersecurity enthusiasts, ethical hackers, and developers. ⚡ Wi-Fi ",
+      "source": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh"
     }
   ],
   "projects": {
@@ -837,13 +831,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-14T21:04:27+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://t.me/sysadminfuture",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://t.me/sysadminfuture изучи и сделай агента который изучает всю информацию из этой группы"
-    },
     {
       "at": "2026-11-14T23:27:48+00:00",
       "kind": "cloud_task_executed",
@@ -1396,6 +1383,13 @@
       "issue": null,
       "url": "https://www.facebook.com/share/v/1F4wSz7Fqo/",
       "summary": "Изучен материал (structured-cloud-analyzer): https://www.facebook.com/share/v/1F4wSz7Fqo/"
+    },
+    {
+      "at": "2026-11-25T02:41:37+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh"
     }
   ],
   "failed_urls": {
