@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-26T12:20:42.761094Z",
-  "cycle_count": 152,
+  "updated_at": "2026-11-26T13:02:17+00:00",
+  "cycle_count": 153,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -173,46 +173,10 @@
     "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
     "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
     "https://habr.com/ru/articles/1103460/",
-    "https://www.facebook.com/share/r/1J1RAhAG8v/"
+    "https://www.facebook.com/share/r/1J1RAhAG8v/",
+    "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-16T16:26:53+00:00",
-      "topic": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_mediu",
-      "insight": "Изучено (Проект: Learn & Implement): «8 Embedded AI Agent Use Cases for SaaS: Free Ebook | ThoughtSpot». Ключевое: Download the free ebook with 8 real-world embedded AI agent use cases—from premium pricing tiers to partner portals—to unlock new SaaS revenue.",
-      "source": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&"
-    },
-    {
-      "at": "2026-11-17T21:41:10+00:00",
-      "topic": "Задача #76: CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw==`)\n  > 2,081 likes, 255 comments - githubradar on November 3, 2026: \"Полезные о",
-      "source": "issue #76"
-    },
-    {
-      "at": "2026-11-17T21:39:08+00:00",
-      "topic": "Задача #77: CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5 | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Instagram** (`https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5`)\n  > 4,254 likes, 139 comments - tonythetechie on November 2, 2026: \"Wanna tell that kid trolling ",
-      "source": "issue #77"
-    },
-    {
-      "id": "fact-dir-v343-iss77",
-      "ts": "2026-11-16T22:13:07.442843Z",
-      "project": "Главный Штаб",
-      "issue": 77,
-      "summary": "https://www.instagram.com/reel/DfQWuxWTUul/?mdxt=eW13cG53YnZmMjN5: Здравия! Тим на связи. Анализ задачи #77 завершен.\n\n### Анализ контента\nПо ссылке `https://www.instagram.com/reel/DfQWuxWTUul/` (автор: *tonythetechie*):\n* **Суть:** Видео является манифестом «от идеи к реализации». Автор проводит параллель между подростковым увлечением кастомиза"
-    },
-    {
-      "at": "2026-11-17T00:23:24+00:00",
-      "topic": "https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?",
-      "insight": "Изучено (Проект: Позновалка): «GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr». Ключевое: GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode / Habr Все потоки Разработка Администрирование Дизайн Менеджмент Маркетинг Научпоп Как стать автором Помощь Техническая поддержка honest_niceman {{ day }} {{ monthNameShort }} {{ year }}, {{ hour }}:{{ minuteTwoDigit }} GLM 5.3 Flash и DeepSeek V4.1 Flash",
-      "source": "https://habr.com/ru/amp/publications/1095202/"
-    },
-    {
-      "at": "2026-11-17T08:16:48+00:00",
-      "topic": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_c",
-      "insight": "Изучено (Проект: NT:YouTube): «VPS Hosting | Fast, AI-Ready KVM VPS up to 70% off - Hostinger». Ключевое: Virtual private servers for more power and control. AMD EPYC processors, NVMe SSD storage, free weekly backups and AI-ready VPS management with up to 70% off.",
-      "source": "https://www.hostinger.com/vps-hosting?utm_source=google&utm_medium=cpc&utm_id=22770842092&utm_campaign=Intent-VAC-DemandGen-VPS"
-    },
     {
       "at": "2026-11-17T17:44:44+00:00",
       "topic": "https://lp-demo.altahq.com/?utm_term=&utm_campaign=PPG+DemandGen_UK+USA_Tests&utm_source=adword",
@@ -721,6 +685,12 @@
       "project": "Главный Штаб",
       "issue": 122,
       "summary": "Study this photo and tell how we can set up LLC and get 500000$\n\n[Вложение сохранено в Офис: 01_Необработанное/media/tg_482_photo.jpg]: **Тим на связи. Главный Штаб, Задача #122.**\n\nПоскольку прямого текстового описания содержимого фотографии (`tg_482_photo.jpg`) в системных метаданных нет, а прямая работа с визуальным контентом опирается на переданный файл в папке `01_Необработанное/media/tg_482_photo.jpg` и пре"
+    },
+    {
+      "at": "2026-11-26T13:02:20+00:00",
+      "topic": "Отправь этот текст и эту задачу @mshlomon и задай вопрос может тоже самое сделать и как разверни сне и ему более детально что нам стоит сдел",
+      "insight": "Изучено (Проект: Главный Штаб): «GET READY IT'S CRAFTED. WEBSITES. SEO. ADS.». Ключевое: We build digital systems designed to attract demand, convert traffic, and grow businesses — not sit idle.",
+      "source": "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5"
     }
   ],
   "projects": {
@@ -876,13 +846,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-15T15:16:42+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
-      "summary": "Изучен материал (structured-cloud-analyzer): Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)"
-    },
     {
       "at": "2026-11-15T18:09:52+00:00",
       "kind": "cloud_task_executed",
@@ -1435,6 +1398,13 @@
       "issue": 117,
       "url": null,
       "summary": "#117 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-26T13:02:20+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q",
+      "summary": "Изучен материал (structured-cloud-analyzer): Отправь этот текст и эту задачу @mshlomon и задай вопрос может тоже самое сделать и как разверни сне и ему более детально что нам стоит сдел"
     }
   ],
   "failed_urls": {
