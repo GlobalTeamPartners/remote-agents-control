@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-25T21:28:09+00:00",
-  "cycle_count": 146,
+  "updated_at": "2026-11-26T03:28:57+00:00",
+  "cycle_count": 147,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -69,7 +69,8 @@
     "issue:107:auto:7113293454",
     "issue:105:auto:7105719734",
     "issue:110:auto:7129444741",
-    "issue:113:comment:open"
+    "issue:113:comment:open",
+    "issue:117:comment:cloud_tg_ingest"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -171,39 +172,11 @@
     "https://www.facebook.com/share/v/1F4wSz7Fqo/",
     "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
     "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
-    "https://habr.com/ru/articles/1103460/"
+    "https://habr.com/ru/articles/1103460/",
+    "https://www.facebook.com/share/r/1J1RAhAG8v/",
+    "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-17T21:44:55+00:00",
-      "topic": "Задача #73: CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_camp",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://univerus.ai/lp/dohodnye-sajty/start?gcpc=e5a65&utm_source=youtube.in-stream&utm_medium=dohodnye-sajty&utm_campaign=uniai_2026&utm_co | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Доходные сайты с платной подпиской — бесплатный онлайн-курс — Универус** (`https://univerus.ai/lp/dohodnye-sa",
-      "source": "issue #73"
-    },
-    {
-      "at": "2026-11-16T02:25:36+00:00",
-      "topic": "Задача #74: CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html learn | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Браузер, но не для людей: Cloudflare открыла исходный код Kitesurf — браузера для ИИ-агентов** (`https://www.i",
-      "source": "issue #74"
-    },
-    {
-      "at": "2026-11-17T21:42:57+00:00",
-      "topic": "Задача #75: CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис",
-      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl study and implement it to our favor. | PROJ: Входящие_Офис\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Paid AI Tools That You Can Replace for Free #ai #subscription #tech - YouTube** (`https://youtube.com/shorts/RVXro2c7tyE?is=9OEq41oDsBNftSjl`)\n  > YouTube",
-      "source": "issue #75"
-    },
-    {
-      "at": "2026-11-16T06:34:24+00:00",
-      "topic": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ== learn each repo",
-      "insight": "Изучено (Проект: Позновалка): «Instagram». Ключевое: 5,035 likes, 46 comments - aitechorigin on September 27, 2026: \"GitHub has way more than code storage. These 9 repos can replace paid tools, improve AI workflows, and save a lot of time. 1. Open Notebook — Turns PDFs, videos, websites, and notes into a private AI research assistant you can run locally. 2. No AI Slop — ",
-      "source": "https://www.instagram.com/p/Ddz7l-Ajt7H/?img_index=10&exln=MXYzcmhya2xreGRkNQ=="
-    },
-    {
-      "at": "2026-11-16T16:26:53+00:00",
-      "topic": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_mediu",
-      "insight": "Изучено (Проект: Learn & Implement): «8 Embedded AI Agent Use Cases for SaaS: Free Ebook | ThoughtSpot». Ключевое: Download the free ebook with 8 real-world embedded AI agent use cases—from premium pricing tiers to partner portals—to unlock new SaaS revenue.",
-      "source": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&"
-    },
     {
       "at": "2026-11-17T21:41:10+00:00",
       "topic": "Задача #76: CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис",
@@ -702,6 +675,18 @@
       "project": "Unity Inc",
       "issue": 114,
       "summary": "По статьям Habr #1103460 и #1111936 собран пакет HABR_UNBREAKABLE_VPN_2026: RU-каскад + Nginx stream :443 + self-steal :8443 + VLESS/REALITY/XHTTP (fingerprint=firefox, IPOnDemand, sniffing) + разделение IP входа/выхода (sendThrough/WARP->blackhole) + diagnose_vpn_2026.sh."
+    },
+    {
+      "at": "2026-11-26T03:29:02+00:00",
+      "topic": "Задача #117: CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Facebook** (`https://www.facebook.com/share/r/1J1RAhAG8v/`)\n  > Search these 5 sites only alone at night #hackwithantonio\n  *Контекст страницы:* Facebook...\n\n**Прикладной план и внедрение (Argon ↔ Car",
+      "source": "issue #117"
+    },
+    {
+      "at": "2026-11-26T03:29:04+00:00",
+      "topic": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h изучи и примени инструменты и создай план для",
+      "insight": "Изучено (Проект: Позновалка): «- YouTube». Ключевое: YouTube видео/Short: «The EASIEST AI Side Hustle To Start Today (Copy This)» · Канал: The Diary Of A CEO Clips (https://www.youtube.com/@TheDiaryOfACEOClips) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "source": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h"
     }
   ],
   "projects": {
@@ -857,20 +842,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-15T07:50:05+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://getstarted.tiktok.com/grow-your-business-gb?lang=en&creative=Vertical-Q3-Healthcare&attr_source=google&attr_medium=pmax-ad&attr_campaign_id=24132963734&funnel=Prospecting",
-      "summary": "Изучен материал (structured-cloud-analyzer): TikTok Grow Your Business (Vertical-Q3-Healthcare + Google PMax Prospecting Funnel)"
-    },
-    {
-      "at": "2026-11-15T15:16:42+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
-      "summary": "Изучен материал (structured-cloud-analyzer): Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)"
-    },
     {
       "at": "2026-11-15T18:09:52+00:00",
       "kind": "cloud_task_executed",
@@ -1416,6 +1387,20 @@
       "issue": null,
       "url": "https://habr.com/ru/articles/1103460/",
       "summary": "Изучен материал (structured-cloud-analyzer): Внимательно изучи две эти статьи и по их примеру настрой непробиваемый рабочий vpn\nhttps://habr.com/ru/articles/1103460/\nhttps://habr.com/ru"
+    },
+    {
+      "at": "2026-11-26T03:29:02+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 117,
+      "url": null,
+      "summary": "#117 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб"
+    },
+    {
+      "at": "2026-11-26T03:29:04+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h",
+      "summary": "Изучен материал (structured-cloud-analyzer): https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h изучи и примени инструменты и создай план для "
     }
   ],
   "failed_urls": {
