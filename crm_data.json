@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:59:03.746576Z",
+  "updated_at": "2026-11-26T14:04:04.244350Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1665,6 +1665,15 @@
       "source_url": "https://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@github.com/.insteadof",
       "summary": "### 🎯 Analysis of Your Request (Issue #124)\n\nYour terminal output confirms that the global Git credential rewriting rule has been successfully applied:\n\n```bash\nurl.https://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@github.com/.insteadof https://github.com/\n```\n\n### 🔍 Technical Status & Context Check\n1. **GitHub Auth via Personal Access Token (PAT):** \n   - Your local Git environment is now configured to automatically intercept any requests to `https://github.com/` and transparently inject your Personal Access Token (`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`) into the URL.\n   - This successfull",
       "updated_at": "2026-11-26T13:59:02.532010Z"
+    },
+    {
+      "id": "kb-bot-125",
+      "issue": 125,
+      "category": "Проект: Главный Штаб",
+      "title": "https://www.facebook.com/share/v/1C2KGFxLE1/",
+      "source_url": "https://www.facebook.com/share/v/1C2KGFxLE1/",
+      "summary": "Tim here. Global Spirit Group, HQ. Task #125.\n\n### 1. Analysis of the Source (Facebook Reel)\nThe provided link is a promotional video by Domique Robinson regarding **Business Credit and Funding Strategies**. \n*   **Core Message:** Entrepreneurs often mistakenly believe they need significant personal savings to start/scale. The strategy focuses on leveraging personal/business credit profiles to access institutional capital.\n*   **Key Pillars:** Credit profile optimization, understanding bank underwriting criteria, avoiding application pitfalls, and strategic capital deployment.\n*   **Relevance ",
+      "updated_at": "2026-11-26T14:04:03.032499Z"
     }
   ],
   "global_plus_matrix": [
