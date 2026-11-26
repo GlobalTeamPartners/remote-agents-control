@@ -18979,6 +18979,51 @@
         "who": "done",
         "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
       }
+    },
+    "124": {
+      "id": 124,
+      "created": "2026-11-26 06:58:21",
+      "handoffs": [
+        {
+          "t": "2026-11-26 06:58:21",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-11-26 06:58:43",
+          "from": "intake",
+          "to": "gatekeeper",
+          "note": "Ответ проверен"
+        },
+        {
+          "t": "2026-11-26 06:58:44",
+          "from": "tg_director",
+          "to": "gatekeeper",
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+        }
+      ],
+      "evidence": {
+        "level": "studied",
+        "reason": ""
+      },
+      "title": "TIM: [Аршак] PC@DESKTOP-4EMMQFV MINGW64 ~\n$ git config --global --get-regexp url\nurl.https://ghp_9s2tJrkc5FbI6nelUPOIF6LYbBbOIM2",
+      "urls": [
+        "https://ghp_9s2tJrkc5FbI6nelUPOIF6LYbBbOIM2",
+        "https://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@github.com/.insteadof",
+        "https://github.com/"
+      ],
+      "project": "Личный Офис: @mshlomon",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-11-26 06:58:44",
+      "gh_issue": 124,
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+      }
     }
   }
 }
