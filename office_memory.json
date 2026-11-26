@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-26T19:07:56.577720Z",
-  "cycle_count": 158,
+  "updated_at": "2026-11-26T22:20:31+00:00",
+  "cycle_count": 159,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -175,16 +175,10 @@
     "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
     "https://habr.com/ru/articles/1103460/",
     "https://www.facebook.com/share/r/1J1RAhAG8v/",
-    "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q"
+    "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q",
+    "https://lnkd.in/p/g2t4XeJw"
   ],
   "learned_facts": [
-    {
-      "id": "fact-dir-v343-iss80",
-      "ts": "2026-11-18T02:15:40.919842Z",
-      "project": "Главный Штаб",
-      "issue": 80,
-      "summary": "https://youtu.be/I-lJCF2HPSA?is=V4bsXJ_nU9mi3-dg изучи и применить реа: Здравия! Тим на связи. Главный Штаб, Задача #80.\n\nПоскольку автоматический парсер выдал ошибку `fetch_failed` для YouTube-ссылки `https://youtu.be/I-lJCF2HPSA`, прямое скачивание субтитров или метаданных этого конкретного видео в моменте недоступно. *Примечание по NotebookLM: про"
-    },
     {
       "id": "fact-dir-v343-iss81",
       "ts": "2026-11-18T02:17:53.001337Z",
@@ -693,6 +687,12 @@
       "topic": "Задача #127: CMD: DIRECTOR_ДИРЕКТОР АЛЬБЕРТЫ: Выполнение шага #1 (Alberta) | PROJ: Alberta",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: DIRECTOR_ДИРЕКТОР АЛЬБЕРТЫ: Выполнение шага #1 (Alberta) | PROJ: Alberta\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COMSS AI 2.0 ",
       "source": "issue #127"
+    },
+    {
+      "at": "2026-11-26T22:20:34+00:00",
+      "topic": "Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: https://lnkd.in/p/g2t4XeJw (https://lnkd.in/p/g2t4",
+      "insight": "Изучено (Проект: Главный Штаб): «20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its money into pre-seed and seed rounds, where foun». Ключевое: 20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its money into pre-seed and seed rounds, where founders usually have no revenue yet. Each one also closed a new pre-seed or seed deal in the last 3 months, so they are writing checks right now. Fund, Country, Pa",
+      "source": "https://lnkd.in/p/g2t4XeJw"
     }
   ],
   "projects": {
@@ -848,13 +848,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-15T18:10:10+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 66,
-      "url": null,
-      "summary": "#66 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: DIRECTOR_ТИМ: Выполнение шага #1 (Главный Штаб) | PROJ: Главный Штаб"
-    },
     {
       "at": "2026-11-15T18:19:33+00:00",
       "kind": "cloud_task_executed",
@@ -1407,6 +1400,13 @@
       "issue": 127,
       "url": null,
       "summary": "#127 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: DIRECTOR_ДИРЕКТОР АЛЬБЕРТЫ: Выполнение шага #1 (Alberta) | PROJ: Alberta"
+    },
+    {
+      "at": "2026-11-26T22:20:34+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://lnkd.in/p/g2t4XeJw",
+      "summary": "Изучен материал (structured-cloud-analyzer): Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: https://lnkd.in/p/g2t4XeJw (https://lnkd.in/p/g2t4"
     }
   ],
   "failed_urls": {
