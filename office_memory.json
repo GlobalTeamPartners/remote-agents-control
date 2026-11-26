@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-26T05:22:44+00:00",
+  "updated_at": "2026-11-26T05:22:30.738859Z",
   "cycle_count": 148,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -686,6 +686,13 @@
       "topic": "Задача #117: CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Facebook** (`https://www.facebook.com/share/r/1J1RAhAG8v/`)\n  > Search these 5 sites only alone at night #hackwithantonio\n  *Контекст страницы:* Facebook...\n\n**Прикладной план и внедрение (Argon ↔ Car",
       "source": "issue #117"
+    },
+    {
+      "id": "fact-dir-v343-iss118",
+      "ts": "2026-11-26T05:22:29.096937Z",
+      "project": "Главный Штаб",
+      "issue": 118,
+      "summary": "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8: ### Tim here. Global Spirit Group, HQ. Task #118.\n\n### Analysis of the Source\nThe user provided a link to **`gric.agency`** (accessed via Instagram bio traffic, equipped with UTM and FBCLID tracking parameters). \n\n* **Extracted Data from URL:**\n  *"
     }
   ],
   "projects": {
