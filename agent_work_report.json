@@ -923,5 +923,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-26T22:20:40+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 159,
+    "tasks": [],
+    "study": {
+      "title": "Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: https://lnkd.in/p/g2t4XeJw (https://lnkd.in/p/g2t4",
+      "url": "https://lnkd.in/p/g2t4XeJw",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its money into pre-seed and seed rounds, where foun». Ключевое: 20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its m"
+    }
   }
 ]
