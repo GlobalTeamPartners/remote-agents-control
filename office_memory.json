@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-26T22:59:53+00:00",
+  "updated_at": "2026-11-26T23:00:00.762271Z",
   "cycle_count": 160,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -693,6 +693,13 @@
       "topic": "Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: https://lnkd.in/p/g2t4XeJw (https://lnkd.in/p/g2t4",
       "insight": "Изучено (Проект: Главный Штаб): «20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its money into pre-seed and seed rounds, where foun». Ключевое: 20 VC funds that invest pre-revenue. No \"Show me numbers\" investors here. Every fund here puts at least half its money into pre-seed and seed rounds, where founders usually have no revenue yet. Each one also closed a new pre-seed or seed deal in the last 3 months, so they are writing checks right now. Fund, Country, Pa",
       "source": "https://lnkd.in/p/g2t4XeJw"
+    },
+    {
+      "id": "fact-dir-v343-iss128",
+      "ts": "2026-11-26T22:59:55.391709Z",
+      "project": "Alberta",
+      "issue": 128,
+      "summary": "Директор понял, что нужно создать отдельную админку для Альберты на GitHub Pages, используя ранее предоставленный API-ключ.: @MShlomoN, прошу прощения за путаницу — никаких «татьян», фокус исключительно на задачу. Разворачиваем отдельную админку для Альберты под GitHub Pages с использованием твоего API-ключа (из FastAPI-бэкенда `alyа-archetype-bot.onrender.com` / репозиториев `bmwecker/alya-admin` и `a"
     }
   ],
   "projects": {
