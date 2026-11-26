@@ -2,6 +2,19 @@
   "version": "29.0",
   "actions": [
     {
+      "id": "dirlog-1795700899908",
+      "ts": "2026-11-26T13:48:19.907276+00:00",
+      "time_local": "06:48:19",
+      "user_login": "unityspiritpartners",
+      "full_name": "Власлав (Главный Штаб)",
+      "bot_username": "Личный бот",
+      "director_name": "Тим",
+      "action_type": "nlu_follow_up_step",
+      "project": "Главный Штаб",
+      "summary": "Исполнен запрос (#122): Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: Study this photo and tell how we can set up LLC and get 500000$\n\n[Вложение сохранено в Офи",
+      "source": "telegram_bot"
+    },
+    {
       "id": "dirlog-1795700575485",
       "ts": "2026-11-26T13:42:55.485237+00:00",
       "time_local": "06:42:55",
@@ -821,5 +834,5 @@
       "source": "telegram_bot"
     }
   ],
-  "updated_at": "2026-11-26T13:42:55.485237+00:00"
+  "updated_at": "2026-11-26T13:48:19.907276+00:00"
 }
