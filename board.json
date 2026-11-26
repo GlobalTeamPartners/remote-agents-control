@@ -18646,6 +18646,42 @@
         "who": "done",
         "what": "Ответ сохранён Облаком 24/7 в GitHub Issue и crm_data.json"
       }
+    },
+    "118": {
+      "id": 118,
+      "created": "2026-11-25 22:22:36",
+      "handoffs": [
+        {
+          "t": "2026-11-25 22:22:36",
+          "from": "human",
+          "to": "intake",
+          "note": "Запрос из Виртуального Офиса"
+        },
+        {
+          "t": "2026-11-25 22:22:39",
+          "from": "tg_director",
+          "to": "gatekeeper",
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
+        }
+      ],
+      "evidence": null,
+      "title": "TIM: [Тим] https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZ",
+      "urls": [
+        "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZ",
+        "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q",
+        "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8"
+      ],
+      "project": "Главный Штаб",
+      "kind": "link",
+      "refers_to": null,
+      "owner": "gatekeeper",
+      "status": "done",
+      "updated": "2026-11-25 22:22:39",
+      "gh_issue": 118,
+      "next": {
+        "who": "done",
+        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
+      }
     }
   }
 }
