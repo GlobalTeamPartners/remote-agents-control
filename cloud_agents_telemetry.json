@@ -8,21 +8,21 @@
   "transport": "fallback",
   "llm_ready": false,
   "local_daemon_online": false,
-  "last_cycle_iso": "2026-11-26T03:29:08+00:00",
+  "last_cycle_iso": "2026-11-26T03:29:19+00:00",
   "cycle_count": 147,
-  "event": "schedule",
+  "event": "issues",
   "tasks_executed_this_cycle": 1,
-  "studied_this_cycle": true,
+  "studied_this_cycle": false,
   "memory_facts_count": 80,
-  "studied_urls_count": 102,
+  "studied_urls_count": 101,
   "failed_urls_count": 10,
   "projects_synced_count": 25,
   "eval_stats": {
     "injection_sanitized": 0,
     "promo_urls_filtered": 0,
-    "youtube_oembed_hits": 1,
+    "youtube_oembed_hits": 0,
     "rag_facts_injected": 6,
-    "llm_calls_attempted": 2,
+    "llm_calls_attempted": 1,
     "llm_live_ok": false,
     "last_llm_error": "openai/gpt-4o-mini [github_models]: Expecting value: line 1 column 1 (char 0)"
   },
@@ -30,9 +30,7 @@
   "tg_offline_fallback": {
     "polled": true,
     "updates": 1,
-    "handled": 1,
-    "created_issues": [
-      117
-    ]
+    "handled": 0,
+    "created_issues": []
   }
 }
