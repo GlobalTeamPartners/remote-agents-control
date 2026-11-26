@@ -2,6 +2,19 @@
   "version": "29.0",
   "actions": [
     {
+      "id": "dirlog-1795700575485",
+      "ts": "2026-11-26T13:42:55.485237+00:00",
+      "time_local": "06:42:55",
+      "user_login": "mshlomon",
+      "full_name": "@MShlomoN (BMWecker)",
+      "bot_username": "Личный бот",
+      "director_name": "Аршак",
+      "action_type": "nlu_notebooklm_research",
+      "project": "Татьяна tentorium.ru",
+      "summary": "Исполнен запрос (#123): git config --global url.\"https://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@github.com/\".insteadOf \"https://github.com/\"\nввёл- проверяй",
+      "source": "telegram_bot"
+    },
+    {
       "id": "dirlog-1795695666423",
       "ts": "2026-11-26T12:21:06.423910+00:00",
       "time_local": "05:21:06",
@@ -808,5 +821,5 @@
       "source": "telegram_bot"
     }
   ],
-  "updated_at": "2026-11-26T12:21:06.423910+00:00"
+  "updated_at": "2026-11-26T13:42:55.485237+00:00"
 }
