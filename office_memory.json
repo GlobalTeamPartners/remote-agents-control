@@ -1,6 +1,6 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-26T03:28:57+00:00",
+  "updated_at": "2026-11-26T03:29:07+00:00",
   "cycle_count": 147,
   "processed_triggers": [
     "issue:47:auto:6823241610",
@@ -70,7 +70,7 @@
     "issue:105:auto:7105719734",
     "issue:110:auto:7129444741",
     "issue:113:comment:open",
-    "issue:117:comment:cloud_tg_ingest"
+    "issue:117:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -173,10 +173,15 @@
     "https://www.instagram.com/reel/De2l_0uoPLx/?lqvp=d3lhZWs5anhjYzRh",
     "https://www.instagram.com/reel/DfPtwayN0bR/?dmpr=MTlnbjVhazBrYWxpMg==",
     "https://habr.com/ru/articles/1103460/",
-    "https://www.facebook.com/share/r/1J1RAhAG8v/",
-    "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h"
+    "https://www.facebook.com/share/r/1J1RAhAG8v/"
   ],
   "learned_facts": [
+    {
+      "at": "2026-11-16T16:26:53+00:00",
+      "topic": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_mediu",
+      "insight": "Изучено (Проект: Learn & Implement): «8 Embedded AI Agent Use Cases for SaaS: Free Ebook | ThoughtSpot». Ключевое: Download the free ebook with 8 real-world embedded AI agent use cases—from premium pricing tiers to partner portals—to unlock new SaaS revenue.",
+      "source": "https://go.thoughtspot.com/ebook-8-embedded-ai-agent-use-cases.html?utm_source=google&utm_medium=cpc&utm_campaign=OB_-_EMEA_-_TSE_-_Awareness_-_Demand_Gen&utm_content=197241853125&"
+    },
     {
       "at": "2026-11-17T21:41:10+00:00",
       "topic": "Задача #76: CMD: TIM: https://www.instagram.com/p/DfR88NsgI2O/?img_index=9&vrfl=MW5hb241ZGNiandjaw== | PROJ: Входящие_Офис",
@@ -677,16 +682,10 @@
       "summary": "По статьям Habr #1103460 и #1111936 собран пакет HABR_UNBREAKABLE_VPN_2026: RU-каскад + Nginx stream :443 + self-steal :8443 + VLESS/REALITY/XHTTP (fingerprint=firefox, IPOnDemand, sniffing) + разделение IP входа/выхода (sendThrough/WARP->blackhole) + diagnose_vpn_2026.sh."
     },
     {
-      "at": "2026-11-26T03:29:02+00:00",
+      "at": "2026-11-26T03:29:12+00:00",
       "topic": "Задача #117: CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Facebook** (`https://www.facebook.com/share/r/1J1RAhAG8v/`)\n  > Search these 5 sites only alone at night #hackwithantonio\n  *Контекст страницы:* Facebook...\n\n**Прикладной план и внедрение (Argon ↔ Car",
       "source": "issue #117"
-    },
-    {
-      "at": "2026-11-26T03:29:04+00:00",
-      "topic": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h изучи и примени инструменты и создай план для",
-      "insight": "Изучено (Проект: Позновалка): «- YouTube». Ключевое: YouTube видео/Short: «The EASIEST AI Side Hustle To Start Today (Copy This)» · Канал: The Diary Of A CEO Clips (https://www.youtube.com/@TheDiaryOfACEOClips) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "source": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h"
     }
   ],
   "projects": {
@@ -842,6 +841,13 @@
     }
   },
   "recent_events": [
+    {
+      "at": "2026-11-15T15:16:42+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://itscap.blog/challenge_12_it_products_in_12_months_dark_v2_google_ads",
+      "summary": "Изучен материал (structured-cloud-analyzer): Челлендж «12 IT-продуктов за 12 месяцев» (itscap.blog / @its_capitan «Короче, капитан»)"
+    },
     {
       "at": "2026-11-15T18:09:52+00:00",
       "kind": "cloud_task_executed",
@@ -1389,18 +1395,11 @@
       "summary": "Изучен материал (structured-cloud-analyzer): Внимательно изучи две эти статьи и по их примеру настрой непробиваемый рабочий vpn\nhttps://habr.com/ru/articles/1103460/\nhttps://habr.com/ru"
     },
     {
-      "at": "2026-11-26T03:29:02+00:00",
+      "at": "2026-11-26T03:29:12+00:00",
       "kind": "cloud_task_executed",
       "issue": 117,
       "url": null,
       "summary": "#117 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб"
-    },
-    {
-      "at": "2026-11-26T03:29:04+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://youtu.be/NhqSuQPPvbg?is=BolUfgmpvbs9dU-h изучи и примени инструменты и создай план для "
     }
   ],
   "failed_urls": {
