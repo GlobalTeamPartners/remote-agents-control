@@ -215,25 +215,33 @@
           "from": "gatekeeper",
           "to": "human",
           "note": "Перенесено из аудита 21.10.2026 (ретро-карточка)"
+        },
+        {
+          "t": "2026-11-26 06:42:21",
+          "from": "tg_director",
+          "to": "gatekeeper",
+          "note": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data"
         }
       ],
-      "title": "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH what is he talking about learn and tell me how we make millions of dollars as soon as possible!",
-      "project": "Позновалка",
+      "title": "TIM: [Аршак] git config --global url.\"https://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@github.com/\".insteadOf \"https://github.co",
+      "project": "Татьяна tentorium.ru",
       "kind": "link",
       "urls": [
-        "https://youtube.com/shorts/ioyg0pYqzlI?is=elCwNlqmjoy_R3BH"
+        "https://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@github.com/",
+        "https://github.co",
+        "https://github.com/"
       ],
       "evidence": {
         "level": "not_studied",
         "reason": "На Shorts `ioyg0pYqzlI` нет описания/субтитров — пришлите скриншот списка 5 идей из видео"
       },
-      "owner": "human",
-      "status": "not_studied",
+      "owner": "gatekeeper",
+      "status": "done",
       "next": {
-        "who": "human",
-        "what": "На Shorts `ioyg0pYqzlI` нет описания/субтитров — пришлите скриншот списка 5 идей из видео"
+        "who": "done",
+        "what": "Ответ сохранён в 04_База_Знаний_Синтез и crm_data.json"
       },
-      "updated": "2026-11-17 21:12:23",
+      "updated": "2026-11-26 06:42:21",
       "skills_applied": [
         "seo-audit",
         "seo-technical",
@@ -241,7 +249,9 @@
         "cro",
         "pricing"
       ],
-      "ai_solution": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #123»"
+      "ai_solution": "Нужен вход в Google в браузере ноутбука, затем «🔁 Повторить разбор #123»",
+      "refers_to": null,
+      "gh_issue": 123
     },
     "47": {
       "id": 47,
