@@ -862,5 +862,27 @@
       "transport": "fallback",
       "summary": "Изучено (Проект: Позновалка): «- YouTube». Ключевое: YouTube видео/Short: «The EASIEST AI Side Hustle To Start Today (Copy This)» · Канал: The Diary Of A CEO Clips (https://www.youtube.com/@TheDiaryOfACEOClips) | Enjoy the videos and music you love, upload original content, and share it all with friends, family, and th"
     }
+  },
+  {
+    "at": "2026-11-26T03:29:22+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 147,
+    "tasks": [
+      {
+        "issue": 117,
+        "title": "CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб",
+        "project": "Главный Штаб",
+        "actor_login": "unityspiritpartners",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "hydrogen",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Тим] https://www.facebook.com/share/r/1J1RAhAG8v/ | PROJ: Главный Штаб\n\n**Изученные источники и извлечённые факты:**\n- 🔗 **Facebook** (`https://www.facebook.com/share/r/1J1R"
+      }
+    ],
+    "study": null
   }
 ]
