@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:32:38.162183Z",
+  "updated_at": "2026-11-26T11:00:08.879805Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1620,6 +1620,15 @@
       "source_url": "",
       "summary": "Файл сохранён в Офис: 01_Необработанное/media/tg_456_photo.jpg",
       "updated_at": "2026-11-26T10:29:08.166045Z"
+    },
+    {
+      "id": "kb-bot-120",
+      "issue": 120,
+      "category": "Проект: Татьяна tentorium.ru",
+      "title": "Внимательно изучи этот репозитории на github :\nhttps://github.com/bmwecker/alya-everything\n\nВот токены, которые могут пригодиться для работы",
+      "source_url": "https://github.com/bmwecker/alya-everything",
+      "summary": "Здравия! Аршак на связи, Личный ИИ-Директор в Global Spirit Group (контур «Татьяна tentorium.ru», Issue #120).\n\n### Анализ запроса и технического состояния\n1. **Проверка ссылки на GitHub:** \n   При попытке обращения к `https://github.com получен статус **HTTP Error 404: Not Found**`. Это означает, что указанный репозиторий (`bmwecker/alya-everything`) либо является **приватным** (и у текущего окружения нет к нему доступа по умолчанию), либо был удален/переименован автором.\n2. **Использованные токены и сущности:**\n   * **GitHub Token:** `ghp_9s2t...` (получен, может быть использован для клониро",
+      "updated_at": "2026-11-26T11:00:07.306266Z"
     }
   ],
   "global_plus_matrix": [
