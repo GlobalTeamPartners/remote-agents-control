@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-27T08:21:06+00:00",
-  "cycle_count": 166,
+  "updated_at": "2026-11-27T08:21:13+00:00",
+  "cycle_count": 167,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -73,7 +73,8 @@
     "issue:117:comment:open",
     "issue:127:comment:open",
     "issue:132:comment:open",
-    "issue:133:comment:open"
+    "issue:133:comment:open",
+    "issue:134:comment:open"
   ],
   "studied_urls": [
     "https://t.me/lermontovplusbot?start=aliashirani",
@@ -181,12 +182,6 @@
     "https://lnkd.in/p/g2t4XeJw"
   ],
   "learned_facts": [
-    {
-      "at": "2026-11-18T16:12:55+00:00",
-      "topic": "Самохостинг 10 ТБ на ноутбуке: Garage S3 + ZFS вместо облака",
-      "insight": "Изучено (Инфраструктура & Сервер): «Самохостинг 10 ТБ на ноутбуке, свой сервер вместо облака, личные сайты и сисопки / Хабр». Ключевое: Домашний сервер — обычное дело в наше время. Кажется, таким никого не удивишь. Но некоторые экстремальные примеры всё-таки поражают. Вот недавно товарищ рассказал , как организовал у себя дешёвый...",
-      "source": "https://habr.com/ru/articles/1093840/"
-    },
     {
       "id": "fact-dir-v343-iss85",
       "ts": "2026-11-18T16:16:37.584943Z",
@@ -695,6 +690,12 @@
       "topic": "Задача #133: CMD: TIM: [Директор Альберты]  | PROJ: Alberta",
       "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Директор Альберты]  | PROJ: Alberta\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COMSS AI 2.0 / 12 Mini Apps) и добавьте в ко",
       "source": "issue #133"
+    },
+    {
+      "at": "2026-11-27T08:21:16+00:00",
+      "topic": "Задача #134: CMD: TIM: [Директор Альберты]  | PROJ: Alberta",
+      "insight": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Директор Альберты]  | PROJ: Alberta\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офиса (`office_memory.json`).\n2. Оцените применимость для ключевых воронок (B2B AI Voice AltaDesk / Traffic / COMSS AI 2.0 / 12 Mini Apps) и добавьте в ко",
+      "source": "issue #134"
     }
   ],
   "projects": {
@@ -850,13 +851,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-16T01:07:17+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 71,
-      "url": null,
-      "summary": "#71 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: https://toonbee.ai/g-special?campaignid=24055309917&adgroupid=201682384747&adid=831011988388&gad_source=2&gad_campaignid=24055309917 | PROJ: Входящие_Офис"
-    },
     {
       "at": "2026-11-16T02:03:51+00:00",
       "kind": "cloud_task_executed",
@@ -1409,6 +1403,13 @@
       "issue": 133,
       "url": null,
       "summary": "#133 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Директор Альберты]  | PROJ: Alberta"
+    },
+    {
+      "at": "2026-11-27T08:21:16+00:00",
+      "kind": "cloud_task_executed",
+      "issue": 134,
+      "url": null,
+      "summary": "#134 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Директор Альберты]  | PROJ: Alberta"
     }
   ],
   "failed_urls": {
