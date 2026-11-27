@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-27T02:29:10+00:00",
-  "cycle_count": 162,
+  "updated_at": "2026-11-27T04:24:22+00:00",
+  "cycle_count": 163,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -870,34 +870,6 @@
   },
   "recent_events": [
     {
-      "at": "2026-11-15T18:19:33+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 67,
-      "url": null,
-      "summary": "#67 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Use notebooklm to research a platform to start dropshiping business in 65 seconds | PROJ: Главный Штаб"
-    },
-    {
-      "at": "2026-11-15T20:28:01+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campaign=24240220289_{campaignname}&utm_term=&utm_region=nor&utm_medium=cpc&utm_source=google&utm_term=&utm_campaign=%5BNvm%5DEN-Nordics-PMax&utm_id=24240220289&hsa_acc=9242610695&hsa_cam=24240220289&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=2&gad_campaignid=24234667371",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://profitroom.com/solutions/individual-hotels/?utm_source=google&utm_medium=cpc&utm_campai"
-    },
-    {
-      "at": "2026-11-15T22:54:39+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 68,
-      "url": null,
-      "summary": "#68 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] Новая задача как использовать и подключить space bunny model to our system? | PROJ: Главный Штаб"
-    },
-    {
-      "at": "2026-11-15T23:21:25+00:00",
-      "kind": "cloud_task_executed",
-      "issue": 69,
-      "url": null,
-      "summary": "#69 (Облачный Совет Агентов 24/7 (Hydrogen) / structured-cloud-analyzer): CMD: TIM: [Тим] https://www.instagram.com/reel/DfrnIQ2Ot3O/?srtk=MWxrY21zbnRubGVrdg== | PROJ: Главный Штаб"
-    },
-    {
       "at": "2026-11-16T00:13:05+00:00",
       "kind": "cloud_study",
       "issue": null,
@@ -1428,6 +1400,34 @@
       "issue": null,
       "url": "https://lnkd.in/p/g2t4XeJw",
       "summary": "Изучен материал (structured-cloud-analyzer): Сделай бэкраунд на фоне синтаура Торонто и улучши качество фото людей на фото — контекст: https://lnkd.in/p/g2t4XeJw (https://lnkd.in/p/g2t4"
+    },
+    {
+      "at": "2026-11-27T04:24:24+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://github.com/bmwecker/alya-everything",
+      "summary": "URL недоступен: https://github.com/bmwecker/alya-everything (HTTP Error 404: Not Found)"
+    },
+    {
+      "at": "2026-11-27T04:24:24+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://github.com/bmwecker/alya-platform",
+      "summary": "URL недоступен: https://github.com/bmwecker/alya-platform (HTTP Error 404: Not Found)"
+    },
+    {
+      "at": "2026-11-27T04:24:24+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://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@github.com/",
+      "summary": "URL недоступен: https://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@github.com/ (<urlopen error [Errno -2] Name or service not known>)"
+    },
+    {
+      "at": "2026-11-27T04:24:24+00:00",
+      "kind": "study_skip",
+      "issue": null,
+      "url": "https://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@github.com/.insteadof",
+      "summary": "URL недоступен: https://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@github.com/.insteadof (<urlopen error [Errno -2] Name or service not known>)"
     }
   ],
   "failed_urls": {
@@ -1480,6 +1480,26 @@
       "retries": 1,
       "last_error": "HTTP Error 404: Not Found",
       "last_try": "2026-11-22T01:17:20+00:00"
+    },
+    "https://github.com/bmwecker/alya-everything": {
+      "retries": 1,
+      "last_error": "HTTP Error 404: Not Found",
+      "last_try": "2026-11-27T04:24:24+00:00"
+    },
+    "https://github.com/bmwecker/alya-platform": {
+      "retries": 1,
+      "last_error": "HTTP Error 404: Not Found",
+      "last_try": "2026-11-27T04:24:24+00:00"
+    },
+    "https://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@github.com/": {
+      "retries": 1,
+      "last_error": "<urlopen error [Errno -2] Name or service not known>",
+      "last_try": "2026-11-27T04:24:24+00:00"
+    },
+    "https://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@github.com/.insteadof": {
+      "retries": 1,
+      "last_error": "<urlopen error [Errno -2] Name or service not known>",
+      "last_try": "2026-11-27T04:24:24+00:00"
     }
   }
 }
