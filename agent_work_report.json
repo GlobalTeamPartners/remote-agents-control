@@ -962,5 +962,27 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-27T08:21:16+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "argon",
+    "cycle": 166,
+    "tasks": [
+      {
+        "issue": 133,
+        "title": "CMD: TIM: [Директор Альберты]  | PROJ: Alberta",
+        "project": "Alberta",
+        "actor_login": "aliashirani",
+        "persona": "Облачный Совет Агентов 24/7 (Hydrogen)",
+        "model": "structured-cloud-analyzer",
+        "tier": "argon",
+        "transport": "fallback",
+        "preview": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Директор Альберты]  | PROJ: Alberta\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офис"
+      }
+    ],
+    "study": null
   }
 ]
