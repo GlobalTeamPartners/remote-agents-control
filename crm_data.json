@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:46:41.825443Z",
+  "updated_at": "2026-11-27T16:06:28.132287Z",
   "version": "34.1",
   "knowledge_base": [
     {
@@ -1782,6 +1782,15 @@
       "source_url": "",
       "summary": "⚛️ **Antigravity 2.31 Cloud (Облачный Совет Агентов 24/7 (Hydrogen)) — структурированный разбор 24/7**\n\n**Задача:** CMD: TIM: [Директор Альберты]  | PROJ: Alberta\n\n**Прикладной план и внедрение (Argon ↔ Carbon ↔ Hydrogen):**\n1. Контекст задачи и извлечённые материалы сохранены в облачную память офис",
       "updated_at": "2026-11-27T08:21:18+00:00"
+    },
+    {
+      "id": "kb-bot-1795795586",
+      "issue": "Bot",
+      "category": "Проект: Главный Штаб",
+      "title": "Telegram вложение (Фото) от @unityspiritpartners",
+      "source_url": "",
+      "summary": "Файл сохранён в Офис: 01_Необработанное/media/tg_8278_photo.jpg\n\nРаспознано:\nНа изображении представлен скриншот поста в социальной сети (в темной теме), состоящий из текста и четырех блоков с графическими интерфейсами разработки и схем (интерфейс в стиле dark mode с цветными узлами, графиками и кодом). Внизу видна строка ввода «Reply to hendy__susilo» с иконками.\n\nТекст на изображении:\nAnthropic released 7 free GitHub resources for Claude Code:\n1. Playground — Team setups\n2. Skills — Create docs, PDFs & slides\n3. Plugins — Official extensions\n4. Launch Your Agent — Build & schedule agents\n5. ",
+      "updated_at": "2026-11-27T16:06:26.708304Z"
     }
   ],
   "global_plus_matrix": [
