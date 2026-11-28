@@ -1006,5 +1006,22 @@
       }
     ],
     "study": null
+  },
+  {
+    "at": "2026-11-28T04:15:55+00:00",
+    "source": "github_actions_cloud_24_7",
+    "version": "34.3",
+    "model_engine": "structured-cloud-analyzer (добавьте GEMINI_API_KEY в GitHub Secrets)",
+    "active_tier": "hydrogen",
+    "cycle": 173,
+    "tasks": [],
+    "study": {
+      "title": "CMD: TIM: [Тим] https://www.facebook.com/share/v/1C2KGFxLE1/ | PROJ: Главный Штаб\n\nОтправлено @unityspiritpartners через бота (Директор: Тим",
+      "url": "https://www.facebook.com/share/v/1C2KGFxLE1/",
+      "model": "structured-cloud-analyzer",
+      "tier": "hydrogen",
+      "transport": "fallback",
+      "summary": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: 🚨 BEFORE YOU SAY THIS IS CAP… WATCH THE FULL VIDEO! 👀💰 Most entrepreneurs think they need thousands saved up to start or grow a business. But what if..."
+    }
   }
 ]
