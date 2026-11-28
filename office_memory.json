@@ -1,7 +1,7 @@
 {
   "version": "34.3",
-  "updated_at": "2026-11-28T03:48:16.275074Z",
-  "cycle_count": 172,
+  "updated_at": "2026-11-28T04:15:49+00:00",
+  "cycle_count": 173,
   "processed_triggers": [
     "issue:47:auto:6823241610",
     "issue:48:auto:6823241003",
@@ -179,34 +179,10 @@
     "https://habr.com/ru/articles/1103460/",
     "https://www.facebook.com/share/r/1J1RAhAG8v/",
     "https://gric.agency/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRzdgV0mX9leHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpzoDMmkFOWOhUj96ri6xk5o9td2GS1km-9wLry-7X8ZtDHULM-XNe50dbqEH_aem_BVmkBBsZ0Ifq3_SYq12T6Q",
-    "https://lnkd.in/p/g2t4XeJw"
+    "https://lnkd.in/p/g2t4XeJw",
+    "https://www.facebook.com/share/v/1C2KGFxLE1/"
   ],
   "learned_facts": [
-    {
-      "id": "fact-dir-v343-iss85",
-      "ts": "2026-11-18T16:16:37.584943Z",
-      "project": "Главный Штаб",
-      "issue": 85,
-      "summary": "https://youtu.be/I-lJCF2HPSA?is=78ZDOQJpolH1nkL9: Tim here. Reporting for Global Spirit Group, HQ.\n\n### 1. Analysis of the Video (I-lJCF2HPSA)\nThe video \"Anthropic только что УНИЧТОЖИЛ причину ПОЛЬЗОВАТЬСЯ Claude\" discusses the shift in the LLM landscape where open-weights models (like DeepSeek) are rapidly closing the gap with "
-    },
-    {
-      "at": "2026-11-18T22:57:18+00:00",
-      "topic": "Gartner® Predicts 2026: Intelligent Applications (ThoughtSpot)",
-      "insight": "Изучено (Аналитика & Тренды 2026): «Gartner® Predicts 2026: Intelligent Applications». Ключевое: If you",
-      "source": "https://go.thoughtspot.com/analyst-report-gartner-predicts-intelligent-applications.html"
-    },
-    {
-      "at": "2026-11-19T04:00:01+00:00",
-      "topic": "Безлимитный ИИ-контент и клон без платных подписок (0 ₽/мес)",
-      "insight": "Изучено (Контент & ИИ-Аватары): «GitHub - Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — on». Ключевое: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. - Panniantong/Agent-Reach",
-      "source": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "at": "2026-11-19T12:48:53+00:00",
-      "topic": "Instagram Reel DfzPj_5NrgN — Запрос через бота (Тим)",
-      "insight": "Изучено (Проект: Главный Штаб): «Instagram». Ключевое: 2,257 likes, 488 comments - open_chain on November 16, 2026: \"Follow + type “tutor” to get it #crypto#bitcoin#xrp#memecoins\".",
-      "source": "https://www.instagram.com/reel/DfzPj_5NrgN/?lqvp=OHZuaW81NHhuZnQ3"
-    },
     {
       "at": "2026-11-19T21:09:58+00:00",
       "topic": "IT Park Uzbekistan (outsource.gov.uz) — 0% налог и 4 модели заработка",
@@ -717,6 +693,12 @@
       "project": "Traffic",
       "issue": 137,
       "summary": "Изучи все задачи которые здесь ставили и спланируй создай себе список понимания что стоит тебе делать в первую очередь: Приветствую, `@true1team`! На связи **Тим**, Личный ИИ-Директор в Global Spirit Group (Контур: *Traffic*).\n\nПроанализировав историю задач, поступавших в этот контур (включая исследования воронок вроде *ExponentialTraffic / ShortПрогрев*, разборы платформ *Syntex.ai*, *Univerus.ai"
+    },
+    {
+      "at": "2026-11-28T04:15:51+00:00",
+      "topic": "CMD: TIM: [Тим] https://www.facebook.com/share/v/1C2KGFxLE1/ | PROJ: Главный Штаб\n\nОтправлено @unityspiritpartners через бота (Директор: Тим",
+      "insight": "Изучено (Проект: Главный Штаб): «Facebook». Ключевое: 🚨 BEFORE YOU SAY THIS IS CAP… WATCH THE FULL VIDEO! 👀💰 Most entrepreneurs think they need thousands saved up to start or grow a business. But what if...",
+      "source": "https://www.facebook.com/share/v/1C2KGFxLE1/"
     }
   ],
   "projects": {
@@ -872,13 +854,6 @@
     }
   },
   "recent_events": [
-    {
-      "at": "2026-11-17T00:23:24+00:00",
-      "kind": "cloud_study",
-      "issue": null,
-      "url": "https://habr.com/ru/amp/publications/1095202/",
-      "summary": "Изучен материал (structured-cloud-analyzer): https://habr.com/ru/amp/publications/1095202/ что это за  и как сделать это нам ?"
-    },
     {
       "at": "2026-11-17T08:16:48+00:00",
       "kind": "cloud_study",
@@ -1431,6 +1406,13 @@
       "issue": null,
       "url": "https://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@github.com/.insteadof",
       "summary": "URL недоступен: https://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@github.com/.insteadof (<urlopen error [Errno -2] Name or service not known>)"
+    },
+    {
+      "at": "2026-11-28T04:15:51+00:00",
+      "kind": "cloud_study",
+      "issue": null,
+      "url": "https://www.facebook.com/share/v/1C2KGFxLE1/",
+      "summary": "Изучен материал (structured-cloud-analyzer): CMD: TIM: [Тим] https://www.facebook.com/share/v/1C2KGFxLE1/ | PROJ: Главный Штаб\n\nОтправлено @unityspiritpartners через бота (Директор: Тим"
     }
   ],
   "failed_urls": {
